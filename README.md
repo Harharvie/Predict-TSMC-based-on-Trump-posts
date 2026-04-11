@@ -143,17 +143,6 @@ python trump_code_cli.py predict   # 共識預測
 python trump_code_cli.py health    # 系統狀態
 ```
 
-## API Endpoints
-
-Base: `https://trumpcode.washinmura.jp`
-
-| Endpoint | 說明 |
-|----------|------|
-| `/api/signals` | 最新訊號 + 歷史 |
-| `/api/models` | 模型績效 |
-| `/api/dashboard` | 完整儀表板資料 |
-| `/api/recent-posts` | 最新貼文解析 |
-
 ## 開放資料
 
 | 檔案 | 說明 |
