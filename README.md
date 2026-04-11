@@ -121,7 +121,11 @@ python analysis_06_market.py
 
 # 台積電分析 (新增)
 python analysis_06_market_tsmc.py
+python3 analysis_07_signal_sequence_tsmc.py
+python3 analysis_08_backtest_tsmc.py
 python analysis_09_combo_score_tsmc.py
+python analysis_10_code_change_tsmc.py
+python analysis_11_big_moves_tsmc.py
 
 # 暴力搜尋 (~25 分鐘)
 python overnight_search.py
