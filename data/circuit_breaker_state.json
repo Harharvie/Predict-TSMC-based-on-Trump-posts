@@ -1,0 +1,72 @@
+{
+  "date": "2026-03-15",
+  "checked_at": "2026-03-15T06:57:05Z",
+  "checks": {
+    "vs_random": {
+      "check": "vs_random",
+      "total": 564,
+      "correct": 346,
+      "hit_rate": 61.3,
+      "edge_vs_random": 11.3,
+      "z_score": 5.39,
+      "statistically_significant": true,
+      "status": "✅ OK",
+      "message": "命中率 61.3% 比隨機好 11.3%（z=5.39，p<0.05）。系統有真正的預測能力。"
+    },
+    "degradation": {
+      "check": "degradation",
+      "all_hit_rate": 61.3,
+      "recent_hit_rate": 50.0,
+      "degradation": -11.3,
+      "recent_window": 14,
+      "status": "🔴 DEGRADING",
+      "message": "最近 14 筆命中率 50% 比歷史 61% 低了 11%。Trump 的模式可能已經改變。"
+    },
+    "consecutive": {
+      "check": "consecutive",
+      "consecutive_wrong": 0,
+      "inverse_hit_rate": 40.0,
+      "status": "✅ OK",
+      "message": "連錯 0 次，在正常範圍內。"
+    },
+    "failure_learning": {
+      "total_errors": 218,
+      "total_verified": 564,
+      "error_rate": 38.7,
+      "anti_indicator_models": [
+        {
+          "model": "C3_night_alert",
+          "error_rate": 62.5,
+          "total": 8,
+          "suggestion": "反著做可能命中率 62%"
+        }
+      ],
+      "bad_signal_combos": [
+        {
+          "combo": "TARIFF→SHORT",
+          "error_rate": 70.0,
+          "total": 20,
+          "suggestion": "避開這個組合，或反向操作"
+        },
+        {
+          "combo": "TARIFF+DEAL→SHORT",
+          "error_rate": 55.9,
+          "total": 34,
+          "suggestion": "避開這個組合，或反向操作"
+        },
+        {
+          "combo": "TARIFF+RELIEF→LONG",
+          "error_rate": 55.6,
+          "total": 9,
+          "suggestion": "避開這個組合，或反向操作"
+        }
+      ],
+      "philosophy": "做錯不是失敗，是排除法。我們排除了 1 個反指標模型 和 3 個無效信號組合。剩下的就是真正有效的。"
+    }
+  },
+  "should_pause": false,
+  "should_inverse": false,
+  "all_might_be_wrong": false,
+  "system_status": "🟡 DEGRADING",
+  "action": "模式可能改變，減少部位"
+}

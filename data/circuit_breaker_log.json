@@ -1,0 +1,10 @@
+[
+  {
+    "date": "2026-03-15",
+    "status": "🟡 DEGRADING",
+    "vs_random": "✅ OK",
+    "degradation": "🔴 DEGRADING",
+    "consecutive": "✅ OK",
+    "consecutive_wrong": 0
+  }
+]

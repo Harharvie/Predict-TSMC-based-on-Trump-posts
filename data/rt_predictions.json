@@ -1,0 +1,2598 @@
+[
+  {
+    "id": "rt_1773553862",
+    "created_at": "2026-03-15T05:51:02Z",
+    "post_time": "2026-03-14T13:35:27.307Z",
+    "post_preview": "Yet again, an intentionally misleading headline by the Fake News Media about the five tanker planes that were supposedly struck down at an Airport in Saudi Arabia, and of no further use. In actuality,",
+    "signals": [
+      {
+        "type": "BEARISH",
+        "confidence": 0.65,
+        "matched_keywords": [
+          "terrible"
+        ]
+      }
+    ],
+    "signal_types": [
+      "BEARISH"
+    ],
+    "predicted_direction": "DOWN",
+    "confidence": 0.65,
+    "tracked_markets": [],
+    "verify_1h": null,
+    "verify_3h": null,
+    "verify_6h": null,
+    "direction_correct_1h": null,
+    "direction_correct_3h": null,
+    "status": "EXPIRED"
+  },
+  {
+    "id": "rt_1773553862",
+    "created_at": "2026-03-15T05:51:02Z",
+    "post_time": "2026-03-14T12:08:56.971Z",
+    "post_preview": "Thank you to Johnny Jones and all of our GREAT TSA Agents who are going to work but not being paid because the Radical Left Democrats refuse to honor the deal that was approved and voted on in Congres",
+    "signals": [
+      {
+        "type": "DEAL",
+        "confidence": 0.75,
+        "matched_keywords": [
+          "deal"
+        ]
+      },
+      {
+        "type": "BEARISH",
+        "confidence": 0.75,
+        "matched_keywords": [
+          "worst"
+        ]
+      }
+    ],
+    "signal_types": [
+      "DEAL",
+      "BEARISH"
+    ],
+    "predicted_direction": "NEUTRAL",
+    "confidence": 0.3,
+    "tracked_markets": [],
+    "verify_1h": null,
+    "verify_3h": null,
+    "verify_6h": null,
+    "direction_correct_1h": null,
+    "direction_correct_3h": null,
+    "status": "EXPIRED"
+  },
+  {
+    "id": "rt_1773553862",
+    "created_at": "2026-03-15T05:51:02Z",
+    "post_time": "2026-03-14T03:53:38.890Z",
+    "post_preview": "The Fake News Media hates to report how well the United States Military has done against Iran, which is totally defeated and wants a deal - But not a deal that I would accept! Thank you for your atten",
+    "signals": [
+      {
+        "type": "DEAL",
+        "confidence": 0.65,
+        "matched_keywords": [
+          "deal"
+        ]
+      }
+    ],
+    "signal_types": [
+      "DEAL"
+    ],
+    "predicted_direction": "UP",
+    "confidence": 0.65,
+    "tracked_markets": [],
+    "verify_1h": null,
+    "verify_3h": null,
+    "verify_6h": null,
+    "direction_correct_1h": null,
+    "direction_correct_3h": null,
+    "status": "EXPIRED"
+  },
+  {
+    "id": "rt_1773553862",
+    "created_at": "2026-03-15T05:51:02Z",
+    "post_time": "2026-03-13T22:54:10.624Z",
+    "post_preview": "Moments ago, at my direction, the United States Central Command executed one of the most powerful bombing raids in the History of the Middle East, and totally obliterated every MILITARY target in Iran",
+    "signals": [
+      {
+        "type": "ACTION",
+        "confidence": 0.8,
+        "matched_keywords": [
+          "immediately",
+          "effective"
+        ]
+      }
+    ],
+    "signal_types": [
+      "ACTION"
+    ],
+    "predicted_direction": "UP",
+    "confidence": 0.8,
+    "tracked_markets": [],
+    "verify_1h": null,
+    "verify_3h": null,
+    "verify_6h": null,
+    "direction_correct_1h": null,
+    "direction_correct_3h": null,
+    "status": "EXPIRED"
+  },
+  {
+    "id": "rt_1773632751",
+    "created_at": "2026-03-16T03:45:51Z",
+    "post_time": "2026-03-16T02:30:04.645Z",
+    "post_preview": "Mark Levin, a truly Great American Patriot, is somewhat under siege by other people with far less Intellect, Capability, and Love for our Country. Mark is Tough, Strong, and Brilliant, hence the nickn",
+    "signals": [
+      {
+        "type": "DEAL",
+        "confidence": 0.65,
+        "matched_keywords": [
+          "deal"
+        ]
+      }
+    ],
+    "signal_types": [
+      "DEAL"
+    ],
+    "predicted_direction": "UP",
+    "confidence": 0.65,
+    "tracked_markets": [],
+    "pm_price_at_signal": null,
+    "pm_verify_1h": null,
+    "pm_verify_3h": null,
+    "pm_verify_6h": null,
+    "pm_correct_1h": null,
+    "pm_correct_3h": null,
+    "spy_at_signal": 662.29,
+    "es_at_signal": 6669.0,
+    "spy_change_at_signal": -0.623,
+    "spy_verify_1h": null,
+    "spy_verify_3h": null,
+    "spy_correct_1h": null,
+    "spy_correct_3h": null,
+    "pm_vs_stock_divergence": null,
+    "divergence_detail": null,
+    "status": "EXPIRED"
+  },
+  {
+    "id": "rt_1773632751",
+    "created_at": "2026-03-16T03:45:51Z",
+    "post_time": "2026-03-15T23:48:04.619Z",
+    "post_preview": "Iran has long been known as a Master of Media Manipulation and Public Relations. They are Militarily ineffective and weak, but are really good at \"feeding\" the very appreciative Fake News Media false ",
+    "signals": [
+      {
+        "type": "RELIEF",
+        "confidence": 0.75,
+        "matched_keywords": [
+          "exception"
+        ]
+      },
+      {
+        "type": "ACTION",
+        "confidence": 0.75,
+        "matched_keywords": [
+          "effective"
+        ]
+      }
+    ],
+    "signal_types": [
+      "RELIEF",
+      "ACTION"
+    ],
+    "predicted_direction": "UP",
+    "confidence": 0.75,
+    "tracked_markets": [],
+    "pm_price_at_signal": null,
+    "pm_verify_1h": null,
+    "pm_verify_3h": null,
+    "pm_verify_6h": null,
+    "pm_correct_1h": null,
+    "pm_correct_3h": null,
+    "spy_at_signal": 662.29,
+    "es_at_signal": 6669.0,
+    "spy_change_at_signal": -0.623,
+    "spy_verify_1h": null,
+    "spy_verify_3h": null,
+    "spy_correct_1h": null,
+    "spy_correct_3h": null,
+    "pm_vs_stock_divergence": null,
+    "divergence_detail": null,
+    "status": "EXPIRED"
+  },
+  {
+    "id": "rt_1773632751",
+    "created_at": "2026-03-16T03:45:51Z",
+    "post_time": "2026-03-15T22:46:00.000Z",
+    "post_preview": "The Courts treat Republicans, and me, so unfairly, always seeming to protect those who should not be protected. They are highly politicized. Cases don’t matter, the Judge does! As an example, how is t",
+    "signals": [
+      {
+        "type": "TARIFF",
+        "confidence": 0.75,
+        "matched_keywords": [
+          "tariff"
+        ]
+      },
+      {
+        "type": "BEARISH",
+        "confidence": 0.9,
+        "matched_keywords": [
+          "disaster",
+          "terrible"
+        ]
+      }
+    ],
+    "signal_types": [
+      "TARIFF",
+      "BEARISH"
+    ],
+    "predicted_direction": "DOWN",
+    "confidence": 0.9,
+    "tracked_markets": [],
+    "pm_price_at_signal": null,
+    "pm_verify_1h": null,
+    "pm_verify_3h": null,
+    "pm_verify_6h": null,
+    "pm_correct_1h": null,
+    "pm_correct_3h": null,
+    "spy_at_signal": 662.29,
+    "es_at_signal": 6669.0,
+    "spy_change_at_signal": -0.623,
+    "spy_verify_1h": null,
+    "spy_verify_3h": null,
+    "spy_correct_1h": null,
+    "spy_correct_3h": null,
+    "pm_vs_stock_divergence": null,
+    "divergence_detail": null,
+    "status": "EXPIRED"
+  },
+  {
+    "id": "rt_1773632751",
+    "created_at": "2026-03-16T03:45:51Z",
+    "post_time": "2026-03-15T22:45:00.000Z",
+    "post_preview": "The decision that mattered most to me was TARIFFS! The Court knew where I stood, how badly I wanted this Victory for our Country, and instead decided to, potentially, give away Trillions of Dollars to",
+    "signals": [
+      {
+        "type": "TARIFF",
+        "confidence": 0.9,
+        "matched_keywords": [
+          "tariff",
+          "tariffs"
+        ]
+      }
+    ],
+    "signal_types": [
+      "TARIFF"
+    ],
+    "predicted_direction": "DOWN",
+    "confidence": 0.9,
+    "tracked_markets": [],
+    "pm_price_at_signal": null,
+    "pm_verify_1h": null,
+    "pm_verify_3h": null,
+    "pm_verify_6h": null,
+    "pm_correct_1h": null,
+    "pm_correct_3h": null,
+    "spy_at_signal": 662.29,
+    "es_at_signal": 6669.0,
+    "spy_change_at_signal": -0.623,
+    "spy_verify_1h": null,
+    "spy_verify_3h": null,
+    "spy_correct_1h": null,
+    "spy_correct_3h": null,
+    "pm_vs_stock_divergence": null,
+    "divergence_detail": null,
+    "status": "EXPIRED"
+  },
+  {
+    "id": "rt_1773632933",
+    "created_at": "2026-03-16T03:48:53Z",
+    "post_time": "2026-03-16T02:46:08.637Z",
+    "post_preview": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116236559151421767The Courts treat Republicans, and me, so unfairly, always seeming to protect those who should not be protected. They are hi",
+    "signals": [
+      {
+        "type": "TARIFF",
+        "confidence": 0.75,
+        "matched_keywords": [
+          "tariff"
+        ]
+      },
+      {
+        "type": "BEARISH",
+        "confidence": 0.9,
+        "matched_keywords": [
+          "disaster",
+          "terrible"
+        ]
+      }
+    ],
+    "signal_types": [
+      "TARIFF",
+      "BEARISH"
+    ],
+    "predicted_direction": "DOWN",
+    "confidence": 0.9,
+    "tracked_markets": [],
+    "pm_price_at_signal": null,
+    "pm_verify_1h": null,
+    "pm_verify_3h": null,
+    "pm_verify_6h": null,
+    "pm_correct_1h": null,
+    "pm_correct_3h": null,
+    "spy_at_signal": 662.29,
+    "es_at_signal": 6669.0,
+    "spy_change_at_signal": -0.623,
+    "spy_verify_1h": null,
+    "spy_verify_3h": null,
+    "spy_correct_1h": null,
+    "spy_correct_3h": null,
+    "pm_vs_stock_divergence": null,
+    "divergence_detail": null,
+    "status": "EXPIRED"
+  },
+  {
+    "id": "rt_1773632933",
+    "created_at": "2026-03-16T03:48:53Z",
+    "post_time": "2026-03-16T02:45:37.478Z",
+    "post_preview": "The decision that mattered most to me was TARIFFS! The Court knew where I stood, how badly I wanted this Victory for our Country, and instead decided to, potentially, give away Trillions of Dollars to",
+    "signals": [
+      {
+        "type": "TARIFF",
+        "confidence": 0.9,
+        "matched_keywords": [
+          "tariff",
+          "tariffs"
+        ]
+      }
+    ],
+    "signal_types": [
+      "TARIFF"
+    ],
+    "predicted_direction": "DOWN",
+    "confidence": 0.9,
+    "tracked_markets": [],
+    "pm_price_at_signal": null,
+    "pm_verify_1h": null,
+    "pm_verify_3h": null,
+    "pm_verify_6h": null,
+    "pm_correct_1h": null,
+    "pm_correct_3h": null,
+    "spy_at_signal": 662.29,
+    "es_at_signal": 6669.0,
+    "spy_change_at_signal": -0.623,
+    "spy_verify_1h": null,
+    "spy_verify_3h": null,
+    "spy_correct_1h": null,
+    "spy_correct_3h": null,
+    "pm_vs_stock_divergence": null,
+    "divergence_detail": null,
+    "status": "EXPIRED"
+  },
+  {
+    "id": "rt_1773668718",
+    "created_at": "2026-03-16T13:45:18Z",
+    "post_time": "2026-03-16T13:16:38.898Z",
+    "post_preview": "The crazed Democrats are not allowing TSA Agents to get paid. The deal was made a long time ago. They broke it in order to get money for Sanctuary Cities and illegal aliens, many of them hardened crim",
+    "signals": [
+      {
+        "type": "DEAL",
+        "confidence": 0.65,
+        "matched_keywords": [
+          "deal"
+        ]
+      }
+    ],
+    "signal_types": [
+      "DEAL"
+    ],
+    "predicted_direction": "UP",
+    "confidence": 0.65,
+    "tracked_markets": [
+      {
+        "token_id": "455706941283062355801017880406",
+        "question": "Trump announces end of military operations against Iran by March 1st?",
+        "price_at_signal": 0.0
+      },
+      {
+        "token_id": "112691699136636025197139638532",
+        "question": "Trump announces end of military operations against Iran by March 1st?",
+        "price_at_signal": 1.0
+      },
+      {
+        "token_id": "498217121642241685638993540748",
+        "question": "Trump announces end of military operations against Iran by March 2nd?",
+        "price_at_signal": 0.0
+      },
+      {
+        "token_id": "323789873922294151961812443627",
+        "question": "Trump announces end of military operations against Iran by March 2nd?",
+        "price_at_signal": 1.0
+      },
+      {
+        "token_id": "127617713601282837094220087247",
+        "question": "Trump announces end of military operations against Iran by March 7th?",
+        "price_at_signal": 0.0
+      }
+    ],
+    "pm_price_at_signal": 0.0,
+    "pm_verify_1h": null,
+    "pm_verify_3h": null,
+    "pm_verify_6h": null,
+    "pm_verify_12h": null,
+    "pm_verify_24h": null,
+    "pm_verify_48h": null,
+    "pm_correct_1h": null,
+    "pm_correct_3h": null,
+    "spy_at_signal": 669.91,
+    "es_at_signal": 6702.25,
+    "spy_change_at_signal": 1.035,
+    "spy_verify_1h": null,
+    "spy_verify_3h": null,
+    "spy_verify_12h": null,
+    "spy_verify_24h": null,
+    "spy_verify_48h": null,
+    "spy_correct_1h": null,
+    "spy_correct_3h": null,
+    "pm_vs_stock_divergence": null,
+    "divergence_detail": null,
+    "status": "EXPIRED"
+  },
+  {
+    "id": "rt_1773677187",
+    "created_at": "2026-03-16T16:06:27Z",
+    "post_time": "2026-03-16T15:57:47.583Z",
+    "post_preview": "Susie Wiles is an incredible Chief of Staff, a great person, and one of the strongest people I know but, unfortunately, she has been diagnosed with early stage breast cancer, and has decided to take o",
+    "signals": [
+      {
+        "type": "ACTION",
+        "confidence": 0.75,
+        "matched_keywords": [
+          "immediately"
+        ]
+      }
+    ],
+    "signal_types": [
+      "ACTION"
+    ],
+    "predicted_direction": "UP",
+    "confidence": 0.75,
+    "tracked_markets": [
+      {
+        "token_id": "455706941283062355801017880406",
+        "question": "Trump announces end of military operations against Iran by March 1st?",
+        "price_at_signal": 0.0
+      },
+      {
+        "token_id": "112691699136636025197139638532",
+        "question": "Trump announces end of military operations against Iran by March 1st?",
+        "price_at_signal": 1.0
+      },
+      {
+        "token_id": "498217121642241685638993540748",
+        "question": "Trump announces end of military operations against Iran by March 2nd?",
+        "price_at_signal": 0.0
+      },
+      {
+        "token_id": "323789873922294151961812443627",
+        "question": "Trump announces end of military operations against Iran by March 2nd?",
+        "price_at_signal": 1.0
+      },
+      {
+        "token_id": "127617713601282837094220087247",
+        "question": "Trump announces end of military operations against Iran by March 7th?",
+        "price_at_signal": 0.0
+      }
+    ],
+    "pm_price_at_signal": 0.0,
+    "pm_verify_1h": null,
+    "pm_verify_3h": null,
+    "pm_verify_6h": null,
+    "pm_verify_12h": null,
+    "pm_verify_24h": null,
+    "pm_verify_48h": null,
+    "pm_correct_1h": null,
+    "pm_correct_3h": null,
+    "spy_at_signal": 668.64,
+    "es_at_signal": 6756.0,
+    "spy_change_at_signal": 0.842,
+    "spy_verify_1h": null,
+    "spy_verify_3h": null,
+    "spy_verify_12h": null,
+    "spy_verify_24h": null,
+    "spy_verify_48h": null,
+    "spy_correct_1h": null,
+    "spy_correct_3h": null,
+    "pm_vs_stock_divergence": null,
+    "divergence_detail": null,
+    "status": "EXPIRED"
+  },
+  {
+    "id": "rt_1774096512",
+    "created_at": "2026-03-21T12:35:12Z",
+    "post_time": "2026-03-20T13:56:53.277Z",
+    "post_preview": "I met with Hope Scheppelman and her husband Steven, of the Radical Left State of Colorado, to discuss various opportunities to serve our Country in a different capacity than her current run for the Un",
+    "signals": [
+      {
+        "type": "THREAT",
+        "confidence": 0.65,
+        "matched_keywords": [
+          "ban"
+        ]
+      },
+      {
+        "type": "BEARISH",
+        "confidence": 0.65,
+        "matched_keywords": [
+          "disaster"
+        ]
+      }
+    ],
+    "signal_types": [
+      "THREAT",
+      "BEARISH"
+    ],
+    "predicted_direction": "DOWN",
+    "confidence": 0.65,
+    "tracked_markets": [
+      {
+        "token_id": "456013945544970901736423546303",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 0.0
+      },
+      {
+        "token_id": "102652665954921241745169157447",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 1.0
+      },
+      {
+        "token_id": "702356444324129641219178642559",
+        "question": "Will Trump visit China by March 31?",
+        "price_at_signal": 0.014
+      },
+      {
+        "token_id": "349596532702482778959985375766",
+        "question": "Will Trump visit China by March 31?",
+        "price_at_signal": 0.986
+      },
+      {
+        "token_id": "444468044968899072090277873935",
+        "question": "Will Trump visit China by April 30?",
+        "price_at_signal": 0.125
+      }
+    ],
+    "pm_price_at_signal": 0.0,
+    "pm_verify_1h": null,
+    "pm_verify_3h": null,
+    "pm_verify_6h": null,
+    "pm_verify_12h": null,
+    "pm_verify_24h": null,
+    "pm_verify_48h": null,
+    "pm_correct_1h": null,
+    "pm_correct_3h": null,
+    "spy_at_signal": 648.57,
+    "es_at_signal": 6559.0,
+    "spy_change_at_signal": -1.898,
+    "spy_verify_1h": null,
+    "spy_verify_3h": null,
+    "spy_verify_12h": null,
+    "spy_verify_24h": null,
+    "spy_verify_48h": null,
+    "spy_correct_1h": null,
+    "spy_correct_3h": null,
+    "pm_vs_stock_divergence": null,
+    "divergence_detail": null,
+    "trump_coin_at_signal": 3.35,
+    "trump_coin_24h_change": 0.18,
+    "trump_coin_verify_1h": null,
+    "trump_coin_verify_3h": null,
+    "trump_coin_verify_6h": null,
+    "status": "EXPIRED"
+  },
+  {
+    "id": "rt_1774096512",
+    "created_at": "2026-03-21T12:35:12Z",
+    "post_time": "2026-03-19T20:54:21.047Z",
+    "post_preview": "GAVIN M. WAX: Trump Quietly Set Up Future Of American Manufacturing With Stroke Of A Pen: https://dailycaller.com/2026/02/22/gavin-wax-donald-trump-supreme-court-tariffs-american-manufacturing-climate",
+    "signals": [
+      {
+        "type": "TARIFF",
+        "confidence": 0.8,
+        "matched_keywords": [
+          "tariff",
+          "tariffs"
+        ]
+      }
+    ],
+    "signal_types": [
+      "TARIFF"
+    ],
+    "predicted_direction": "DOWN",
+    "confidence": 0.8,
+    "tracked_markets": [
+      {
+        "token_id": "456013945544970901736423546303",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 0.0
+      },
+      {
+        "token_id": "102652665954921241745169157447",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 1.0
+      },
+      {
+        "token_id": "702356444324129641219178642559",
+        "question": "Will Trump visit China by March 31?",
+        "price_at_signal": 0.014
+      },
+      {
+        "token_id": "349596532702482778959985375766",
+        "question": "Will Trump visit China by March 31?",
+        "price_at_signal": 0.986
+      },
+      {
+        "token_id": "444468044968899072090277873935",
+        "question": "Will Trump visit China by April 30?",
+        "price_at_signal": 0.125
+      }
+    ],
+    "pm_price_at_signal": 0.0,
+    "pm_verify_1h": null,
+    "pm_verify_3h": null,
+    "pm_verify_6h": null,
+    "pm_verify_12h": null,
+    "pm_verify_24h": null,
+    "pm_verify_48h": null,
+    "pm_correct_1h": null,
+    "pm_correct_3h": null,
+    "spy_at_signal": 648.57,
+    "es_at_signal": 6559.0,
+    "spy_change_at_signal": -1.898,
+    "spy_verify_1h": null,
+    "spy_verify_3h": null,
+    "spy_verify_12h": null,
+    "spy_verify_24h": null,
+    "spy_verify_48h": null,
+    "spy_correct_1h": null,
+    "spy_correct_3h": null,
+    "pm_vs_stock_divergence": null,
+    "divergence_detail": null,
+    "trump_coin_at_signal": 3.35,
+    "trump_coin_24h_change": 0.18,
+    "trump_coin_verify_1h": null,
+    "trump_coin_verify_3h": null,
+    "trump_coin_verify_6h": null,
+    "status": "EXPIRED"
+  },
+  {
+    "id": "rt_1774096512",
+    "created_at": "2026-03-21T12:35:12Z",
+    "post_time": "2026-03-19T14:05:31.037Z",
+    "post_preview": "Asia-Pacific Allies Ink $56 Billion in Deals with US Companies at Tokyo Forum, Burgum Says: https://www.newsmax.com/finance/streettalk/doug-burgum/2026/03/15/id/1249564/",
+    "signals": [
+      {
+        "type": "DEAL",
+        "confidence": 0.65,
+        "matched_keywords": [
+          "deal"
+        ]
+      }
+    ],
+    "signal_types": [
+      "DEAL"
+    ],
+    "predicted_direction": "UP",
+    "confidence": 0.65,
+    "tracked_markets": [
+      {
+        "token_id": "456013945544970901736423546303",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 0.0
+      },
+      {
+        "token_id": "102652665954921241745169157447",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 1.0
+      },
+      {
+        "token_id": "702356444324129641219178642559",
+        "question": "Will Trump visit China by March 31?",
+        "price_at_signal": 0.014
+      },
+      {
+        "token_id": "349596532702482778959985375766",
+        "question": "Will Trump visit China by March 31?",
+        "price_at_signal": 0.986
+      },
+      {
+        "token_id": "444468044968899072090277873935",
+        "question": "Will Trump visit China by April 30?",
+        "price_at_signal": 0.125
+      }
+    ],
+    "pm_price_at_signal": 0.0,
+    "pm_verify_1h": null,
+    "pm_verify_3h": null,
+    "pm_verify_6h": null,
+    "pm_verify_12h": null,
+    "pm_verify_24h": null,
+    "pm_verify_48h": null,
+    "pm_correct_1h": null,
+    "pm_correct_3h": null,
+    "spy_at_signal": 648.57,
+    "es_at_signal": 6559.0,
+    "spy_change_at_signal": -1.898,
+    "spy_verify_1h": null,
+    "spy_verify_3h": null,
+    "spy_verify_12h": null,
+    "spy_verify_24h": null,
+    "spy_verify_48h": null,
+    "spy_correct_1h": null,
+    "spy_correct_3h": null,
+    "pm_vs_stock_divergence": null,
+    "divergence_detail": null,
+    "trump_coin_at_signal": 3.35,
+    "trump_coin_24h_change": 0.18,
+    "trump_coin_verify_1h": null,
+    "trump_coin_verify_3h": null,
+    "trump_coin_verify_6h": null,
+    "status": "EXPIRED"
+  },
+  {
+    "id": "rt_1774107463",
+    "created_at": "2026-03-21T15:37:43Z",
+    "post_time": "2026-03-21T15:34:09.011Z",
+    "post_preview": "If the Radical Left Democrats don't immediately sign an agreement to let our Country, in particular, our Airports, be FREE and SAFE again, I will move our brilliant and patriotic ICE Agents to the Air",
+    "signals": [
+      {
+        "type": "DEAL",
+        "confidence": 0.65,
+        "matched_keywords": [
+          "agreement"
+        ]
+      },
+      {
+        "type": "ACTION",
+        "confidence": 0.65,
+        "matched_keywords": [
+          "immediately"
+        ]
+      }
+    ],
+    "signal_types": [
+      "DEAL",
+      "ACTION"
+    ],
+    "predicted_direction": "UP",
+    "confidence": 0.65,
+    "tracked_markets": [
+      {
+        "token_id": "456013945544970901736423546303",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 0.0
+      },
+      {
+        "token_id": "102652665954921241745169157447",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 1.0
+      },
+      {
+        "token_id": "702356444324129641219178642559",
+        "question": "Will Trump visit China by March 31?",
+        "price_at_signal": 0.0125
+      },
+      {
+        "token_id": "349596532702482778959985375766",
+        "question": "Will Trump visit China by March 31?",
+        "price_at_signal": 0.9875
+      },
+      {
+        "token_id": "444468044968899072090277873935",
+        "question": "Will Trump visit China by April 30?",
+        "price_at_signal": 0.135
+      }
+    ],
+    "pm_price_at_signal": 0.0,
+    "pm_verify_1h": null,
+    "pm_verify_3h": null,
+    "pm_verify_6h": null,
+    "pm_verify_12h": null,
+    "pm_verify_24h": null,
+    "pm_verify_48h": null,
+    "pm_correct_1h": null,
+    "pm_correct_3h": null,
+    "spy_at_signal": 648.57,
+    "es_at_signal": 6559.0,
+    "spy_change_at_signal": -1.898,
+    "spy_verify_1h": null,
+    "spy_verify_3h": null,
+    "spy_verify_12h": null,
+    "spy_verify_24h": null,
+    "spy_verify_48h": null,
+    "spy_correct_1h": null,
+    "spy_correct_3h": null,
+    "pm_vs_stock_divergence": null,
+    "divergence_detail": null,
+    "trump_coin_at_signal": 3.37,
+    "trump_coin_24h_change": 1.43,
+    "trump_coin_verify_1h": null,
+    "trump_coin_verify_3h": null,
+    "trump_coin_verify_6h": null,
+    "status": "EXPIRED"
+  },
+  {
+    "id": "rt_1774107463",
+    "created_at": "2026-03-21T15:37:43Z",
+    "post_time": "2026-03-21T11:34:00.000Z",
+    "post_preview": "If the Radical Left Democrats don’t immediately sign an agreement to let our Country, in particular, our Airports, be FREE and SAFE again, I will move our brilliant and patriotic ICE Agents to the Air",
+    "signals": [
+      {
+        "type": "DEAL",
+        "confidence": 0.65,
+        "matched_keywords": [
+          "agreement"
+        ]
+      },
+      {
+        "type": "ACTION",
+        "confidence": 0.65,
+        "matched_keywords": [
+          "immediately"
+        ]
+      }
+    ],
+    "signal_types": [
+      "DEAL",
+      "ACTION"
+    ],
+    "predicted_direction": "UP",
+    "confidence": 0.65,
+    "tracked_markets": [
+      {
+        "token_id": "456013945544970901736423546303",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 0.0
+      },
+      {
+        "token_id": "102652665954921241745169157447",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 1.0
+      },
+      {
+        "token_id": "702356444324129641219178642559",
+        "question": "Will Trump visit China by March 31?",
+        "price_at_signal": 0.0125
+      },
+      {
+        "token_id": "349596532702482778959985375766",
+        "question": "Will Trump visit China by March 31?",
+        "price_at_signal": 0.9875
+      },
+      {
+        "token_id": "444468044968899072090277873935",
+        "question": "Will Trump visit China by April 30?",
+        "price_at_signal": 0.135
+      }
+    ],
+    "pm_price_at_signal": 0.0,
+    "pm_verify_1h": null,
+    "pm_verify_3h": null,
+    "pm_verify_6h": null,
+    "pm_verify_12h": null,
+    "pm_verify_24h": null,
+    "pm_verify_48h": null,
+    "pm_correct_1h": null,
+    "pm_correct_3h": null,
+    "spy_at_signal": 648.57,
+    "es_at_signal": 6559.0,
+    "spy_change_at_signal": -1.898,
+    "spy_verify_1h": null,
+    "spy_verify_3h": null,
+    "spy_verify_12h": null,
+    "spy_verify_24h": null,
+    "spy_verify_48h": null,
+    "spy_correct_1h": null,
+    "spy_correct_3h": null,
+    "pm_vs_stock_divergence": null,
+    "divergence_detail": null,
+    "trump_coin_at_signal": 3.37,
+    "trump_coin_24h_change": 1.43,
+    "trump_coin_verify_1h": null,
+    "trump_coin_verify_3h": null,
+    "trump_coin_verify_6h": null,
+    "status": "EXPIRED"
+  },
+  {
+    "id": "rt_1774354837",
+    "created_at": "2026-03-24T12:20:37Z",
+    "post_time": "2026-03-23T14:28:37.020Z",
+    "post_preview": "For years, Democrats ignored Violent and Vicious Crime of all shapes, sizes, colors, and types. Violent Criminals who should have been locked up were allowed to attack again. Democrats were also far t",
+    "signals": [
+      {
+        "type": "BEARISH",
+        "confidence": 0.65,
+        "matched_keywords": [
+          "worst"
+        ],
+        "method": "keyword"
+      }
+    ],
+    "signal_types": [
+      "BEARISH"
+    ],
+    "predicted_direction": "DOWN",
+    "confidence": 0.65,
+    "tracked_markets": [
+      {
+        "token_id": "353106829576976903401347373454",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.0055
+      },
+      {
+        "token_id": "650431362235582364068808834935",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.9945
+      },
+      {
+        "token_id": "455706941283062355801017880406",
+        "question": "Trump announces end of military operations against Iran by March 1st?",
+        "price_at_signal": 0.0
+      },
+      {
+        "token_id": "112691699136636025197139638532",
+        "question": "Trump announces end of military operations against Iran by March 1st?",
+        "price_at_signal": 1.0
+      },
+      {
+        "token_id": "498217121642241685638993540748",
+        "question": "Trump announces end of military operations against Iran by March 2nd?",
+        "price_at_signal": 0.0
+      }
+    ],
+    "pm_price_at_signal": 0.0055,
+    "pm_verify_1h": null,
+    "pm_verify_3h": null,
+    "pm_verify_6h": null,
+    "pm_verify_12h": null,
+    "pm_verify_24h": null,
+    "pm_verify_48h": null,
+    "pm_correct_1h": null,
+    "pm_correct_3h": null,
+    "spy_at_signal": 655.38,
+    "es_at_signal": 6616.0,
+    "spy_change_at_signal": -0.209,
+    "spy_verify_1h": null,
+    "spy_verify_3h": null,
+    "spy_verify_12h": null,
+    "spy_verify_24h": null,
+    "spy_verify_48h": null,
+    "spy_correct_1h": null,
+    "spy_correct_3h": null,
+    "pm_vs_stock_divergence": null,
+    "divergence_detail": null,
+    "trump_coin_at_signal": 3.26,
+    "trump_coin_24h_change": 0.15,
+    "trump_coin_verify_1h": null,
+    "trump_coin_verify_3h": null,
+    "trump_coin_verify_6h": null,
+    "status": "EXPIRED"
+  },
+  {
+    "id": "rt_1774354837",
+    "created_at": "2026-03-24T12:20:37Z",
+    "post_time": "2026-03-23T12:57:13.665Z",
+    "post_preview": "I am a BIG proponent of ICE wearing masks as they search for, and are forced to deal with, hardened criminals, many of whom were let into our Country by Sleepy Joe Biden and his wonderful \"Border Czar",
+    "signals": [
+      {
+        "type": "DEAL",
+        "confidence": 0.65,
+        "matched_keywords": [
+          "deal"
+        ],
+        "method": "keyword"
+      }
+    ],
+    "signal_types": [
+      "DEAL"
+    ],
+    "predicted_direction": "UP",
+    "confidence": 0.65,
+    "tracked_markets": [
+      {
+        "token_id": "353106829576976903401347373454",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.0055
+      },
+      {
+        "token_id": "650431362235582364068808834935",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.9945
+      },
+      {
+        "token_id": "455706941283062355801017880406",
+        "question": "Trump announces end of military operations against Iran by March 1st?",
+        "price_at_signal": 0.0
+      },
+      {
+        "token_id": "112691699136636025197139638532",
+        "question": "Trump announces end of military operations against Iran by March 1st?",
+        "price_at_signal": 1.0
+      },
+      {
+        "token_id": "498217121642241685638993540748",
+        "question": "Trump announces end of military operations against Iran by March 2nd?",
+        "price_at_signal": 0.0
+      }
+    ],
+    "pm_price_at_signal": 0.0055,
+    "pm_verify_1h": null,
+    "pm_verify_3h": null,
+    "pm_verify_6h": null,
+    "pm_verify_12h": null,
+    "pm_verify_24h": null,
+    "pm_verify_48h": null,
+    "pm_correct_1h": null,
+    "pm_correct_3h": null,
+    "spy_at_signal": 655.38,
+    "es_at_signal": 6616.0,
+    "spy_change_at_signal": -0.209,
+    "spy_verify_1h": null,
+    "spy_verify_3h": null,
+    "spy_verify_12h": null,
+    "spy_verify_24h": null,
+    "spy_verify_48h": null,
+    "spy_correct_1h": null,
+    "spy_correct_3h": null,
+    "pm_vs_stock_divergence": null,
+    "divergence_detail": null,
+    "trump_coin_at_signal": 3.26,
+    "trump_coin_24h_change": 0.15,
+    "trump_coin_verify_1h": null,
+    "trump_coin_verify_3h": null,
+    "trump_coin_verify_6h": null,
+    "status": "EXPIRED"
+  },
+  {
+    "id": "rt_1774354837",
+    "created_at": "2026-03-24T12:20:37Z",
+    "post_time": "2026-03-23T00:31:43.742Z",
+    "post_preview": "I don't think we should make any deal with the Crazy, Country Destroying, Radical Left Democrats unless, and until, they Vote with Republicans to pass \"THE SAVE AMERICA ACT.\" It is far more important ",
+    "signals": [
+      {
+        "type": "DEAL",
+        "confidence": 0.75,
+        "matched_keywords": [
+          "deal"
+        ],
+        "method": "keyword"
+      },
+      {
+        "type": "RELIEF",
+        "confidence": 0.75,
+        "matched_keywords": [
+          "exception"
+        ],
+        "method": "keyword"
+      },
+      {
+        "type": "BEARISH",
+        "confidence": 0.75,
+        "matched_keywords": [
+          "terrible"
+        ],
+        "method": "keyword"
+      }
+    ],
+    "signal_types": [
+      "DEAL",
+      "RELIEF",
+      "BEARISH"
+    ],
+    "predicted_direction": "UP",
+    "confidence": 0.75,
+    "tracked_markets": [
+      {
+        "token_id": "353106829576976903401347373454",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.0055
+      },
+      {
+        "token_id": "650431362235582364068808834935",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.9945
+      },
+      {
+        "token_id": "455706941283062355801017880406",
+        "question": "Trump announces end of military operations against Iran by March 1st?",
+        "price_at_signal": 0.0
+      },
+      {
+        "token_id": "112691699136636025197139638532",
+        "question": "Trump announces end of military operations against Iran by March 1st?",
+        "price_at_signal": 1.0
+      },
+      {
+        "token_id": "498217121642241685638993540748",
+        "question": "Trump announces end of military operations against Iran by March 2nd?",
+        "price_at_signal": 0.0
+      }
+    ],
+    "pm_price_at_signal": 0.0055,
+    "pm_verify_1h": null,
+    "pm_verify_3h": null,
+    "pm_verify_6h": null,
+    "pm_verify_12h": null,
+    "pm_verify_24h": null,
+    "pm_verify_48h": null,
+    "pm_correct_1h": null,
+    "pm_correct_3h": null,
+    "spy_at_signal": 655.38,
+    "es_at_signal": 6616.0,
+    "spy_change_at_signal": -0.209,
+    "spy_verify_1h": null,
+    "spy_verify_3h": null,
+    "spy_verify_12h": null,
+    "spy_verify_24h": null,
+    "spy_verify_48h": null,
+    "spy_correct_1h": null,
+    "spy_correct_3h": null,
+    "pm_vs_stock_divergence": null,
+    "divergence_detail": null,
+    "trump_coin_at_signal": 3.26,
+    "trump_coin_24h_change": 0.15,
+    "trump_coin_verify_1h": null,
+    "trump_coin_verify_3h": null,
+    "trump_coin_verify_6h": null,
+    "status": "EXPIRED"
+  },
+  {
+    "id": "rt_1774354837",
+    "created_at": "2026-03-24T12:20:37Z",
+    "post_time": "2026-03-22T14:40:15.568Z",
+    "post_preview": "The Democrat running in Texas, James Talarico, turns out to be a FRAUD! It showed after the Election when he beat Low IQ Candidate Jasmine Crockett (No relation to Davy Crockett!). He's got six Gender",
+    "signals": [
+      {
+        "type": "ACTION",
+        "confidence": 0.75,
+        "matched_keywords": [
+          "effective"
+        ],
+        "method": "keyword"
+      },
+      {
+        "type": "BEARISH",
+        "confidence": 0.75,
+        "matched_keywords": [
+          "worst"
+        ],
+        "method": "keyword"
+      }
+    ],
+    "signal_types": [
+      "ACTION",
+      "BEARISH"
+    ],
+    "predicted_direction": "NEUTRAL",
+    "confidence": 0.3,
+    "tracked_markets": [
+      {
+        "token_id": "353106829576976903401347373454",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.0055
+      },
+      {
+        "token_id": "650431362235582364068808834935",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.9945
+      },
+      {
+        "token_id": "455706941283062355801017880406",
+        "question": "Trump announces end of military operations against Iran by March 1st?",
+        "price_at_signal": 0.0
+      },
+      {
+        "token_id": "112691699136636025197139638532",
+        "question": "Trump announces end of military operations against Iran by March 1st?",
+        "price_at_signal": 1.0
+      },
+      {
+        "token_id": "498217121642241685638993540748",
+        "question": "Trump announces end of military operations against Iran by March 2nd?",
+        "price_at_signal": 0.0
+      }
+    ],
+    "pm_price_at_signal": 0.0055,
+    "pm_verify_1h": null,
+    "pm_verify_3h": null,
+    "pm_verify_6h": null,
+    "pm_verify_12h": null,
+    "pm_verify_24h": null,
+    "pm_verify_48h": null,
+    "pm_correct_1h": null,
+    "pm_correct_3h": null,
+    "spy_at_signal": 655.38,
+    "es_at_signal": 6616.0,
+    "spy_change_at_signal": -0.209,
+    "spy_verify_1h": null,
+    "spy_verify_3h": null,
+    "spy_verify_12h": null,
+    "spy_verify_24h": null,
+    "spy_verify_48h": null,
+    "spy_correct_1h": null,
+    "spy_correct_3h": null,
+    "pm_vs_stock_divergence": null,
+    "divergence_detail": null,
+    "trump_coin_at_signal": 3.26,
+    "trump_coin_24h_change": 0.15,
+    "trump_coin_verify_1h": null,
+    "trump_coin_verify_3h": null,
+    "trump_coin_verify_6h": null,
+    "status": "EXPIRED"
+  },
+  {
+    "id": "rt_1774381463",
+    "created_at": "2026-03-24T19:44:23Z",
+    "post_time": "2026-03-24T15:39:00.000Z",
+    "post_preview": "State Senator Randy Maxwell is a Tremendous Champion for the incredible people of Indiana’s 43rd State Senate District! As a very successful Businessman, Randy knows the America First Policies require",
+    "signals": [
+      {
+        "type": "BULLISH",
+        "confidence": 0.65,
+        "matched_keywords": [
+          "jobs"
+        ],
+        "method": "keyword"
+      }
+    ],
+    "signal_types": [
+      "BULLISH"
+    ],
+    "predicted_direction": "UP",
+    "confidence": 0.65,
+    "tracked_markets": [
+      {
+        "token_id": "353106829576976903401347373454",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.0045
+      },
+      {
+        "token_id": "650431362235582364068808834935",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.9955
+      },
+      {
+        "token_id": "456013945544970901736423546303",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 0.0
+      },
+      {
+        "token_id": "102652665954921241745169157447",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 1.0
+      },
+      {
+        "token_id": "702356444324129641219178642559",
+        "question": "Will Trump visit China by March 31?",
+        "price_at_signal": 0.0095
+      }
+    ],
+    "pm_price_at_signal": 0.0045,
+    "pm_verify_1h": null,
+    "pm_verify_3h": null,
+    "pm_verify_6h": null,
+    "pm_verify_12h": null,
+    "pm_verify_24h": null,
+    "pm_verify_48h": null,
+    "pm_correct_1h": null,
+    "pm_correct_3h": null,
+    "spy_at_signal": 653.97,
+    "es_at_signal": 6616.25,
+    "spy_change_at_signal": -0.423,
+    "spy_verify_1h": null,
+    "spy_verify_3h": null,
+    "spy_verify_12h": null,
+    "spy_verify_24h": null,
+    "spy_verify_48h": null,
+    "spy_correct_1h": null,
+    "spy_correct_3h": null,
+    "pm_vs_stock_divergence": null,
+    "divergence_detail": null,
+    "trump_coin_at_signal": 3.24,
+    "trump_coin_24h_change": -1.05,
+    "trump_coin_verify_1h": null,
+    "trump_coin_verify_3h": null,
+    "trump_coin_verify_6h": null,
+    "status": "LIVE"
+  },
+  {
+    "id": "rt_1774381463",
+    "created_at": "2026-03-24T19:44:23Z",
+    "post_time": "2026-03-24T15:37:00.000Z",
+    "post_preview": "State Senator Mike Gaskill is a MAGA Warrior who is doing a tremendous job representing Indiana’s 25th State Senate District! A Highly Successful Businessman, Mike knows the AMERICA FIRST Policies nec",
+    "signals": [
+      {
+        "type": "BULLISH",
+        "confidence": 0.65,
+        "matched_keywords": [
+          "jobs"
+        ],
+        "method": "keyword"
+      }
+    ],
+    "signal_types": [
+      "BULLISH"
+    ],
+    "predicted_direction": "UP",
+    "confidence": 0.65,
+    "tracked_markets": [
+      {
+        "token_id": "353106829576976903401347373454",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.0045
+      },
+      {
+        "token_id": "650431362235582364068808834935",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.9955
+      },
+      {
+        "token_id": "456013945544970901736423546303",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 0.0
+      },
+      {
+        "token_id": "102652665954921241745169157447",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 1.0
+      },
+      {
+        "token_id": "702356444324129641219178642559",
+        "question": "Will Trump visit China by March 31?",
+        "price_at_signal": 0.0095
+      }
+    ],
+    "pm_price_at_signal": 0.0045,
+    "pm_verify_1h": null,
+    "pm_verify_3h": null,
+    "pm_verify_6h": null,
+    "pm_verify_12h": null,
+    "pm_verify_24h": null,
+    "pm_verify_48h": null,
+    "pm_correct_1h": null,
+    "pm_correct_3h": null,
+    "spy_at_signal": 653.97,
+    "es_at_signal": 6616.25,
+    "spy_change_at_signal": -0.423,
+    "spy_verify_1h": null,
+    "spy_verify_3h": null,
+    "spy_verify_12h": null,
+    "spy_verify_24h": null,
+    "spy_verify_48h": null,
+    "spy_correct_1h": null,
+    "spy_correct_3h": null,
+    "pm_vs_stock_divergence": null,
+    "divergence_detail": null,
+    "trump_coin_at_signal": 3.24,
+    "trump_coin_24h_change": -1.05,
+    "trump_coin_verify_1h": null,
+    "trump_coin_verify_3h": null,
+    "trump_coin_verify_6h": null,
+    "status": "LIVE"
+  },
+  {
+    "id": "rt_1774381463",
+    "created_at": "2026-03-24T19:44:23Z",
+    "post_time": "2026-03-24T15:37:00.000Z",
+    "post_preview": "State Senator Ron Alting is a Strong Champion and Highly Effective Representative for the Great People of  Indiana’s 22nd State Senate District! A respected Businessman, Lafayette City Council Member,",
+    "signals": [
+      {
+        "type": "ACTION",
+        "confidence": 0.65,
+        "matched_keywords": [
+          "effective"
+        ],
+        "method": "keyword"
+      }
+    ],
+    "signal_types": [
+      "ACTION"
+    ],
+    "predicted_direction": "UP",
+    "confidence": 0.65,
+    "tracked_markets": [
+      {
+        "token_id": "353106829576976903401347373454",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.0045
+      },
+      {
+        "token_id": "650431362235582364068808834935",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.9955
+      },
+      {
+        "token_id": "456013945544970901736423546303",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 0.0
+      },
+      {
+        "token_id": "102652665954921241745169157447",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 1.0
+      },
+      {
+        "token_id": "702356444324129641219178642559",
+        "question": "Will Trump visit China by March 31?",
+        "price_at_signal": 0.0095
+      }
+    ],
+    "pm_price_at_signal": 0.0045,
+    "pm_verify_1h": null,
+    "pm_verify_3h": null,
+    "pm_verify_6h": null,
+    "pm_verify_12h": null,
+    "pm_verify_24h": null,
+    "pm_verify_48h": null,
+    "pm_correct_1h": null,
+    "pm_correct_3h": null,
+    "spy_at_signal": 653.97,
+    "es_at_signal": 6616.25,
+    "spy_change_at_signal": -0.423,
+    "spy_verify_1h": null,
+    "spy_verify_3h": null,
+    "spy_verify_12h": null,
+    "spy_verify_24h": null,
+    "spy_verify_48h": null,
+    "spy_correct_1h": null,
+    "spy_correct_3h": null,
+    "pm_vs_stock_divergence": null,
+    "divergence_detail": null,
+    "trump_coin_at_signal": 3.24,
+    "trump_coin_24h_change": -1.05,
+    "trump_coin_verify_1h": null,
+    "trump_coin_verify_3h": null,
+    "trump_coin_verify_6h": null,
+    "status": "LIVE"
+  },
+  {
+    "id": "rt_1774381463",
+    "created_at": "2026-03-24T19:44:23Z",
+    "post_time": "2026-03-24T15:36:00.000Z",
+    "post_preview": "State Senator Tyler Johnson is an America First Patriot who is doing a fantastic job representing Indiana’s 14th State Senate District! A Proven Leader, Tyler serves his Community as a Highly Respecte",
+    "signals": [
+      {
+        "type": "ACTION",
+        "confidence": 0.65,
+        "matched_keywords": [
+          "effective"
+        ],
+        "method": "keyword"
+      }
+    ],
+    "signal_types": [
+      "ACTION"
+    ],
+    "predicted_direction": "UP",
+    "confidence": 0.65,
+    "tracked_markets": [
+      {
+        "token_id": "353106829576976903401347373454",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.0045
+      },
+      {
+        "token_id": "650431362235582364068808834935",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.9955
+      },
+      {
+        "token_id": "456013945544970901736423546303",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 0.0
+      },
+      {
+        "token_id": "102652665954921241745169157447",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 1.0
+      },
+      {
+        "token_id": "702356444324129641219178642559",
+        "question": "Will Trump visit China by March 31?",
+        "price_at_signal": 0.0095
+      }
+    ],
+    "pm_price_at_signal": 0.0045,
+    "pm_verify_1h": null,
+    "pm_verify_3h": null,
+    "pm_verify_6h": null,
+    "pm_verify_12h": null,
+    "pm_verify_24h": null,
+    "pm_verify_48h": null,
+    "pm_correct_1h": null,
+    "pm_correct_3h": null,
+    "spy_at_signal": 653.97,
+    "es_at_signal": 6616.25,
+    "spy_change_at_signal": -0.423,
+    "spy_verify_1h": null,
+    "spy_verify_3h": null,
+    "spy_verify_12h": null,
+    "spy_verify_24h": null,
+    "spy_verify_48h": null,
+    "spy_correct_1h": null,
+    "spy_correct_3h": null,
+    "pm_vs_stock_divergence": null,
+    "divergence_detail": null,
+    "trump_coin_at_signal": 3.24,
+    "trump_coin_24h_change": -1.05,
+    "trump_coin_verify_1h": null,
+    "trump_coin_verify_3h": null,
+    "trump_coin_verify_6h": null,
+    "status": "LIVE"
+  },
+  {
+    "id": "rt_1774381771",
+    "created_at": "2026-03-24T19:49:31Z",
+    "post_time": "2026-03-24T15:42:00.000Z",
+    "post_preview": "State Senator Daryl Schmidt is doing a tremendous job representing the Great People of Indiana’s 48th State Senate District! A Fifth Generation Family Farmer, Daryl is a strong and effective Voice for",
+    "signals": [
+      {
+        "type": "ACTION",
+        "confidence": 0.65,
+        "matched_keywords": [
+          "effective"
+        ],
+        "method": "keyword"
+      }
+    ],
+    "signal_types": [
+      "ACTION"
+    ],
+    "predicted_direction": "UP",
+    "confidence": 0.65,
+    "tracked_markets": [
+      {
+        "token_id": "353106829576976903401347373454",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.0045
+      },
+      {
+        "token_id": "650431362235582364068808834935",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.9955
+      },
+      {
+        "token_id": "456013945544970901736423546303",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 0.0
+      },
+      {
+        "token_id": "102652665954921241745169157447",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 1.0
+      },
+      {
+        "token_id": "702356444324129641219178642559",
+        "question": "Will Trump visit China by March 31?",
+        "price_at_signal": 0.0095
+      }
+    ],
+    "pm_price_at_signal": 0.0045,
+    "pm_verify_1h": null,
+    "pm_verify_3h": null,
+    "pm_verify_6h": null,
+    "pm_verify_12h": null,
+    "pm_verify_24h": null,
+    "pm_verify_48h": null,
+    "pm_correct_1h": null,
+    "pm_correct_3h": null,
+    "spy_at_signal": 653.54,
+    "es_at_signal": 6614.0,
+    "spy_change_at_signal": -0.489,
+    "spy_verify_1h": null,
+    "spy_verify_3h": null,
+    "spy_verify_12h": null,
+    "spy_verify_24h": null,
+    "spy_verify_48h": null,
+    "spy_correct_1h": null,
+    "spy_correct_3h": null,
+    "pm_vs_stock_divergence": null,
+    "divergence_detail": null,
+    "trump_coin_at_signal": 3.24,
+    "trump_coin_24h_change": -1.13,
+    "trump_coin_verify_1h": null,
+    "trump_coin_verify_3h": null,
+    "trump_coin_verify_6h": null,
+    "status": "LIVE"
+  },
+  {
+    "id": "rt_1774382080",
+    "created_at": "2026-03-24T19:54:40Z",
+    "post_time": "2026-03-24T15:45:00.000Z",
+    "post_preview": "Bluffton City Councilman Blake Fiechter, a True America First Patriot, is running against “RINO” State Senator Travis Holdman, in Indiana’s 19th Senate District who, for whatever reason, voted against",
+    "signals": [
+      {
+        "type": "ACTION",
+        "confidence": 0.65,
+        "matched_keywords": [
+          "hereby"
+        ],
+        "method": "keyword"
+      },
+      {
+        "type": "THREAT",
+        "confidence": 0.65,
+        "matched_keywords": [
+          "ban"
+        ],
+        "method": "keyword"
+      }
+    ],
+    "signal_types": [
+      "ACTION",
+      "THREAT"
+    ],
+    "predicted_direction": "NEUTRAL",
+    "confidence": 0.3,
+    "tracked_markets": [
+      {
+        "token_id": "353106829576976903401347373454",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.0045
+      },
+      {
+        "token_id": "650431362235582364068808834935",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.9955
+      },
+      {
+        "token_id": "456013945544970901736423546303",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 0.0
+      },
+      {
+        "token_id": "102652665954921241745169157447",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 1.0
+      },
+      {
+        "token_id": "702356444324129641219178642559",
+        "question": "Will Trump visit China by March 31?",
+        "price_at_signal": 0.0095
+      }
+    ],
+    "pm_price_at_signal": 0.0045,
+    "pm_verify_1h": null,
+    "pm_verify_3h": null,
+    "pm_verify_6h": null,
+    "pm_verify_12h": null,
+    "pm_verify_24h": null,
+    "pm_verify_48h": null,
+    "pm_correct_1h": null,
+    "pm_correct_3h": null,
+    "spy_at_signal": 652.87,
+    "es_at_signal": 6613.75,
+    "spy_change_at_signal": -0.591,
+    "spy_verify_1h": null,
+    "spy_verify_3h": null,
+    "spy_verify_12h": null,
+    "spy_verify_24h": null,
+    "spy_verify_48h": null,
+    "spy_correct_1h": null,
+    "spy_correct_3h": null,
+    "pm_vs_stock_divergence": null,
+    "divergence_detail": null,
+    "trump_coin_at_signal": 3.24,
+    "trump_coin_24h_change": -1.03,
+    "trump_coin_verify_1h": null,
+    "trump_coin_verify_3h": null,
+    "trump_coin_verify_6h": null,
+    "status": "LIVE"
+  },
+  {
+    "id": "rt_1774382388",
+    "created_at": "2026-03-24T19:59:48Z",
+    "post_time": "2026-03-24T19:54:39.449Z",
+    "post_preview": "Vigo County Commissioner Brenda Wilson, a Proven America First Patriot, is running against \"No Goode\" Greg Goode (BAD FOR THE U.S.A.!) in the Republican Primary for Indiana's 38th Senate District, whi",
+    "signals": [
+      {
+        "type": "ACTION",
+        "confidence": 0.8,
+        "matched_keywords": [
+          "effective",
+          "hereby"
+        ],
+        "method": "keyword"
+      }
+    ],
+    "signal_types": [
+      "ACTION"
+    ],
+    "predicted_direction": "UP",
+    "confidence": 0.8,
+    "tracked_markets": [
+      {
+        "token_id": "353106829576976903401347373454",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.0045
+      },
+      {
+        "token_id": "650431362235582364068808834935",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.9955
+      },
+      {
+        "token_id": "456013945544970901736423546303",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 0.0
+      },
+      {
+        "token_id": "102652665954921241745169157447",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 1.0
+      },
+      {
+        "token_id": "702356444324129641219178642559",
+        "question": "Will Trump visit China by March 31?",
+        "price_at_signal": 0.0095
+      }
+    ],
+    "pm_price_at_signal": 0.0045,
+    "pm_verify_1h": null,
+    "pm_verify_3h": null,
+    "pm_verify_6h": null,
+    "pm_verify_12h": null,
+    "pm_verify_24h": null,
+    "pm_verify_48h": null,
+    "pm_correct_1h": null,
+    "pm_correct_3h": null,
+    "spy_at_signal": 653.07,
+    "es_at_signal": 6610.0,
+    "spy_change_at_signal": -0.56,
+    "spy_verify_1h": null,
+    "spy_verify_3h": null,
+    "spy_verify_12h": null,
+    "spy_verify_24h": null,
+    "spy_verify_48h": null,
+    "spy_correct_1h": null,
+    "spy_correct_3h": null,
+    "pm_vs_stock_divergence": null,
+    "divergence_detail": null,
+    "trump_coin_at_signal": 3.24,
+    "trump_coin_24h_change": -0.97,
+    "trump_coin_verify_1h": null,
+    "trump_coin_verify_3h": null,
+    "trump_coin_verify_6h": null,
+    "status": "LIVE"
+  },
+  {
+    "id": "rt_1774382388",
+    "created_at": "2026-03-24T19:59:48Z",
+    "post_time": "2026-03-24T19:53:41.392Z",
+    "post_preview": "It is my Great Honor to endorse MAGA Warrior and Fountain County GOP Chair, Paula Copenhaver, a terrific Candidate for Indiana's 23rd State Senate District (which I won by 26 points!). Paula is runnin",
+    "signals": [
+      {
+        "type": "ACTION",
+        "confidence": 0.65,
+        "matched_keywords": [
+          "effective"
+        ],
+        "method": "keyword"
+      }
+    ],
+    "signal_types": [
+      "ACTION"
+    ],
+    "predicted_direction": "UP",
+    "confidence": 0.65,
+    "tracked_markets": [
+      {
+        "token_id": "353106829576976903401347373454",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.0045
+      },
+      {
+        "token_id": "650431362235582364068808834935",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.9955
+      },
+      {
+        "token_id": "456013945544970901736423546303",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 0.0
+      },
+      {
+        "token_id": "102652665954921241745169157447",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 1.0
+      },
+      {
+        "token_id": "702356444324129641219178642559",
+        "question": "Will Trump visit China by March 31?",
+        "price_at_signal": 0.0095
+      }
+    ],
+    "pm_price_at_signal": 0.0045,
+    "pm_verify_1h": null,
+    "pm_verify_3h": null,
+    "pm_verify_6h": null,
+    "pm_verify_12h": null,
+    "pm_verify_24h": null,
+    "pm_verify_48h": null,
+    "pm_correct_1h": null,
+    "pm_correct_3h": null,
+    "spy_at_signal": 653.07,
+    "es_at_signal": 6610.0,
+    "spy_change_at_signal": -0.56,
+    "spy_verify_1h": null,
+    "spy_verify_3h": null,
+    "spy_verify_12h": null,
+    "spy_verify_24h": null,
+    "spy_verify_48h": null,
+    "spy_correct_1h": null,
+    "spy_correct_3h": null,
+    "pm_vs_stock_divergence": null,
+    "divergence_detail": null,
+    "trump_coin_at_signal": 3.24,
+    "trump_coin_24h_change": -0.97,
+    "trump_coin_verify_1h": null,
+    "trump_coin_verify_3h": null,
+    "trump_coin_verify_6h": null,
+    "status": "LIVE"
+  },
+  {
+    "id": "rt_1774382388",
+    "created_at": "2026-03-24T19:59:48Z",
+    "post_time": "2026-03-24T19:51:54.694Z",
+    "post_preview": "It is my Great Honor to endorse America First Patriot Tracey Powell, a fantastic Candidate for Indiana's 21st State Senate District (which I won by 24 points!). Tracey is running against a pathetic RI",
+    "signals": [
+      {
+        "type": "ACTION",
+        "confidence": 0.65,
+        "matched_keywords": [
+          "hereby"
+        ],
+        "method": "keyword"
+      }
+    ],
+    "signal_types": [
+      "ACTION"
+    ],
+    "predicted_direction": "UP",
+    "confidence": 0.65,
+    "tracked_markets": [
+      {
+        "token_id": "353106829576976903401347373454",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.0045
+      },
+      {
+        "token_id": "650431362235582364068808834935",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.9955
+      },
+      {
+        "token_id": "456013945544970901736423546303",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 0.0
+      },
+      {
+        "token_id": "102652665954921241745169157447",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 1.0
+      },
+      {
+        "token_id": "702356444324129641219178642559",
+        "question": "Will Trump visit China by March 31?",
+        "price_at_signal": 0.0095
+      }
+    ],
+    "pm_price_at_signal": 0.0045,
+    "pm_verify_1h": null,
+    "pm_verify_3h": null,
+    "pm_verify_6h": null,
+    "pm_verify_12h": null,
+    "pm_verify_24h": null,
+    "pm_verify_48h": null,
+    "pm_correct_1h": null,
+    "pm_correct_3h": null,
+    "spy_at_signal": 653.07,
+    "es_at_signal": 6610.0,
+    "spy_change_at_signal": -0.56,
+    "spy_verify_1h": null,
+    "spy_verify_3h": null,
+    "spy_verify_12h": null,
+    "spy_verify_24h": null,
+    "spy_verify_48h": null,
+    "spy_correct_1h": null,
+    "spy_correct_3h": null,
+    "pm_vs_stock_divergence": null,
+    "divergence_detail": null,
+    "trump_coin_at_signal": 3.24,
+    "trump_coin_24h_change": -0.97,
+    "trump_coin_verify_1h": null,
+    "trump_coin_verify_3h": null,
+    "trump_coin_verify_6h": null,
+    "status": "LIVE"
+  },
+  {
+    "id": "rt_1774382388",
+    "created_at": "2026-03-24T19:59:48Z",
+    "post_time": "2026-03-24T19:45:10.326Z",
+    "post_preview": "Bluffton City Councilman Blake Fiechter, a True America First Patriot, is running against \"RINO\" State Senator Travis Holdman, in Indiana's 19th Senate District who, for whatever reason, voted against",
+    "signals": [
+      {
+        "type": "ACTION",
+        "confidence": 0.65,
+        "matched_keywords": [
+          "hereby"
+        ],
+        "method": "keyword"
+      },
+      {
+        "type": "THREAT",
+        "confidence": 0.65,
+        "matched_keywords": [
+          "ban"
+        ],
+        "method": "keyword"
+      }
+    ],
+    "signal_types": [
+      "ACTION",
+      "THREAT"
+    ],
+    "predicted_direction": "NEUTRAL",
+    "confidence": 0.3,
+    "tracked_markets": [
+      {
+        "token_id": "353106829576976903401347373454",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.0045
+      },
+      {
+        "token_id": "650431362235582364068808834935",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.9955
+      },
+      {
+        "token_id": "456013945544970901736423546303",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 0.0
+      },
+      {
+        "token_id": "102652665954921241745169157447",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 1.0
+      },
+      {
+        "token_id": "702356444324129641219178642559",
+        "question": "Will Trump visit China by March 31?",
+        "price_at_signal": 0.0095
+      }
+    ],
+    "pm_price_at_signal": 0.0045,
+    "pm_verify_1h": null,
+    "pm_verify_3h": null,
+    "pm_verify_6h": null,
+    "pm_verify_12h": null,
+    "pm_verify_24h": null,
+    "pm_verify_48h": null,
+    "pm_correct_1h": null,
+    "pm_correct_3h": null,
+    "spy_at_signal": 653.07,
+    "es_at_signal": 6610.0,
+    "spy_change_at_signal": -0.56,
+    "spy_verify_1h": null,
+    "spy_verify_3h": null,
+    "spy_verify_12h": null,
+    "spy_verify_24h": null,
+    "spy_verify_48h": null,
+    "spy_correct_1h": null,
+    "spy_correct_3h": null,
+    "pm_vs_stock_divergence": null,
+    "divergence_detail": null,
+    "trump_coin_at_signal": 3.24,
+    "trump_coin_24h_change": -0.97,
+    "trump_coin_verify_1h": null,
+    "trump_coin_verify_3h": null,
+    "trump_coin_verify_6h": null,
+    "status": "LIVE"
+  },
+  {
+    "id": "rt_1774382388",
+    "created_at": "2026-03-24T19:59:48Z",
+    "post_time": "2026-03-24T19:42:08.373Z",
+    "post_preview": "State Senator Daryl Schmidt is doing a tremendous job representing the Great People of Indiana's 48th State Senate District! A Fifth Generation Family Farmer, Daryl is a strong and effective Voice for",
+    "signals": [
+      {
+        "type": "ACTION",
+        "confidence": 0.65,
+        "matched_keywords": [
+          "effective"
+        ],
+        "method": "keyword"
+      }
+    ],
+    "signal_types": [
+      "ACTION"
+    ],
+    "predicted_direction": "UP",
+    "confidence": 0.65,
+    "tracked_markets": [
+      {
+        "token_id": "353106829576976903401347373454",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.0045
+      },
+      {
+        "token_id": "650431362235582364068808834935",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.9955
+      },
+      {
+        "token_id": "456013945544970901736423546303",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 0.0
+      },
+      {
+        "token_id": "102652665954921241745169157447",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 1.0
+      },
+      {
+        "token_id": "702356444324129641219178642559",
+        "question": "Will Trump visit China by March 31?",
+        "price_at_signal": 0.0095
+      }
+    ],
+    "pm_price_at_signal": 0.0045,
+    "pm_verify_1h": null,
+    "pm_verify_3h": null,
+    "pm_verify_6h": null,
+    "pm_verify_12h": null,
+    "pm_verify_24h": null,
+    "pm_verify_48h": null,
+    "pm_correct_1h": null,
+    "pm_correct_3h": null,
+    "spy_at_signal": 653.07,
+    "es_at_signal": 6610.0,
+    "spy_change_at_signal": -0.56,
+    "spy_verify_1h": null,
+    "spy_verify_3h": null,
+    "spy_verify_12h": null,
+    "spy_verify_24h": null,
+    "spy_verify_48h": null,
+    "spy_correct_1h": null,
+    "spy_correct_3h": null,
+    "pm_vs_stock_divergence": null,
+    "divergence_detail": null,
+    "trump_coin_at_signal": 3.24,
+    "trump_coin_24h_change": -0.97,
+    "trump_coin_verify_1h": null,
+    "trump_coin_verify_3h": null,
+    "trump_coin_verify_6h": null,
+    "status": "LIVE"
+  },
+  {
+    "id": "rt_1774382388",
+    "created_at": "2026-03-24T19:59:48Z",
+    "post_time": "2026-03-24T19:39:46.195Z",
+    "post_preview": "State Senator Randy Maxwell is a Tremendous Champion for the incredible people of Indiana's 43rd State Senate District! As a very successful Businessman, Randy knows the America First Policies require",
+    "signals": [
+      {
+        "type": "BULLISH",
+        "confidence": 0.65,
+        "matched_keywords": [
+          "jobs"
+        ],
+        "method": "keyword"
+      }
+    ],
+    "signal_types": [
+      "BULLISH"
+    ],
+    "predicted_direction": "UP",
+    "confidence": 0.65,
+    "tracked_markets": [
+      {
+        "token_id": "353106829576976903401347373454",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.0045
+      },
+      {
+        "token_id": "650431362235582364068808834935",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.9955
+      },
+      {
+        "token_id": "456013945544970901736423546303",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 0.0
+      },
+      {
+        "token_id": "102652665954921241745169157447",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 1.0
+      },
+      {
+        "token_id": "702356444324129641219178642559",
+        "question": "Will Trump visit China by March 31?",
+        "price_at_signal": 0.0095
+      }
+    ],
+    "pm_price_at_signal": 0.0045,
+    "pm_verify_1h": null,
+    "pm_verify_3h": null,
+    "pm_verify_6h": null,
+    "pm_verify_12h": null,
+    "pm_verify_24h": null,
+    "pm_verify_48h": null,
+    "pm_correct_1h": null,
+    "pm_correct_3h": null,
+    "spy_at_signal": 653.07,
+    "es_at_signal": 6610.0,
+    "spy_change_at_signal": -0.56,
+    "spy_verify_1h": null,
+    "spy_verify_3h": null,
+    "spy_verify_12h": null,
+    "spy_verify_24h": null,
+    "spy_verify_48h": null,
+    "spy_correct_1h": null,
+    "spy_correct_3h": null,
+    "pm_vs_stock_divergence": null,
+    "divergence_detail": null,
+    "trump_coin_at_signal": 3.24,
+    "trump_coin_24h_change": -0.97,
+    "trump_coin_verify_1h": null,
+    "trump_coin_verify_3h": null,
+    "trump_coin_verify_6h": null,
+    "status": "LIVE"
+  },
+  {
+    "id": "rt_1774382388",
+    "created_at": "2026-03-24T19:59:48Z",
+    "post_time": "2026-03-24T19:37:52.670Z",
+    "post_preview": "State Senator Mike Gaskill is a MAGA Warrior who is doing a tremendous job representing Indiana's 25th State Senate District! A Highly Successful Businessman, Mike knows the AMERICA FIRST Policies nec",
+    "signals": [
+      {
+        "type": "BULLISH",
+        "confidence": 0.65,
+        "matched_keywords": [
+          "jobs"
+        ],
+        "method": "keyword"
+      }
+    ],
+    "signal_types": [
+      "BULLISH"
+    ],
+    "predicted_direction": "UP",
+    "confidence": 0.65,
+    "tracked_markets": [
+      {
+        "token_id": "353106829576976903401347373454",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.0045
+      },
+      {
+        "token_id": "650431362235582364068808834935",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.9955
+      },
+      {
+        "token_id": "456013945544970901736423546303",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 0.0
+      },
+      {
+        "token_id": "102652665954921241745169157447",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 1.0
+      },
+      {
+        "token_id": "702356444324129641219178642559",
+        "question": "Will Trump visit China by March 31?",
+        "price_at_signal": 0.0095
+      }
+    ],
+    "pm_price_at_signal": 0.0045,
+    "pm_verify_1h": null,
+    "pm_verify_3h": null,
+    "pm_verify_6h": null,
+    "pm_verify_12h": null,
+    "pm_verify_24h": null,
+    "pm_verify_48h": null,
+    "pm_correct_1h": null,
+    "pm_correct_3h": null,
+    "spy_at_signal": 653.07,
+    "es_at_signal": 6610.0,
+    "spy_change_at_signal": -0.56,
+    "spy_verify_1h": null,
+    "spy_verify_3h": null,
+    "spy_verify_12h": null,
+    "spy_verify_24h": null,
+    "spy_verify_48h": null,
+    "spy_correct_1h": null,
+    "spy_correct_3h": null,
+    "pm_vs_stock_divergence": null,
+    "divergence_detail": null,
+    "trump_coin_at_signal": 3.24,
+    "trump_coin_24h_change": -0.97,
+    "trump_coin_verify_1h": null,
+    "trump_coin_verify_3h": null,
+    "trump_coin_verify_6h": null,
+    "status": "LIVE"
+  },
+  {
+    "id": "rt_1774382388",
+    "created_at": "2026-03-24T19:59:48Z",
+    "post_time": "2026-03-24T19:37:11.989Z",
+    "post_preview": "State Senator Ron Alting is a Strong Champion and Highly Effective Representative for the Great People of  Indiana's 22nd State Senate District! A respected Businessman, Lafayette City Council Member,",
+    "signals": [
+      {
+        "type": "ACTION",
+        "confidence": 0.65,
+        "matched_keywords": [
+          "effective"
+        ],
+        "method": "keyword"
+      }
+    ],
+    "signal_types": [
+      "ACTION"
+    ],
+    "predicted_direction": "UP",
+    "confidence": 0.65,
+    "tracked_markets": [
+      {
+        "token_id": "353106829576976903401347373454",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.0045
+      },
+      {
+        "token_id": "650431362235582364068808834935",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.9955
+      },
+      {
+        "token_id": "456013945544970901736423546303",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 0.0
+      },
+      {
+        "token_id": "102652665954921241745169157447",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 1.0
+      },
+      {
+        "token_id": "702356444324129641219178642559",
+        "question": "Will Trump visit China by March 31?",
+        "price_at_signal": 0.0095
+      }
+    ],
+    "pm_price_at_signal": 0.0045,
+    "pm_verify_1h": null,
+    "pm_verify_3h": null,
+    "pm_verify_6h": null,
+    "pm_verify_12h": null,
+    "pm_verify_24h": null,
+    "pm_verify_48h": null,
+    "pm_correct_1h": null,
+    "pm_correct_3h": null,
+    "spy_at_signal": 653.07,
+    "es_at_signal": 6610.0,
+    "spy_change_at_signal": -0.56,
+    "spy_verify_1h": null,
+    "spy_verify_3h": null,
+    "spy_verify_12h": null,
+    "spy_verify_24h": null,
+    "spy_verify_48h": null,
+    "spy_correct_1h": null,
+    "spy_correct_3h": null,
+    "pm_vs_stock_divergence": null,
+    "divergence_detail": null,
+    "trump_coin_at_signal": 3.24,
+    "trump_coin_24h_change": -0.97,
+    "trump_coin_verify_1h": null,
+    "trump_coin_verify_3h": null,
+    "trump_coin_verify_6h": null,
+    "status": "LIVE"
+  },
+  {
+    "id": "rt_1774382388",
+    "created_at": "2026-03-24T19:59:48Z",
+    "post_time": "2026-03-24T19:36:10.109Z",
+    "post_preview": "State Senator Tyler Johnson is an America First Patriot who is doing a fantastic job representing Indiana's 14th State Senate District! A Proven Leader, Tyler serves his Community as a Highly Respecte",
+    "signals": [
+      {
+        "type": "ACTION",
+        "confidence": 0.65,
+        "matched_keywords": [
+          "effective"
+        ],
+        "method": "keyword"
+      }
+    ],
+    "signal_types": [
+      "ACTION"
+    ],
+    "predicted_direction": "UP",
+    "confidence": 0.65,
+    "tracked_markets": [
+      {
+        "token_id": "353106829576976903401347373454",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.0045
+      },
+      {
+        "token_id": "650431362235582364068808834935",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.9955
+      },
+      {
+        "token_id": "456013945544970901736423546303",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 0.0
+      },
+      {
+        "token_id": "102652665954921241745169157447",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 1.0
+      },
+      {
+        "token_id": "702356444324129641219178642559",
+        "question": "Will Trump visit China by March 31?",
+        "price_at_signal": 0.0095
+      }
+    ],
+    "pm_price_at_signal": 0.0045,
+    "pm_verify_1h": null,
+    "pm_verify_3h": null,
+    "pm_verify_6h": null,
+    "pm_verify_12h": null,
+    "pm_verify_24h": null,
+    "pm_verify_48h": null,
+    "pm_correct_1h": null,
+    "pm_correct_3h": null,
+    "spy_at_signal": 653.07,
+    "es_at_signal": 6610.0,
+    "spy_change_at_signal": -0.56,
+    "spy_verify_1h": null,
+    "spy_verify_3h": null,
+    "spy_verify_12h": null,
+    "spy_verify_24h": null,
+    "spy_verify_48h": null,
+    "spy_correct_1h": null,
+    "spy_correct_3h": null,
+    "pm_vs_stock_divergence": null,
+    "divergence_detail": null,
+    "trump_coin_at_signal": 3.24,
+    "trump_coin_24h_change": -0.97,
+    "trump_coin_verify_1h": null,
+    "trump_coin_verify_3h": null,
+    "trump_coin_verify_6h": null,
+    "status": "LIVE"
+  },
+  {
+    "id": "rt_1774383310",
+    "created_at": "2026-03-24T20:15:10Z",
+    "post_time": "2026-03-24T19:55:50.822Z",
+    "post_preview": "It is my Great Honor to endorse State Representative Michelle Davis, a REAL Republican running for Indiana's 41st State Senate District (which I won by 33 points!), against RINO incumbent Greg Walker!",
+    "signals": [
+      {
+        "type": "ACTION",
+        "confidence": 0.65,
+        "matched_keywords": [
+          "hereby"
+        ],
+        "method": "keyword"
+      }
+    ],
+    "signal_types": [
+      "ACTION"
+    ],
+    "predicted_direction": "UP",
+    "confidence": 0.65,
+    "tracked_markets": [
+      {
+        "token_id": "353106829576976903401347373454",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.0045
+      },
+      {
+        "token_id": "650431362235582364068808834935",
+        "question": "Trump out as President by March 31?",
+        "price_at_signal": 0.9955
+      },
+      {
+        "token_id": "456013945544970901736423546303",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 0.0
+      },
+      {
+        "token_id": "102652665954921241745169157447",
+        "question": "Will Trump visit China by October 31?",
+        "price_at_signal": 1.0
+      },
+      {
+        "token_id": "702356444324129641219178642559",
+        "question": "Will Trump visit China by March 31?",
+        "price_at_signal": 0.0095
+      }
+    ],
+    "pm_price_at_signal": 0.0045,
+    "pm_verify_1h": null,
+    "pm_verify_3h": null,
+    "pm_verify_6h": null,
+    "pm_verify_12h": null,
+    "pm_verify_24h": null,
+    "pm_verify_48h": null,
+    "pm_correct_1h": null,
+    "pm_correct_3h": null,
+    "spy_at_signal": 653.18,
+    "es_at_signal": 6608.75,
+    "spy_change_at_signal": -0.544,
+    "spy_verify_1h": null,
+    "spy_verify_3h": null,
+    "spy_verify_12h": null,
+    "spy_verify_24h": null,
+    "spy_verify_48h": null,
+    "spy_correct_1h": null,
+    "spy_correct_3h": null,
+    "pm_vs_stock_divergence": null,
+    "divergence_detail": null,
+    "trump_coin_at_signal": 3.25,
+    "trump_coin_24h_change": -0.9,
+    "trump_coin_verify_1h": null,
+    "trump_coin_verify_3h": null,
+    "trump_coin_verify_6h": null,
+    "status": "LIVE"
+  },
+  {
+    "id": "rt_1774443937",
+    "created_at": "2026-03-25T13:05:37Z",
+    "post_time": "2026-03-25T03:47:08.290Z",
+    "post_preview": "Terrible!https://x.com/jamesokeefeiii/status/2036527947255788007?s=46",
+    "signals": [
+      {
+        "type": "BEARISH",
+        "confidence": 0.65,
+        "matched_keywords": [
+          "terrible"
+        ],
+        "method": "keyword"
+      }
+    ],
+    "signal_types": [
+      "BEARISH"
+    ],
+    "predicted_direction": "DOWN",
+    "confidence": 0.65,
+    "tracked_markets": [
+      {
+        "token_id": "455706941283062355801017880406",
+        "question": "Trump announces end of military operations against Iran by March 1st?",
+        "price_at_signal": 0.0
+      },
+      {
+        "token_id": "112691699136636025197139638532",
+        "question": "Trump announces end of military operations against Iran by March 1st?",
+        "price_at_signal": 1.0
+      },
+      {
+        "token_id": "498217121642241685638993540748",
+        "question": "Trump announces end of military operations against Iran by March 2nd?",
+        "price_at_signal": 0.0
+      },
+      {
+        "token_id": "323789873922294151961812443627",
+        "question": "Trump announces end of military operations against Iran by March 2nd?",
+        "price_at_signal": 1.0
+      },
+      {
+        "token_id": "127617713601282837094220087247",
+        "question": "Trump announces end of military operations against Iran by March 7th?",
+        "price_at_signal": 0.0
+      }
+    ],
+    "pm_price_at_signal": 0.0,
+    "pm_verify_1h": null,
+    "pm_verify_3h": null,
+    "pm_verify_6h": null,
+    "pm_verify_12h": null,
+    "pm_verify_24h": null,
+    "pm_verify_48h": null,
+    "pm_correct_1h": null,
+    "pm_correct_3h": null,
+    "spy_at_signal": 653.18,
+    "es_at_signal": 6661.25,
+    "spy_change_at_signal": -0.674,
+    "spy_verify_1h": null,
+    "spy_verify_3h": null,
+    "spy_verify_12h": null,
+    "spy_verify_24h": null,
+    "spy_verify_48h": null,
+    "spy_correct_1h": null,
+    "spy_correct_3h": null,
+    "pm_vs_stock_divergence": null,
+    "divergence_detail": null,
+    "trump_coin_at_signal": 3.36,
+    "trump_coin_24h_change": 2.53,
+    "trump_coin_verify_1h": null,
+    "trump_coin_verify_3h": null,
+    "trump_coin_verify_6h": null,
+    "status": "LIVE"
+  },
+  {
+    "id": "rt_1774443937",
+    "created_at": "2026-03-25T13:05:37Z",
+    "post_time": "2026-03-24T23:19:40.138Z",
+    "post_preview": "Highly Respected Prime Minister of Hungary, Viktor Orbán, is a truly strong and powerful Leader, with a proven track record of delivering phenomenal results. He fights tirelessly for, and loves, his G",
+    "signals": [
+      {
+        "type": "BULLISH",
+        "confidence": 0.65,
+        "matched_keywords": [
+          "jobs"
+        ],
+        "method": "keyword"
+      }
+    ],
+    "signal_types": [
+      "BULLISH"
+    ],
+    "predicted_direction": "UP",
+    "confidence": 0.65,
+    "tracked_markets": [
+      {
+        "token_id": "455706941283062355801017880406",
+        "question": "Trump announces end of military operations against Iran by March 1st?",
+        "price_at_signal": 0.0
+      },
+      {
+        "token_id": "112691699136636025197139638532",
+        "question": "Trump announces end of military operations against Iran by March 1st?",
+        "price_at_signal": 1.0
+      },
+      {
+        "token_id": "498217121642241685638993540748",
+        "question": "Trump announces end of military operations against Iran by March 2nd?",
+        "price_at_signal": 0.0
+      },
+      {
+        "token_id": "323789873922294151961812443627",
+        "question": "Trump announces end of military operations against Iran by March 2nd?",
+        "price_at_signal": 1.0
+      },
+      {
+        "token_id": "127617713601282837094220087247",
+        "question": "Trump announces end of military operations against Iran by March 7th?",
+        "price_at_signal": 0.0
+      }
+    ],
+    "pm_price_at_signal": 0.0,
+    "pm_verify_1h": null,
+    "pm_verify_3h": null,
+    "pm_verify_6h": null,
+    "pm_verify_12h": null,
+    "pm_verify_24h": null,
+    "pm_verify_48h": null,
+    "pm_correct_1h": null,
+    "pm_correct_3h": null,
+    "spy_at_signal": 653.18,
+    "es_at_signal": 6661.25,
+    "spy_change_at_signal": -0.674,
+    "spy_verify_1h": null,
+    "spy_verify_3h": null,
+    "spy_verify_12h": null,
+    "spy_verify_24h": null,
+    "spy_verify_48h": null,
+    "spy_correct_1h": null,
+    "spy_correct_3h": null,
+    "pm_vs_stock_divergence": null,
+    "divergence_detail": null,
+    "trump_coin_at_signal": 3.36,
+    "trump_coin_24h_change": 2.53,
+    "trump_coin_verify_1h": null,
+    "trump_coin_verify_3h": null,
+    "trump_coin_verify_6h": null,
+    "status": "LIVE"
+  }
+]

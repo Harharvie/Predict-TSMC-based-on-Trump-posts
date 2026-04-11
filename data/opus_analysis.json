@@ -1,0 +1,127 @@
+{
+  "analyzed_at": "2026-03-15T04:58:36Z",
+  "analyzed_by": "claude-opus-local",
+  "missed_signals": {
+    "finding": "3/5~3/13 期間 C1（轟炸→沉默）連錯 3 次，全部做多虧損。關鍵字引擎只看「有沒有沉默」，但沒有看沉默前的內容。如果轟炸的內容本身是負面的（攻擊、關稅威脅），沉默後市場不會反彈——它在消化壞消息。",
+    "action": "C1 需要加一個前置條件：沉默前的推文情緒必須是正面的才做多"
+  },
+  "error_analysis": [
+    {
+      "model": "C1_burst_silence",
+      "dates": [
+        "2026-03-05",
+        "2026-03-11",
+        "2026-03-13"
+      ],
+      "root_cause": "3月初 Trump 密集發文攻擊貿易夥伴，市場持續下跌。C1 看到「轟炸後沉默」就做多，但這次沉默不是「鬆口氣」而是「暴風雨前的寧靜」。模型沒有區分正面轟炸（炫耀）vs 負面轟炸（攻擊）。",
+      "fix": "加入情緒過濾：burst 期間的 attack 計數 > positive 計數時，不觸發做多"
+    },
+    {
+      "model": "A2_deal_bullish",
+      "dates": [
+        "2026-03-10",
+        "2026-03-13"
+      ],
+      "root_cause": "A2 只要看到「deal」就做多，但 3 月 Trump 用 deal 這個字是在談判威脅（we could make a deal IF they...），不是達成協議。關鍵字引擎無法區分「正在談」vs「已經談成」。",
+      "fix": "deal + signed/agreed/reached → 才是真正的 DEAL 信號。單獨的 deal 只是 DEAL_POTENTIAL"
+    }
+  ],
+  "pattern_shift_detected": true,
+  "pattern_shift_details": "2026年3月 Trump 的模式有三個變化：(1) 「Thank you for your attention」結語從正式聲明擴展到一般推文，稀釋了 D2 簽名信號的意義 (2) interest_rate 提及頻率上升，可能因為 Fed 決策在即 (3) 攻擊類推文的比例從 1 月的 15% 上升到 3 月的 25%，整體語氣偏鷹",
+  "new_rule_hypotheses": [
+    {
+      "features": [
+        "kw_interest_rate",
+        "kw_economy",
+        "excl_heavy"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "reasoning": "Trump 同時提到利率+經濟+大量驚嘆號 = 他在預期 Fed 降息或利好數據，高度自信。進化引擎已發現 interest_rate+economy 是強組合，加 excl_heavy 提高精確度",
+      "confidence": 0.8
+    },
+    {
+      "features": [
+        "kw_tariff",
+        "kw_attack",
+        "has_night"
+      ],
+      "direction": "SHORT",
+      "hold": 1,
+      "reasoning": "深夜發關稅推文+攻擊語氣 = 情緒失控，隔天開盤通常跌。C3 被淘汰是因為樣本太少，不是邏輯錯——加上 attack 限定提高精確度",
+      "confidence": 0.65
+    },
+    {
+      "features": [
+        "kw_deal",
+        "kw_signed"
+      ],
+      "direction": "LONG",
+      "hold": 1,
+      "reasoning": "只有 deal+signed 同時出現才是真的達成協議，取代 A2 的單純 deal 做多",
+      "confidence": 0.75
+    }
+  ],
+  "models_to_adjust": {
+    "eliminate": [
+      {
+        "model": "C2_brag_top",
+        "reason": "45% 命中率，60 筆交易，已經夠多數據證明它不行。「炫耀股市→到頂」的邏輯在這個市場環境不成立"
+      }
+    ],
+    "demote": [
+      {
+        "model": "A2_deal_bullish",
+        "reason": "52.2% 接近隨機，90 筆交易。需要加 signed/agreed 限定條件才能留"
+      },
+      {
+        "model": "A1_tariff_bearish",
+        "reason": "56.5% 一般，且 avg_return -0.758% 是負的。做空邏輯對但執行有問題"
+      }
+    ],
+    "boost": [
+      {
+        "model": "D2_sig_change",
+        "reason": "70% 命中率 + 80 筆交易 = 統計顯著。簽名切換確實是有意義的信號"
+      },
+      {
+        "model": "D3_volume_spike",
+        "reason": "70.2% + 連對 9 次。發文量暴增是市場恐慌的領先指標，邏輯紮實"
+      },
+      {
+        "model": "A3_relief_rocket",
+        "reason": "72.7% 最高命中率 + 1.2% 平均報酬。盤前 RELIEF 是最有價值的信號"
+      }
+    ]
+  },
+  "signal_adjustments": [
+    {
+      "signal": "DEAL",
+      "current": 0.65,
+      "suggested": 0.55,
+      "reason": "deal 這個字被濫用了，需要搭配 signed 才有效"
+    },
+    {
+      "signal": "RELIEF",
+      "current": 0.7,
+      "suggested": 0.8,
+      "reason": "A3 是最強模型，RELIEF 信號應提高信心度"
+    },
+    {
+      "signal": "THREAT",
+      "current": 0.55,
+      "suggested": 0.6,
+      "reason": "3月 Trump 攻擊性上升，THREAT 信號變得更可靠"
+    },
+    {
+      "signal": "ACTION",
+      "current": 0.776,
+      "suggested": 0.78,
+      "reason": "維持，表現穩定"
+    }
+  ],
+  "overall_system_health": "needs_attention",
+  "health_details": "C1（主力模型，176筆）最近連錯，整體拉低系統表現。A2（90筆）也在走弱。兩個最大量的模型同時表現差 = 系統需要調整。好消息：D2、D3、A3 三個模型穩定在 70%+，進化引擎產出了 46 條新規則。",
+  "priority_action": "立即修復 C1 的觸發條件——加入情緒過濾（attack > positive 時不觸發）。它是交易量最大的模型，修好它對整體命中率影響最大。",
+  "prediction_market_insight": "掃描回傳 0 個機會，可能是 Polymarket API 端點需要調整。建議：(1) 確認 Gamma API 的 tag 參數是否正確 (2) 嘗試用 search 而非 tag 搜尋 (3) 3月關稅議題是 Polymarket 上的熱門類別，應該有大量 Trump 相關市場"
+}

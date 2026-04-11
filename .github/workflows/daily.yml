@@ -1,0 +1,61 @@
+# ===================================================================
+# 每日自動化管線 — GitHub Actions
+# 每天 UTC 14:00（美東 10:00 開盤前）自動執行
+# 拉取最新資料 → 跑分析管線 → 提交結果到 data/ 目錄
+# ===================================================================
+
+name: Daily Pipeline
+
+on:
+  schedule:
+    # 每天 UTC 14:00 = 美東 10:00（開盤前）
+    - cron: '0 14 * * *'
+  workflow_dispatch:
+    # 手動觸發（除錯用）
+
+permissions:
+  contents: write
+
+jobs:
+  daily-run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      # 第一步：取出程式碼
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 第二步：設定 Python 3.11 環境
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      # 第三步：安裝相依套件
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # 第四步：執行每日管線（允許失敗，不阻塞後續步驟）
+      - name: Run daily pipeline
+        continue-on-error: true
+        run: python3 daily_pipeline.py
+        env:
+          # 從 GitHub Secrets 讀取，不硬編碼任何 API key
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          POLYMARKET_API_KEY: ${{ secrets.POLYMARKET_API_KEY }}
+          KALSHI_API_KEY: ${{ secrets.KALSHI_API_KEY }}
+
+      # 第五步：提交更新的資料檔案
+      - name: Commit and push data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          # 如果有變更才 commit（沒變更不報錯）
+          git diff --staged --quiet || git commit -m "chore: daily pipeline data update $(date -u +%Y-%m-%d)"
+          git push

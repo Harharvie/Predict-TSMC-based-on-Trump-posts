@@ -1,0 +1,477 @@
+{
+  "winners": [
+    {
+      "f": [
+        "ai_minor",
+        "personal_absent",
+        "spacex_absent"
+      ],
+      "tgt": "BIG_DOWN",
+      "tr": "4/8=50%",
+      "te": "3/3=100%",
+      "c": 75.0
+    },
+    {
+      "f": [
+        "hyper_day",
+        "product_minor",
+        "spacex_absent"
+      ],
+      "tgt": "BIG_UP",
+      "tr": "3/4=75%",
+      "te": "2/3=67%",
+      "c": 70.8
+    },
+    {
+      "f": [
+        "crypto_absent",
+        "money_minor",
+        "tesla_absent"
+      ],
+      "tgt": "BIG_DOWN",
+      "tr": "5/10=50%",
+      "te": "4/5=80%",
+      "c": 65.0
+    },
+    {
+      "f": [
+        "crypto_minor",
+        "personal_absent",
+        "product_minor"
+      ],
+      "tgt": "BIG_UP",
+      "tr": "3/5=60%",
+      "te": "2/3=67%",
+      "c": 63.3
+    },
+    {
+      "f": [
+        "hyper_day",
+        "money_absent",
+        "spacex_absent"
+      ],
+      "tgt": "BIG_UP",
+      "tr": "3/4=75%",
+      "te": "6/13=46%",
+      "c": 60.6
+    },
+    {
+      "f": [
+        "doge_minor",
+        "hyper_day",
+        "spacex_absent"
+      ],
+      "tgt": "BIG_UP",
+      "tr": "3/4=75%",
+      "te": "5/11=45%",
+      "c": 60.2
+    },
+    {
+      "f": [
+        "hyper_day",
+        "politics_absent",
+        "short_tweets"
+      ],
+      "tgt": "BIG_UP",
+      "tr": "8/15=53%",
+      "te": "4/6=67%",
+      "c": 60.0
+    },
+    {
+      "f": [
+        "doge_absent",
+        "personal_absent",
+        "politics_minor"
+      ],
+      "tgt": "BIG_DOWN",
+      "tr": "4/7=57%",
+      "te": "3/5=60%",
+      "c": 58.6
+    },
+    {
+      "f": [
+        "attack_minor",
+        "politics_absent",
+        "vol_drop_50"
+      ],
+      "tgt": "BIG_UP",
+      "tr": "2/3=67%",
+      "te": "1/2=50%",
+      "c": 58.3
+    },
+    {
+      "f": [
+        "crypto_minor",
+        "eng_drop",
+        "tesla_absent"
+      ],
+      "tgt": "BIG_UP",
+      "tr": "2/3=67%",
+      "te": "1/2=50%",
+      "c": 58.3
+    },
+    {
+      "f": [
+        "crypto_minor",
+        "personal_absent",
+        "politics_minor"
+      ],
+      "tgt": "BIG_UP",
+      "tr": "2/4=50%",
+      "te": "2/3=67%",
+      "c": 58.3
+    },
+    {
+      "f": [
+        "hyper_day",
+        "spacex_absent",
+        "tesla_minor"
+      ],
+      "tgt": "BIG_UP",
+      "tr": "2/3=67%",
+      "te": "5/10=50%",
+      "c": 58.3
+    },
+    {
+      "f": [
+        "money_minor",
+        "personal_absent",
+        "spacex_minor"
+      ],
+      "tgt": "BIG_UP",
+      "tr": "2/3=67%",
+      "te": "1/2=50%",
+      "c": 58.3
+    },
+    {
+      "f": [
+        "money_minor",
+        "product_absent",
+        "vol_drop_50"
+      ],
+      "tgt": "BIG_UP",
+      "tr": "3/5=60%",
+      "te": "1/2=50%",
+      "c": 55.0
+    },
+    {
+      "f": [
+        "crypto_minor",
+        "eng_drop",
+        "serious_day"
+      ],
+      "tgt": "BIG_DOWN",
+      "tr": "2/3=67%",
+      "te": "4/10=40%",
+      "c": 53.3
+    },
+    {
+      "f": [
+        "eng_spike",
+        "hyper_day",
+        "politics_absent"
+      ],
+      "tgt": "BIG_UP",
+      "tr": "5/9=56%",
+      "te": "1/2=50%",
+      "c": 52.8
+    },
+    {
+      "f": [
+        "attack_minor",
+        "hyper_day",
+        "politics_absent"
+      ],
+      "tgt": "BIG_UP",
+      "tr": "10/19=53%",
+      "te": "4/8=50%",
+      "c": 51.3
+    },
+    {
+      "f": [
+        "hyper_day",
+        "politics_absent",
+        "product_minor"
+      ],
+      "tgt": "BIG_UP",
+      "tr": "9/20=45%",
+      "te": "4/7=57%",
+      "c": 51.1
+    },
+    {
+      "f": [
+        "attack_minor",
+        "vol_drop_50"
+      ],
+      "tgt": "BIG_UP",
+      "tr": "2/4=50%",
+      "te": "8/16=50%",
+      "c": 50.0
+    },
+    {
+      "f": [
+        "hyper_day",
+        "spacex_absent"
+      ],
+      "tgt": "BIG_UP",
+      "tr": "3/5=60%",
+      "te": "6/15=40%",
+      "c": 50.0
+    },
+    {
+      "f": [
+        "money_minor",
+        "personal_absent"
+      ],
+      "tgt": "BIG_UP",
+      "tr": "3/6=50%",
+      "te": "1/2=50%",
+      "c": 50.0
+    },
+    {
+      "f": [
+        "ai_absent",
+        "money_minor",
+        "vol_drop_50"
+      ],
+      "tgt": "BIG_UP",
+      "tr": "2/4=50%",
+      "te": "1/2=50%",
+      "c": 50.0
+    },
+    {
+      "f": [
+        "ai_minor",
+        "eng_drop",
+        "short_tweets"
+      ],
+      "tgt": "BIG_UP",
+      "tr": "2/4=50%",
+      "te": "3/6=50%",
+      "c": 50.0
+    },
+    {
+      "f": [
+        "attack_absent",
+        "money_minor",
+        "vol_drop_50"
+      ],
+      "tgt": "BIG_UP",
+      "tr": "2/4=50%",
+      "te": "1/2=50%",
+      "c": 50.0
+    },
+    {
+      "f": [
+        "attack_minor",
+        "product_absent",
+        "vol_drop_50"
+      ],
+      "tgt": "BIG_UP",
+      "tr": "2/4=50%",
+      "te": "6/12=50%",
+      "c": 50.0
+    },
+    {
+      "f": [
+        "attack_minor",
+        "spacex_absent",
+        "vol_spike_50"
+      ],
+      "tgt": "BIG_DOWN",
+      "tr": "3/6=50%",
+      "te": "1/2=50%",
+      "c": 50.0
+    },
+    {
+      "f": [
+        "crypto_minor",
+        "personal_absent",
+        "short_tweets"
+      ],
+      "tgt": "BIG_UP",
+      "tr": "2/4=50%",
+      "te": "2/4=50%",
+      "c": 50.0
+    },
+    {
+      "f": [
+        "doge_minor",
+        "personal_absent",
+        "short_tweets"
+      ],
+      "tgt": "BIG_UP",
+      "tr": "4/8=50%",
+      "te": "3/6=50%",
+      "c": 50.0
+    },
+    {
+      "f": [
+        "hyper_day",
+        "personal_minor",
+        "politics_absent"
+      ],
+      "tgt": "BIG_UP",
+      "tr": "6/12=50%",
+      "te": "3/6=50%",
+      "c": 50.0
+    },
+    {
+      "f": [
+        "money_minor",
+        "personal_absent",
+        "serious_day"
+      ],
+      "tgt": "BIG_UP",
+      "tr": "3/6=50%",
+      "te": "1/2=50%",
+      "c": 50.0
+    },
+    {
+      "f": [
+        "money_minor",
+        "politics_absent",
+        "serious_day"
+      ],
+      "tgt": "BIG_UP",
+      "tr": "4/8=50%",
+      "te": "2/4=50%",
+      "c": 50.0
+    },
+    {
+      "f": [
+        "attack_minor",
+        "crypto_day",
+        "crypto_minor"
+      ],
+      "tgt": "BIG_DOWN",
+      "tr": "5/11=45%",
+      "te": "1/2=50%",
+      "c": 47.7
+    },
+    {
+      "f": [
+        "crypto_minor",
+        "hyper_day",
+        "politics_absent"
+      ],
+      "tgt": "BIG_UP",
+      "tr": "9/20=45%",
+      "te": "3/6=50%",
+      "c": 47.5
+    },
+    {
+      "f": [
+        "doge_minor",
+        "hyper_day",
+        "politics_absent"
+      ],
+      "tgt": "BIG_UP",
+      "tr": "11/22=50%",
+      "te": "4/9=44%",
+      "c": 47.2
+    },
+    {
+      "f": [
+        "attack_minor",
+        "crypto_minor",
+        "personal_absent"
+      ],
+      "tgt": "BIG_UP",
+      "tr": "3/6=50%",
+      "te": "3/7=43%",
+      "c": 46.4
+    },
+    {
+      "f": [
+        "politics_minor",
+        "serious_day",
+        "vol_spike_50"
+      ],
+      "tgt": "BIG_DOWN",
+      "tr": "5/9=56%",
+      "te": "4/11=36%",
+      "c": 46.0
+    },
+    {
+      "f": [
+        "eng_spike",
+        "hyper_day",
+        "short_tweets"
+      ],
+      "tgt": "BIG_UP",
+      "tr": "5/9=56%",
+      "te": "5/14=36%",
+      "c": 45.6
+    },
+    {
+      "f": [
+        "ai_absent",
+        "hyper_day",
+        "short_tweets"
+      ],
+      "tgt": "BIG_UP",
+      "tr": "3/6=50%",
+      "te": "8/21=38%",
+      "c": 44.0
+    },
+    {
+      "f": [
+        "ai_absent",
+        "crypto_minor",
+        "hyper_day"
+      ],
+      "tgt": "BIG_UP",
+      "tr": "3/6=50%",
+      "te": "6/16=38%",
+      "c": 43.8
+    },
+    {
+      "f": [
+        "crypto_minor",
+        "hyper_day",
+        "spacex_absent"
+      ],
+      "tgt": "BIG_UP",
+      "tr": "2/4=50%",
+      "te": "3/8=38%",
+      "c": 43.8
+    },
+    {
+      "f": [
+        "crypto_minor",
+        "product_absent",
+        "vol_drop_50"
+      ],
+      "tgt": "BIG_UP",
+      "tr": "2/4=50%",
+      "te": "4/11=36%",
+      "c": 43.2
+    },
+    {
+      "f": [
+        "doge_minor",
+        "serious_day",
+        "spacex_absent"
+      ],
+      "tgt": "BIG_UP",
+      "tr": "5/11=45%",
+      "te": "3/8=38%",
+      "c": 41.5
+    },
+    {
+      "f": [
+        "politics_minor",
+        "spacex_minor",
+        "vol_spike_100"
+      ],
+      "tgt": "BIG_DOWN",
+      "tr": "6/13=46%",
+      "te": "6/17=35%",
+      "c": 40.7
+    }
+  ],
+  "tested": 41650,
+  "features": 50,
+  "dates": 1863
+}

@@ -1,0 +1,85 @@
+# 川普密碼 Opus 簡報 — 2026-03-24
+<<<<<<< HEAD
+準備時間: 2026-03-24T22:30:04Z
+
+## 今日推文: 21 篇
+時間: 2026-03-24T04:12:02.575Z ~ 2026-03-24T19:57:58.291Z
+
+[19:40] State Senator Gary Byrne is doing a fantastic job representing the incredible people of Indiana's 47th Congressional District! A Highly Respected Businessman, North Harrison School Board Member, and Councilman for Harrison County, prior to becoming a distinguished State Senator, Gary has dedicated h
+
+[19:42] State Senator Daryl Schmidt is doing a tremendous job representing the Great People of Indiana's 48th State Senate District! A Fifth Generation Family Farmer, Daryl is a strong and effective Voice for Indiana Agriculture, and our amazing Farmers and Ranchers. In the State Senate, he is fighting tire
+
+[19:42] State Senator Jim Tomes is an America First Patriot who is doing an incredible job representing Indiana's 49th State Senate District! A Brave U.S. Army Vietnam Veteran, and Chairman of the Indiana Senate Committee on Veterans Affairs and the Military, Jim knows the Wisdom and Courage required to Def
+
+[19:45] Bluffton City Councilman Blake Fiechter, a True America First Patriot, is running against "RINO" State Senator Travis Holdman, in Indiana's 19th Senate District who, for whatever reason, voted against Redistricting in Indiana, in a District that I won by 39 points, which puts the United States Congr
+
+[19:51] It is my Great Honor to endorse America First Patriot Tracey Powell, a fantastic Candidate for Indiana's 21st State Senate District (which I won by 24 points!). Tracey is running against a pathetic RINO incumbent named Jim Buck, who, for whatever reason, voted against Redistricting in Indiana, which
+
+[19:53] It is my Great Honor to endorse MAGA Warrior and Fountain County GOP Chair, Paula Copenhaver, a terrific Candidate for Indiana's 23rd State Senate District (which I won by 26 points!). Paula is running against an incompetent and ineffective RINO incumbent named Spencer Deery who, for whatever reason
+
+[19:54] Vigo County Commissioner Brenda Wilson, a Proven America First Patriot, is running against "No Goode" Greg Goode (BAD FOR THE U.S.A.!) in the Republican Primary for Indiana's 38th Senate District, which I won by 28 points! "No Goode" is an incompetent and ineffective RINO incumbent who, for whatever
+
+[19:55] It is my Great Honor to endorse America First Patriot, Jeff Ellington, a terrific Candidate for Indiana's 39th State Senate District (which I won by a whopping 55 points!). Jeff will be a fantastic replacement for RINO Eric Bassler, who may not even run again because Republicans are so angry with hi
+
+[19:55] It is my Great Honor to endorse State Representative Michelle Davis, a REAL Republican running for Indiana's 41st State Senate District (which I won by 33 points!), against RINO incumbent Greg Walker! Michelle will be a fantastic replacement for Walker who, for whatever reason, voted against Redistr
+
+[19:57] It is my Great Honor to endorse T.W. Shannon, an America First Patriot who is running for Lieutenant Governor of Oklahoma, a place I love and WON BIG, winning all 77 out of 77 Counties in 2016, 2020, and 2024! As the youngest House Speaker in Oklahoma's History, the National Chair of Black Voices fo
+=======
+準備時間: 2026-03-24T14:58:25Z
+
+## 今日推文: 2 篇
+時間: 2026-03-24T04:12:02.575Z ~ 2026-03-24T05:48:38.818Z
+
+[04:12] RT: https://truthsocial.com/users/realDonaldTrump/statuses/116282191339559931
+
+[05:48] Democrats are desperate to keep illegals, no matter how bad or dangerous they me be, in the Country. They want them to VOTE! That's why they are fighting so hard to neutralize ICE. We will fight them all the way, and WIN!
+>>>>>>> a7678eae8d971fcb3ceadf48a96c333650c36a37
+
+## 模型績效排行
+  A3_relief_rocket (盤前 RELIEF→當天飆): 72.7% | 報酬 +1.206% | 11 筆
+  D3_volume_spike (發文量暴增→恐慌底部): 70.2% | 報酬 +0.306% | 47 筆
+  D2_sig_change (簽名切換→正式聲明): 70.0% | 報酬 +0.472% | 80 筆
+  B3_action_pre (盤前 ACTION+正面情緒→漲): 66.7% | 報酬 +0.199% | 33 筆
+  C1_burst_silence (轟炸→長沉默→做多): 65.3% | 報酬 +0.145% | 176 筆
+  B1_triple_signal (三信號齊發→買3天): 64.7% | 報酬 +0.597% | 17 筆
+  B2_tariff_to_deal (連3天關稅→出現Deal→轉折): 57.9% | 報酬 +0.721% | 19 筆
+  A1_tariff_bearish (盤中關稅→隔天跌): 56.5% | 報酬 -0.758% | 23 筆
+  A2_deal_bullish (DEAL 出現→隔天漲): 52.2% | 報酬 +0.029% | 90 筆
+  C2_brag_top (炫耀股市→短期到頂): 45.0% | 報酬 +0.105% | 60 筆
+  C3_night_alert (深夜關稅推文→開盤跳空): 37.5% | 報酬 -0.414% | 8 筆
+
+## 最近的錯誤預測（請分析原因）
+  C1_burst_silence | 2026-03-05 | LONG → 實際 -1.621%
+  A2_deal_bullish | 2026-03-10 | LONG → 實際 -0.305%
+  C1_burst_silence | 2026-03-11 | LONG → 實際 -1.730%
+  A2_deal_bullish | 2026-03-13 | LONG → 實際 -0.619%
+  C1_burst_silence | 2026-03-13 | LONG → 實際 -0.619%
+
+## 學習引擎上次動作: 4 升級 / 1 降級 / 1 淘汰
+
+<<<<<<< HEAD
+## 規則進化: 新增 44 條規則
+=======
+## 規則進化: 新增 42 條規則
+>>>>>>> a7678eae8d971fcb3ceadf48a96c333650c36a37
+
+## 信號信心度
+  ACTION: 0.919
+  CHINA: 0.6
+  DEAL: 0.55
+  DEAL_ONLY: 0.65
+  IRAN: 0.55
+  RELIEF: 0.95
+  TARIFF: 0.7
+  TARIFF_ONLY: 0.7
+  THREAT: 0.6
+
+## 請 Opus 回答以下問題（JSON 格式寫入 data/opus_analysis.json）
+
+1. 今天的推文，你看到什麼關鍵字引擎漏掉的信號？
+2. 最近的錯誤預測，根本原因是什麼？
+3. Trump 的溝通模式最近有沒有變化？
+4. 你建議新增什麼規則？（具體到特徵組合+方向+持有天數）
+5. 哪些模型該淘汰？哪些該加權？
+6. 信號信心度要怎麼調？
+7. 整體系統健康度？下一步最重要的事是什麼？

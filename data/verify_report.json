@@ -1,0 +1,62 @@
+{
+  "timestamp": "2026-03-15T11:17:22Z",
+  "own_count": 28753,
+  "cnn_count": 26286,
+  "matched": 17063,
+  "cnn_only": 6687,
+  "own_only": 5305,
+  "match_rate": 58.7,
+  "verdict": "PARTIAL",
+  "sample_mismatches": [
+    {
+      "source": "own_only",
+      "content": "Get involved in YOUR government. Last year I ran for mayor, and we had a record voter turnout. I los",
+      "date": "2022-03-04T09:59:00.000Z"
+    },
+    {
+      "source": "own_only",
+      "content": "ReTruth if you think THIS is the best comeback ever! 🔥",
+      "date": "2022-03-14T13:24:00.000Z"
+    },
+    {
+      "source": "own_only",
+      "content": "RETRUTH IF YOU CAN’T STAND THESE 2 IGNORANT PEOPLE! #Truth",
+      "date": "2022-03-14T15:11:00.000Z"
+    },
+    {
+      "source": "own_only",
+      "content": "DAILY REMINDER!!!",
+      "date": "2022-03-14T22:27:00.000Z"
+    },
+    {
+      "source": "own_only",
+      "content": "“TRUMP CARD”Oil on canvas6ft x 4ft",
+      "date": "2022-03-15T20:02:00.000Z"
+    },
+    {
+      "source": "own_only",
+      "content": "The People’s GeneralOil on canvas5ft x 5ft100% of the sales of these prints are being donated to Gen",
+      "date": "2022-03-20T11:35:00.000Z"
+    },
+    {
+      "source": "own_only",
+      "content": "No words needed!!@EzraCohen",
+      "date": "2022-03-27T14:09:00.000Z"
+    },
+    {
+      "source": "own_only",
+      "content": "@Bluebones thanks you for the ride! 🔹🔹make sure to follow these patriots🔹🚂 @TruthTrains 🚂⭐️ @OksanaT",
+      "date": "2022-04-11T10:41:00.000Z"
+    },
+    {
+      "source": "own_only",
+      "content": "https://thefederalist.com/2022/04/12/if-democrats-cared-about-ending-crime-they-would-punish-crimina",
+      "date": "2022-04-13T20:27:00.000Z"
+    },
+    {
+      "source": "own_only",
+      "content": "https://www.thegatewaypundit.com/2022/04/fairfax-county-virgina-received-1-2-million-zuckerbucks-202",
+      "date": "2022-04-16T12:00:00.000Z"
+    }
+  ]
+}

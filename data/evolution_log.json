@@ -1,0 +1,537 @@
+[
+  {
+    "date": "2026-03-15",
+    "crossover": 16,
+    "mutation": 12,
+    "distill": 18,
+    "total_new": 46,
+    "total_rules_after": 546,
+    "top_3": [
+      {
+        "features": [
+          "kw_interest_rate",
+          "kw_thank_you_for_your_attention",
+          "kw_economy"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 100.0,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+          "kw_interest_rate",
+          "kw_dow_2plus"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 100.0,
+        "origin": "distilled"
+      },
+      {
+        "features": [
+          "kw_deal",
+          "kw_beautiful",
+          "volume_falling_3d"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 94.4,
+        "origin": "crossover"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-15",
+    "crossover": 16,
+    "mutation": 16,
+    "distill": 18,
+    "total_new": 50,
+    "total_rules_after": 550,
+    "top_3": [
+      {
+        "features": [
+          "open_jobs",
+          "is_friday"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 100.0,
+        "origin": "mutation_remove"
+      },
+      {
+        "features": [
+          "kw_interest_rate",
+          "kw_dow_2plus"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 100.0,
+        "origin": "distilled"
+      },
+      {
+        "features": [
+          "kw_thank_you_for_your_attention",
+          "open_china"
+        ],
+        "direction": "LONG",
+        "hold": 2,
+        "score": 90.9,
+        "origin": "mutation_remove"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-15",
+    "crossover": 16,
+    "mutation": 16,
+    "distill": 17,
+    "total_new": 49,
+    "total_rules_after": 600,
+    "top_3": [
+      {
+        "features": [
+          "kw_energy",
+          "kw_interest_rate"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 100.0,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+          "kw_interest_rate",
+          "kw_energy"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 100.0,
+        "origin": "distilled"
+      },
+      {
+        "features": [
+          "is_friday",
+          "kw_tariffs_2plus"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 93.8,
+        "origin": "distilled"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-16",
+    "crossover": 15,
+    "mutation": 12,
+    "distill": 17,
+    "total_new": 44,
+    "total_rules_after": 600,
+    "top_3": [
+      {
+        "features": [
+          "kw_tariffs_2plus",
+          "kw_thank_you_for_your_attention",
+          "open_tariff",
+          "kw_beautiful"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 100.0,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+          "kw_thank_you_for_your_attention",
+          "open_china",
+          "kw_deal"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 92.9,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+          "kw_thank_you_for_your_attention",
+          "both_tariff_and_deal",
+          "volume_falling_3d"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 90.0,
+        "origin": "crossover"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-17",
+    "crossover": 16,
+    "mutation": 12,
+    "distill": 16,
+    "total_new": 44,
+    "total_rules_after": 600,
+    "top_3": [
+      {
+        "features": [
+          "kw_economy",
+          "kw_tremendous",
+          "kw_interest_rate"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 100.0,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+          "open_dow",
+          "kw_interest_rate"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 100.0,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+          "kw_ban",
+          "kw_president_of_the_united_states"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 100.0,
+        "origin": "mutation_remove"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-18",
+    "crossover": 16,
+    "mutation": 8,
+    "distill": 16,
+    "total_new": 40,
+    "total_rules_after": 600,
+    "top_3": [
+      {
+        "features": [
+          "is_friday",
+          "kw_signed"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 100.0,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+          "open_dow",
+          "kw_dow_2plus",
+          "kw_interest_rate"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 100.0,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+          "kw_energy",
+          "kw_never_let_you_down",
+          "kw_president_of_the_united_states"
+        ],
+        "direction": "LONG",
+        "hold": 1,
+        "score": 93.8,
+        "origin": "crossover"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-19",
+    "crossover": 12,
+    "mutation": 16,
+    "distill": 17,
+    "total_new": 45,
+    "total_rules_after": 600,
+    "top_3": [
+      {
+        "features": [
+          "kw_beautiful",
+          "open_tariffs",
+          "kw_tariff_2plus"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 86.4,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+          "kw_ban",
+          "open_trade"
+        ],
+        "direction": "LONG",
+        "hold": 2,
+        "score": 83.3,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+          "kw_jobs",
+          "kw_thank_you_for_your_attention",
+          "kw_economy",
+          "is_friday"
+        ],
+        "direction": "LONG",
+        "hold": 1,
+        "score": 83.3,
+        "origin": "crossover"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-20",
+    "crossover": 16,
+    "mutation": 11,
+    "distill": 17,
+    "total_new": 44,
+    "total_rules_after": 600,
+    "top_3": [
+      {
+        "features": [
+          "kw_signed",
+          "kw_tariffs"
+        ],
+        "direction": "LONG",
+        "hold": 2,
+        "score": 92.3,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+          "kw_signed",
+          "kw_deal"
+        ],
+        "direction": "LONG",
+        "hold": 2,
+        "score": 85.0,
+        "origin": "mutation_remove"
+      },
+      {
+        "features": [
+          "kw_china",
+          "kw_economy",
+          "kw_tremendous"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 83.3,
+        "origin": "crossover"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-21",
+    "crossover": 16,
+    "mutation": 9,
+    "distill": 17,
+    "total_new": 42,
+    "total_rules_after": 600,
+    "top_3": [
+      {
+        "features": [
+          "questions_yes",
+          "kw_thank_you_for_your_attention",
+          "kw_tariffs_2plus"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 91.7,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+          "open_inflation",
+          "kw_thank_you_for_your_attention",
+          "open_great"
+        ],
+        "direction": "LONG",
+        "hold": 2,
+        "score": 91.7,
+        "origin": "mutation_replace"
+      },
+      {
+        "features": [
+          "open_china",
+          "kw_economy"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 90.0,
+        "origin": "mutation_remove"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-22",
+    "crossover": 11,
+    "mutation": 16,
+    "distill": 18,
+    "total_new": 45,
+    "total_rules_after": 600,
+    "top_3": [
+      {
+        "features": [
+          "kw_china",
+          "kw_thank_you_for_your_attention",
+          "open_china"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 95.5,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+          "volume_falling_3d",
+          "open_thank_you_for_your_attention"
+        ],
+        "direction": "LONG",
+        "hold": 2,
+        "score": 93.8,
+        "origin": "mutation_remove"
+      },
+      {
+        "features": [
+          "kw_amazing",
+          "volume_spike"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 88.9,
+        "origin": "mutation_remove"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-23",
+    "crossover": 16,
+    "mutation": 12,
+    "distill": 17,
+    "total_new": 45,
+    "total_rules_after": 600,
+    "top_3": [
+      {
+        "features": [
+          "open_tariff",
+          "volume_falling_3d"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 88.5,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+          "kw_biden",
+          "kw_tariffs",
+          "open_trade"
+        ],
+        "direction": "LONG",
+        "hold": 2,
+        "score": 80.9,
+        "origin": "mutation_replace"
+      },
+      {
+        "features": [
+          "is_friday",
+          "kw_economy"
+        ],
+        "direction": "LONG",
+        "hold": 2,
+        "score": 75.0,
+        "origin": "crossover"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-24",
+<<<<<<< HEAD
+    "crossover": 15,
+    "mutation": 12,
+    "distill": 17,
+    "total_new": 44,
+=======
+    "crossover": 16,
+    "mutation": 9,
+    "distill": 17,
+    "total_new": 42,
+>>>>>>> a7678eae8d971fcb3ceadf48a96c333650c36a37
+    "total_rules_after": 600,
+    "top_3": [
+      {
+        "features": [
+<<<<<<< HEAD
+          "kw_tremendous",
+          "kw_thank_you_for_your_attention",
+          "is_friday",
+          "kw_tariff"
+=======
+          "kw_tariffs",
+          "kw_thank_you_for_your_attention",
+          "is_friday",
+          "kw_tremendous"
+>>>>>>> a7678eae8d971fcb3ceadf48a96c333650c36a37
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 100.0,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+<<<<<<< HEAD
+          "kw_immediately",
+          "kw_beautiful",
+          "volume_falling_3d"
+        ],
+        "direction": "LONG",
+        "hold": 2,
+        "score": 92.9,
+        "origin": "mutation_replace"
+      },
+      {
+        "features": [
+          "kw_tariffs",
+          "open_incredible",
+=======
+          "kw_jobs",
+          "is_friday",
+>>>>>>> a7678eae8d971fcb3ceadf48a96c333650c36a37
+          "kw_thank_you_for_your_attention"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+<<<<<<< HEAD
+        "score": 90.0,
+=======
+        "score": 87.5,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+          "kw_economy",
+          "kw_signed",
+          "questions_yes"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 85.0,
+>>>>>>> a7678eae8d971fcb3ceadf48a96c333650c36a37
+        "origin": "crossover"
+      }
+    ]
+  }
+]

@@ -1,0 +1,89 @@
+#!/bin/bash
+# 川普密碼 — Git Pre-commit 安全閘門
+# 任何 commit 前自動掃描，發現 API key / 密碼就擋掉
+
+RED='\033[0;31m'
+GREEN='\033[0;32m'
+NC='\033[0m'
+
+echo "🔒 安全掃描中..."
+
+# 取得即將 commit 的檔案內容
+STAGED=$(git diff --cached --name-only --diff-filter=ACM)
+
+if [ -z "$STAGED" ]; then
+    exit 0
+fi
+
+FOUND=0
+
+for FILE in $STAGED; do
+    # 跳過二進位和圖片
+    case "$FILE" in
+        *.png|*.jpg|*.gif|*.ico|*.woff|*.ttf) continue ;;
+    esac
+
+    # 讀取 staged 內容
+    CONTENT=$(git show ":$FILE" 2>/dev/null)
+    if [ -z "$CONTENT" ]; then
+        continue
+    fi
+
+    # 1. Google/Gemini API Key (AIzaSy 開頭，39 字元)
+    if echo "$CONTENT" | grep -qE 'AIzaSy[A-Za-z0-9_-]{33}'; then
+        echo -e "${RED}⛔ 發現 Gemini/Google API Key: $FILE${NC}"
+        FOUND=1
+    fi
+
+    # 2. AWS Key (AKIA 開頭)
+    if echo "$CONTENT" | grep -qE 'AKIA[A-Z0-9]{16}'; then
+        echo -e "${RED}⛔ 發現 AWS Access Key: $FILE${NC}"
+        FOUND=1
+    fi
+
+    # 3. X/Twitter Bearer Token (AAAAAAAAAAAAA 開頭)
+    if echo "$CONTENT" | grep -qE 'AAAAAAAAAAAAAAAAAAA[A-Za-z0-9%]{20,}'; then
+        echo -e "${RED}⛔ 發現 X/Twitter Bearer Token: $FILE${NC}"
+        FOUND=1
+    fi
+
+    # 4. 通用 secret/password 模式
+    if echo "$CONTENT" | grep -qiE '(password|secret|api_key|apikey|access_token|bearer)\s*[=:]\s*["\x27][A-Za-z0-9+/=]{20,}'; then
+        echo -e "${RED}⛔ 發現疑似密鑰: $FILE${NC}"
+        FOUND=1
+    fi
+
+    # 5. .env 內容被直接寫進程式碼
+    if echo "$CONTENT" | grep -qE '(TRUTHSOCIAL_PASSWORD|X_API_SECRET|X_BEARER_TOKEN)\s*=\s*["\x27]'; then
+        # 排除 os.environ.get 和 .env 讀取的程式碼
+        if ! echo "$CONTENT" | grep -q "os.environ.get"; then
+            echo -e "${RED}⛔ 發現硬編碼環境變數: $FILE${NC}"
+            FOUND=1
+        fi
+    fi
+
+    # 6. 私鑰
+    if echo "$CONTENT" | grep -qE 'BEGIN (RSA |EC |DSA |OPENSSH )?PRIVATE KEY'; then
+        echo -e "${RED}⛔ 發現私鑰: $FILE${NC}"
+        FOUND=1
+    fi
+
+    # 7. 本機路徑
+    if echo "$CONTENT" | grep -qE '/Users/[a-z]+/(Projects|Documents|Desktop)'; then
+        # 排除 FIXSPEC 等文件中的範例路徑
+        if [[ "$FILE" != *"FIXSPEC"* ]] && [[ "$FILE" != *"security_audit"* ]]; then
+            echo -e "${RED}⛔ 發現本機路徑: $FILE${NC}"
+            FOUND=1
+        fi
+    fi
+done
+
+if [ $FOUND -eq 1 ]; then
+    echo ""
+    echo -e "${RED}🚫 Commit 被擋住了！請移除敏感資訊後再試。${NC}"
+    echo "   提示：密鑰請放在 .env 裡，用 os.environ.get() 讀取"
+    exit 1
+else
+    echo -e "${GREEN}✅ 安全掃描通過${NC}"
+    exit 0
+fi

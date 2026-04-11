@@ -1,0 +1,35 @@
+{
+  "buy_hold_return_tsmc": 73.33,
+  "R1: 盤前RELIEF→買1天": {
+    "trades": 13,
+    "win_rate": 46.2,
+    "avg_return": -0.196,
+    "total_return": -2.54,
+    "max_drawdown": 5.1,
+    "final_value": 9718.0
+  },
+  "R2: 盤中TARIFF×2→空1天": {
+    "trades": 22,
+    "win_rate": 36.4,
+    "avg_return": -0.608,
+    "total_return": -13.39,
+    "max_drawdown": 23.61,
+    "final_value": 8632.0
+  },
+  "R3: 台灣/半導體→買1天": {
+    "trades": 6,
+    "win_rate": 16.7,
+    "avg_return": -1.443,
+    "total_return": -8.66,
+    "max_drawdown": 9.2,
+    "final_value": 9157.0
+  },
+  "R4: 中國+TARIFF→空2天": {
+    "trades": 42,
+    "win_rate": 35.7,
+    "avg_return": -1.763,
+    "total_return": -74.03,
+    "max_drawdown": 54.88,
+    "final_value": 4590.0
+  }
+}

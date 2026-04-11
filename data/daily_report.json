@@ -1,0 +1,33 @@
+{
+  "date": "2026-04-09",
+  "generated_at": "2026-04-09T15:22:15Z",
+  "posts_today": 3,
+  "latest_post": {
+    "time": "2026-04-09T12:40",
+    "content_preview": "None of these people, including our own, very disappointing, NATO, understood anything unless they h"
+  },
+  "signals_detected": [
+    "IRAN"
+  ],
+  "models_triggered": 0,
+  "direction_summary": {
+    "LONG": 0,
+    "SHORT": 0,
+    "consensus": "NEUTRAL"
+  },
+  "historical_hit_rate": {
+    "verified": 0,
+    "correct": 0,
+    "rate": 0.0
+  },
+  "sp500_latest": {
+    "date": "2026-04-09",
+    "close": 6785.77
+  },
+  "summary": {
+    "en": "Trump Code Daily Report -- 2026-04-09\nPosts today: 3 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: None of these people, including our own, very disappointing, NATO, understood anything unless they h",
+    "zh": "川普密碼每日報告 -- 2026-04-09\n今日推文: 3 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: None of these people, including our own, very disappointing, NATO, understood anything unless they h",
+    "ja": "トランプ・コード日次レポート -- 2026-04-09\n本日の投稿: 3件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: None of these people, including our own, very disappointing, NATO, understood anything unless they h"
+  },
+  "triggered_rules_sample": []
+}

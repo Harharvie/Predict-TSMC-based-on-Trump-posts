@@ -1,0 +1,1188 @@
+{
+  "metadata": {
+    "analysis_date": "2026-03-15",
+    "x_original_tweets": 149,
+    "x_with_text": 58,
+    "x_url_only": 91,
+    "ts_original_posts": 5306,
+    "matched_count": 39,
+    "match_rate_pct": 0.74,
+    "market_days": 289
+  },
+  "analysis_1_selection_mechanism": {
+    "matched_avg_features": {
+      "length": 261.59,
+      "word_count": 45.667,
+      "caps_ratio": 0.302,
+      "all_caps_ratio": 0.257,
+      "exclamations": 1.41,
+      "questions": 0.026,
+      "positive_words": 0.744,
+      "negative_words": 0.59,
+      "policy_words": 0.359,
+      "has_media_ref": 0.154,
+      "has_endorsement": 0.103,
+      "has_personal": 0.462
+    },
+    "unmatched_avg_features": {
+      "length": 378.178,
+      "word_count": 63.314,
+      "caps_ratio": 0.28,
+      "all_caps_ratio": 0.226,
+      "exclamations": 1.465,
+      "questions": 0.104,
+      "positive_words": 1.018,
+      "negative_words": 0.44,
+      "policy_words": 0.744,
+      "has_media_ref": 0.034,
+      "has_endorsement": 0.186,
+      "has_personal": 0.337
+    },
+    "selection_score_weights": {
+      "has_media_ref": 3.529,
+      "questions": -0.75,
+      "policy_words": -0.517,
+      "has_endorsement": -0.446,
+      "has_personal": 0.371,
+      "negative_words": 0.341,
+      "length": -0.308,
+      "word_count": -0.279,
+      "positive_words": -0.269,
+      "all_caps_ratio": 0.137,
+      "caps_ratio": 0.079,
+      "exclamations": -0.038
+    },
+    "key_findings": {
+      "top_3_selection_factors": [
+        {
+          "factor": "has_media_ref",
+          "weight": 3.529,
+          "direction": "放X"
+        },
+        {
+          "factor": "questions",
+          "weight": -0.75,
+          "direction": "不放X"
+        },
+        {
+          "factor": "policy_words",
+          "weight": -0.517,
+          "direction": "不放X"
+        }
+      ],
+      "bottom_3_factors": [
+        {
+          "factor": "all_caps_ratio",
+          "weight": 0.137,
+          "direction": "放X"
+        },
+        {
+          "factor": "caps_ratio",
+          "weight": 0.079,
+          "direction": "放X"
+        },
+        {
+          "factor": "exclamations",
+          "weight": -0.038,
+          "direction": "不放X"
+        }
+      ]
+    }
+  },
+  "analysis_2_time_signal": {
+    "ts_first_count": 38,
+    "x_first_count": 0,
+    "same_time_count": 10,
+    "avg_delay_hours": 6.2,
+    "median_delay_hours": 0.86,
+    "by_market_period": {
+      "after_hours": {
+        "count": 19,
+        "avg_time_diff_hours": 9.83
+      },
+      "market_hours": {
+        "count": 18,
+        "avg_time_diff_hours": 2.64
+      },
+      "pre_market": {
+        "count": 2,
+        "avg_time_diff_hours": 0.7
+      }
+    },
+    "gap_market_returns": {
+      "count": 38,
+      "avg_return_pct": 0.14,
+      "positive_days": 24
+    }
+  },
+  "analysis_3_market_impact": {
+    "ts_only": {
+      "count": 5247,
+      "avg_next_day_return": 0.0366,
+      "volatility": 0.8506
+    },
+    "also_on_x": {
+      "count": 39,
+      "avg_next_day_return": 0.2516,
+      "volatility": 0.9995
+    },
+    "by_topic": {
+      "china": {
+        "ts_only_count": 202,
+        "ts_only_avg_return": -0.062,
+        "x_also_count": 0,
+        "x_also_avg_return": 0,
+        "difference": -0.062
+      },
+      "economy_market": {
+        "ts_only_count": 1175,
+        "ts_only_avg_return": 0.0425,
+        "x_also_count": 5,
+        "x_also_avg_return": 0.3683,
+        "difference": -0.3258
+      },
+      "elon_doge": {
+        "ts_only_count": 95,
+        "ts_only_avg_return": 0.0809,
+        "x_also_count": 2,
+        "x_also_avg_return": -0.4541,
+        "difference": 0.5349
+      },
+      "endorsement": {
+        "ts_only_count": 949,
+        "ts_only_avg_return": 0.006,
+        "x_also_count": 5,
+        "x_also_avg_return": 0.3987,
+        "difference": -0.3927
+      },
+      "executive_order": {
+        "ts_only_count": 800,
+        "ts_only_avg_return": 0.0667,
+        "x_also_count": 6,
+        "x_also_avg_return": 0.3123,
+        "difference": -0.2456
+      },
+      "foreign_policy": {
+        "ts_only_count": 449,
+        "ts_only_avg_return": 0.0577,
+        "x_also_count": 3,
+        "x_also_avg_return": 0.4339,
+        "difference": -0.3763
+      },
+      "immigration": {
+        "ts_only_count": 1172,
+        "ts_only_avg_return": 0.07,
+        "x_also_count": 7,
+        "x_also_avg_return": 0.445,
+        "difference": -0.3751
+      },
+      "iran_military": {
+        "ts_only_count": 1014,
+        "ts_only_avg_return": 0.0658,
+        "x_also_count": 7,
+        "x_also_avg_return": 0.5503,
+        "difference": -0.4846
+      },
+      "legal_court": {
+        "ts_only_count": 508,
+        "ts_only_avg_return": 0.1217,
+        "x_also_count": 4,
+        "x_also_avg_return": 0.7572,
+        "difference": -0.6355
+      },
+      "media_attack": {
+        "ts_only_count": 680,
+        "ts_only_avg_return": 0.0323,
+        "x_also_count": 8,
+        "x_also_avg_return": 0.7511,
+        "difference": -0.7188
+      },
+      "other": {
+        "ts_only_count": 2312,
+        "ts_only_avg_return": 0.0477,
+        "x_also_count": 6,
+        "x_also_avg_return": -0.5707,
+        "difference": 0.6185
+      },
+      "personal_family": {
+        "ts_only_count": 1425,
+        "ts_only_avg_return": 0.0248,
+        "x_also_count": 19,
+        "x_also_avg_return": 0.3193,
+        "difference": -0.2946
+      },
+      "tariff_trade": {
+        "ts_only_count": 601,
+        "ts_only_avg_return": 0.0308,
+        "x_also_count": 6,
+        "x_also_avg_return": 0.2108,
+        "difference": -0.18
+      }
+    }
+  },
+  "analysis_4_topic_strategy": {
+    "topic_selection_rates": {
+      "elon_doge": {
+        "total": 97,
+        "on_x": 2,
+        "x_rate_pct": 2.06,
+        "strategy": "選擇性公開"
+      },
+      "personal_family": {
+        "total": 1450,
+        "on_x": 19,
+        "x_rate_pct": 1.31,
+        "strategy": "極少公開"
+      },
+      "media_attack": {
+        "total": 690,
+        "on_x": 8,
+        "x_rate_pct": 1.16,
+        "strategy": "極少公開"
+      },
+      "tariff_trade": {
+        "total": 610,
+        "on_x": 6,
+        "x_rate_pct": 0.98,
+        "strategy": "極少公開"
+      },
+      "legal_court": {
+        "total": 514,
+        "on_x": 4,
+        "x_rate_pct": 0.78,
+        "strategy": "極少公開"
+      },
+      "executive_order": {
+        "total": 808,
+        "on_x": 6,
+        "x_rate_pct": 0.74,
+        "strategy": "極少公開"
+      },
+      "iran_military": {
+        "total": 1030,
+        "on_x": 7,
+        "x_rate_pct": 0.68,
+        "strategy": "極少公開"
+      },
+      "foreign_policy": {
+        "total": 454,
+        "on_x": 3,
+        "x_rate_pct": 0.66,
+        "strategy": "極少公開"
+      },
+      "immigration": {
+        "total": 1184,
+        "on_x": 7,
+        "x_rate_pct": 0.59,
+        "strategy": "極少公開"
+      },
+      "endorsement": {
+        "total": 958,
+        "on_x": 5,
+        "x_rate_pct": 0.52,
+        "strategy": "極少公開"
+      },
+      "economy_market": {
+        "total": 1186,
+        "on_x": 5,
+        "x_rate_pct": 0.42,
+        "strategy": "極少公開"
+      },
+      "other": {
+        "total": 2323,
+        "on_x": 6,
+        "x_rate_pct": 0.26,
+        "strategy": "極少公開"
+      },
+      "china": {
+        "total": 203,
+        "on_x": 0,
+        "x_rate_pct": 0.0,
+        "strategy": "完全隱藏"
+      }
+    },
+    "keyword_strategy": {
+      "tariff": {
+        "ts_count": 254,
+        "x_count": 1,
+        "x_rate_pct": 0.39
+      },
+      "deal": {
+        "ts_count": 189,
+        "x_count": 2,
+        "x_rate_pct": 1.06
+      },
+      "china": {
+        "ts_count": 108,
+        "x_count": 0,
+        "x_rate_pct": 0.0
+      },
+      "iran": {
+        "ts_count": 122,
+        "x_count": 1,
+        "x_rate_pct": 0.82
+      },
+      "executive order": {
+        "ts_count": 36,
+        "x_count": 1,
+        "x_rate_pct": 2.78
+      },
+      "military": {
+        "ts_count": 533,
+        "x_count": 1,
+        "x_rate_pct": 0.19
+      },
+      "stock market": {
+        "ts_count": 27,
+        "x_count": 1,
+        "x_rate_pct": 3.7
+      },
+      "elon": {
+        "ts_count": 57,
+        "x_count": 2,
+        "x_rate_pct": 3.51
+      },
+      "doge": {
+        "ts_count": 10,
+        "x_count": 0,
+        "x_rate_pct": 0.0
+      }
+    },
+    "public_topics": [
+      "elon_doge"
+    ],
+    "hidden_topics": [
+      "china"
+    ]
+  },
+  "analysis_5_trends": {
+    "monthly_data": [
+      {
+        "month": "2025-01",
+        "ts_count": 110,
+        "matched_on_x": 3,
+        "x_rate_pct": 2.73,
+        "x_originals_with_text": 6,
+        "market_avg_return": 0.1566
+      },
+      {
+        "month": "2025-02",
+        "ts_count": 373,
+        "matched_on_x": 5,
+        "x_rate_pct": 1.34,
+        "x_originals_with_text": 6,
+        "market_avg_return": -0.0078
+      },
+      {
+        "month": "2025-03",
+        "ts_count": 528,
+        "matched_on_x": 6,
+        "x_rate_pct": 1.14,
+        "x_originals_with_text": 8,
+        "market_avg_return": -0.1348
+      },
+      {
+        "month": "2025-04",
+        "ts_count": 342,
+        "matched_on_x": 6,
+        "x_rate_pct": 1.75,
+        "x_originals_with_text": 8,
+        "market_avg_return": 0.3276
+      },
+      {
+        "month": "2025-05",
+        "ts_count": 368,
+        "matched_on_x": 3,
+        "x_rate_pct": 0.82,
+        "x_originals_with_text": 10,
+        "market_avg_return": 0.1466
+      },
+      {
+        "month": "2025-06",
+        "ts_count": 400,
+        "matched_on_x": 0,
+        "x_rate_pct": 0.0,
+        "x_originals_with_text": 0,
+        "market_avg_return": 0.1188
+      },
+      {
+        "month": "2025-07",
+        "ts_count": 422,
+        "matched_on_x": 2,
+        "x_rate_pct": 0.47,
+        "x_originals_with_text": 2,
+        "market_avg_return": -0.0212
+      },
+      {
+        "month": "2025-08",
+        "ts_count": 475,
+        "matched_on_x": 0,
+        "x_rate_pct": 0.0,
+        "x_originals_with_text": 0,
+        "market_avg_return": 0.0628
+      },
+      {
+        "month": "2025-09",
+        "ts_count": 259,
+        "matched_on_x": 4,
+        "x_rate_pct": 1.54,
+        "x_originals_with_text": 2,
+        "market_avg_return": 0.0516
+      },
+      {
+        "month": "2025-10",
+        "ts_count": 318,
+        "matched_on_x": 2,
+        "x_rate_pct": 0.63,
+        "x_originals_with_text": 4,
+        "market_avg_return": -0.0974
+      },
+      {
+        "month": "2025-11",
+        "ts_count": 456,
+        "matched_on_x": 2,
+        "x_rate_pct": 0.44,
+        "x_originals_with_text": 5,
+        "market_avg_return": -0.0266
+      },
+      {
+        "month": "2025-12",
+        "ts_count": 298,
+        "matched_on_x": 3,
+        "x_rate_pct": 1.01,
+        "x_originals_with_text": 4,
+        "market_avg_return": -0.0245
+      },
+      {
+        "month": "2026-01",
+        "ts_count": 406,
+        "matched_on_x": 3,
+        "x_rate_pct": 0.74,
+        "x_originals_with_text": 3,
+        "market_avg_return": 0.0107
+      },
+      {
+        "month": "2026-02",
+        "ts_count": 377,
+        "matched_on_x": 0,
+        "x_rate_pct": 0.0,
+        "x_originals_with_text": 0,
+        "market_avg_return": 0.0091
+      },
+      {
+        "month": "2026-03",
+        "ts_count": 174,
+        "matched_on_x": 0,
+        "x_rate_pct": 0.0,
+        "x_originals_with_text": 0,
+        "market_avg_return": 0.0279
+      }
+    ],
+    "x_rate_market_correlation": 0.3506,
+    "trend_direction": "X使用率持續下降"
+  },
+  "matched_posts_detail": [
+    {
+      "x_text": "Last night I saw, “MELANIA,” for the second time. The audience loved it, and so do I. Check it out — A MUST SEE!",
+      "ts_text": "Last night I saw, \"MELANIA,\" for the second time. The audience loved it, and so do I. Check it out — A MUST SEE!",
+      "similarity": 1.0,
+      "x_time": "2026-01-31T02:01:43.000Z",
+      "ts_time": "2026-01-31T01:58:51.630Z",
+      "time_diff_hours": 0.05,
+      "x_impressions": 40782275,
+      "x_likes": 310951,
+      "x_retweets": 36303,
+      "ts_replies": 2219,
+      "ts_reblogs": 4966,
+      "ts_favourites": 22631,
+      "topics": [
+        "personal_family"
+      ]
+    },
+    {
+      "x_text": "MELANIA, the Movie, is a MUST WATCH. Get your tickets today — Selling out, FAST!\n\nPhoto: Regine Mahaux",
+      "ts_text": "MELANIA, the Movie, is a MUST WATCH. Get your tickets today — Selling out, FAST!Photo: Regine Mahaux",
+      "similarity": 0.882,
+      "x_time": "2026-01-26T17:05:08.000Z",
+      "ts_time": "2026-01-26T17:01:46.416Z",
+      "time_diff_hours": 0.06,
+      "x_impressions": 49014940,
+      "x_likes": 410742,
+      "x_retweets": 43137,
+      "ts_replies": 1830,
+      "ts_reblogs": 5052,
+      "ts_favourites": 23983,
+      "topics": [
+        "personal_family"
+      ]
+    },
+    {
+      "x_text": "COUNTDOWN: 7 Days until the World will witness an unforgettable, behind-the-scenes, look at one of the most important events of our time.\n\nMELANIA: TWENTY DAYS TO HISTORY:",
+      "ts_text": "COUNTDOWN: 7 Days until the World will witness an unforgettable, behind-the-scenes, look at one of the most important events of our time.MELANIA: TWENTY DAYS TO HISTORY:",
+      "similarity": 0.917,
+      "x_time": "2026-01-23T18:51:21.000Z",
+      "ts_time": "2026-01-23T18:31:12.817Z",
+      "time_diff_hours": 0.34,
+      "x_impressions": 64514518,
+      "x_likes": 394705,
+      "x_retweets": 49179,
+      "ts_replies": 1447,
+      "ts_reblogs": 3676,
+      "ts_favourites": 13999,
+      "topics": [
+        "tariff_trade",
+        "economy_market",
+        "personal_family"
+      ]
+    },
+    {
+      "x_text": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgen",
+      "ts_text": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women's Sports, Transgen",
+      "similarity": 0.518,
+      "x_time": "2025-12-25T02:12:53.000Z",
+      "ts_time": "2025-12-25T00:02:26.827Z",
+      "time_diff_hours": 2.17,
+      "x_impressions": 79510849,
+      "x_likes": 800856,
+      "x_retweets": 88847,
+      "ts_replies": 3323,
+      "ts_reblogs": 4462,
+      "ts_favourites": 16644,
+      "topics": [
+        "tariff_trade",
+        "economy_market",
+        "executive_order",
+        "immigration",
+        "personal_family",
+        "media_attack",
+        "legal_court"
+      ]
+    },
+    {
+      "x_text": "THE TRUMP KENNEDY CENTER HONORS will be broadcast tonight, on CBS, and Stream on Paramount+. Tune in at 8 P.M. EST! At the request of the Board, and just about everybody else in America, I am hosting ",
+      "ts_text": "THE TRUMP KENNEDY CENTER HONORS will be broadcast tonight, on CBS, and Stream on Paramount+. Tune in at 8 P.M. EST! At the request of the Board, and just about everybody else in America, I am hosting ",
+      "similarity": 0.6,
+      "x_time": "2025-12-23T20:35:55.000Z",
+      "ts_time": "2025-12-23T14:55:07.558Z",
+      "time_diff_hours": 5.68,
+      "x_impressions": 48869656,
+      "x_likes": 165434,
+      "x_retweets": 22087,
+      "ts_replies": 3714,
+      "ts_reblogs": 5344,
+      "ts_favourites": 23851,
+      "topics": [
+        "executive_order",
+        "personal_family",
+        "media_attack"
+      ]
+    },
+    {
+      "x_text": "I am asking all America First Patriots in Tennessee’s 7th Congressional District to please GET OUT AND VOTE for a phenomenal Candidate and MAGA Warrior, Matt Van Epps! You can win this Election for Ma",
+      "ts_text": "I am asking all America First Patriots in Tennessee's 7th Congressional District to please GET OUT AND VOTE for a phenomenal Candidate and MAGA Warrior, Matt Van Epps! You can win this Election for Ma",
+      "similarity": 0.544,
+      "x_time": "2025-12-02T16:52:21.000Z",
+      "ts_time": "2025-12-02T14:36:09.834Z",
+      "time_diff_hours": 2.27,
+      "x_impressions": 35867396,
+      "x_likes": 153996,
+      "x_retweets": 30171,
+      "ts_replies": 1480,
+      "ts_reblogs": 5303,
+      "ts_favourites": 17969,
+      "topics": [
+        "iran_military",
+        "economy_market",
+        "personal_family",
+        "endorsement"
+      ]
+    },
+    {
+      "x_text": "To all Airlines, Pilots, Drug Dealers, and Human Traffickers, please consider THE AIRSPACE ABOVE AND SURROUNDING VENEZUELA TO BE CLOSED IN ITS ENTIRETY. Thank you for your attention to this matter! PR",
+      "ts_text": "To all Airlines, Pilots, Drug Dealers, and Human Traffickers, please consider THE AIRSPACE ABOVE AND SURROUNDING VENEZUELA TO BE CLOSED IN ITS ENTIRETY. Thank you for your attention to this matter! PR",
+      "similarity": 1.0,
+      "x_time": "2025-11-29T13:27:23.000Z",
+      "ts_time": "2025-11-29T12:43:02.681Z",
+      "time_diff_hours": 0.74,
+      "x_impressions": 91356255,
+      "x_likes": 593230,
+      "x_retweets": 76772,
+      "ts_replies": 3552,
+      "ts_reblogs": 11784,
+      "ts_favourites": 49007,
+      "topics": [
+        "tariff_trade",
+        "foreign_policy"
+      ]
+    },
+    {
+      "x_text": "I am asking all America First Patriots in Tennessee’s 7th Congressional District, who haven’t voted yet, to please GET OUT AND VOTE for MAGA Warrior Matt Van Epps, tomorrow, November 26th, the last da",
+      "ts_text": "I am asking all America First Patriots in Tennessee's 7th Congressional District, who haven't voted yet, to please GET OUT AND VOTE for MAGA Warrior Matt Van Epps, tomorrow, November 26th, the last da",
+      "similarity": 0.532,
+      "x_time": "2025-11-25T23:57:56.000Z",
+      "ts_time": "2025-11-25T23:14:11.402Z",
+      "time_diff_hours": 0.73,
+      "x_impressions": 24454731,
+      "x_likes": 166912,
+      "x_retweets": 38030,
+      "ts_replies": 902,
+      "ts_reblogs": 4641,
+      "ts_favourites": 13979,
+      "topics": [
+        "iran_military",
+        "economy_market",
+        "personal_family",
+        "endorsement"
+      ]
+    },
+    {
+      "x_text": "Don’t forget to get a copy of my son Eric’s book, “UNDER SIEGE,” which is breaking records everywhere. It’s a phenomenal book, that’s a must read for everyone—Congratulations Eric, you deserve it!!!",
+      "ts_text": "Don't forget to get a copy of my son Eric's book, \"UNDER SIEGE,\" which is breaking records everywhere. It's a phenomenal book, that's a must read for everyone—Congratulations Eric, you deserve it!!!",
+      "similarity": 1.0,
+      "x_time": "2025-10-14T17:20:04.000Z",
+      "ts_time": "2025-10-14T17:16:38.055Z",
+      "time_diff_hours": 0.06,
+      "x_impressions": 45610697,
+      "x_likes": 384548,
+      "x_retweets": 51710,
+      "ts_replies": 1168,
+      "ts_reblogs": 4102,
+      "ts_favourites": 18503,
+      "topics": [
+        "personal_family"
+      ]
+    },
+    {
+      "x_text": "I am pleased to announce that the great Dan Scavino, in addition to remaining Deputy Chief of Staff of the Trump Administration, will head the White House Presidential Personnel Office, replacing Serg",
+      "ts_text": "I am pleased to announce that the great Dan Scavino, in addition to remaining Deputy Chief of Staff of the Trump Administration, will head the White House Presidential Personnel Office, replacing Serg",
+      "similarity": 0.655,
+      "x_time": "2025-10-12T04:43:54.000Z",
+      "ts_time": "2025-10-12T04:26:46.561Z",
+      "time_diff_hours": 0.29,
+      "x_impressions": 49442096,
+      "x_likes": 332246,
+      "x_retweets": 40522,
+      "ts_replies": 1654,
+      "ts_reblogs": 7820,
+      "ts_favourites": 35007,
+      "topics": [
+        "tariff_trade",
+        "immigration",
+        "endorsement"
+      ]
+    },
+    {
+      "x_text": "It was great being with King Charles, Queen Camilla, and the Royal Family!",
+      "ts_text": "It was great being with King Charles, Queen Camilla, and the Royal Family!",
+      "similarity": 1.0,
+      "x_time": "2025-10-01T03:02:36.000Z",
+      "ts_time": "2025-09-28T14:49:37.852Z",
+      "time_diff_hours": 60.22,
+      "x_impressions": 44841678,
+      "x_likes": 413492,
+      "x_retweets": 31506,
+      "ts_replies": 1696,
+      "ts_reblogs": 4120,
+      "ts_favourites": 22750,
+      "topics": [
+        "personal_family"
+      ]
+    },
+    {
+      "x_text": "Yes, I’m watching. Congratulations!",
+      "ts_text": "Yes, I'm watching. Congratulations!",
+      "similarity": 1.0,
+      "x_time": "2025-10-01T03:01:51.000Z",
+      "ts_time": "2025-09-29T01:41:05.749Z",
+      "time_diff_hours": 49.35,
+      "x_impressions": 34159249,
+      "x_likes": 494956,
+      "x_retweets": 31457,
+      "ts_replies": 1748,
+      "ts_reblogs": 6005,
+      "ts_favourites": 35413,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "x_text": "MY son Eric’s just out book, “UNDER SIEGE,” immediately went to NUMBER ONE on Amazon. Great going Eric, you deserve it!!!",
+      "ts_text": "MY son Eric's just out book, \"UNDER SIEGE,\" immediately went to NUMBER ONE on Amazon. Great going Eric, you deserve it!!!",
+      "similarity": 1.0,
+      "x_time": "2025-09-15T18:20:42.000Z",
+      "ts_time": "2025-09-15T16:42:14.412Z",
+      "time_diff_hours": 1.64,
+      "x_impressions": 33059109,
+      "x_likes": 339556,
+      "x_retweets": 49242,
+      "ts_replies": 1175,
+      "ts_reblogs": 5013,
+      "ts_favourites": 22272,
+      "topics": [
+        "personal_family",
+        "media_attack"
+      ]
+    },
+    {
+      "x_text": "TO MY GREAT FELLOW AMERICANS…",
+      "ts_text": "TO MY GREAT FELLOW AMERICANS…",
+      "similarity": 1.0,
+      "x_time": "2025-09-11T01:15:39.000Z",
+      "ts_time": "2025-09-11T00:44:20.881Z",
+      "time_diff_hours": 0.52,
+      "x_impressions": 157808360,
+      "x_likes": 1301757,
+      "x_retweets": 189330,
+      "ts_replies": 12597,
+      "ts_reblogs": 31233,
+      "ts_favourites": 117273,
+      "topics": [
+        "personal_family"
+      ]
+    },
+    {
+      "x_text": "Due to a massive earthquake that occurred in the Pacific Ocean, a Tsunami Warning is in effect for those living in Hawaii. A Tsunami Watch is in effect for Alaska and the Pacific Coast of the United S",
+      "ts_text": "Due to a massive earthquake that occurred in the Pacific Ocean, a Tsunami Warning is in effect for those living in Hawaii. A Tsunami Watch is in effect for Alaska and the Pacific Coast of the United S",
+      "similarity": 0.861,
+      "x_time": "2025-07-30T02:16:19.000Z",
+      "ts_time": "2025-07-30T02:12:26.139Z",
+      "time_diff_hours": 0.06,
+      "x_impressions": 81306166,
+      "x_likes": 451791,
+      "x_retweets": 62593,
+      "ts_replies": 1460,
+      "ts_reblogs": 5837,
+      "ts_favourites": 20694,
+      "topics": [
+        "iran_military"
+      ]
+    },
+    {
+      "x_text": "HAPPY 4TH OF JULY!\n🎇🎆🇺🇸🦅",
+      "ts_text": "HAPPY 4TH OF JULY! ðððºð¸ð¦",
+      "similarity": 0.8,
+      "x_time": "2025-07-05T03:41:44.000Z",
+      "ts_time": "2025-07-05T03:40:20.919Z",
+      "time_diff_hours": 0.02,
+      "x_impressions": 37944337,
+      "x_likes": 486897,
+      "x_retweets": 54093,
+      "ts_replies": 640,
+      "ts_reblogs": 1741,
+      "ts_favourites": 6177,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "x_text": "THE SUPREME COURT IS BEING PLAYED BY THE RADICAL LEFT LOSERS, WHO HAVE NO SUPPORT, THE PUBLIC HATES THEM, AND THEIR ONLY HOPE IS THE INTIMIDATION OF THE COURT, ITSELF. WE CAN’T LET THAT HAPPEN TO OUR ",
+      "ts_text": "THE SUPREME COURT IS BEING PLAYED BY THE RADICAL LEFT LOSERS, WHO HAVE NO SUPPORT, THE PUBLIC HATES THEM, AND THEIR ONLY HOPE IS THE INTIMIDATION OF THE COURT, ITSELF. WE CAN’T LET THAT HAPPEN TO OUR ",
+      "similarity": 1.0,
+      "x_time": "2025-05-16T17:37:33.000Z",
+      "ts_time": "2025-05-16T13:35:53.152Z",
+      "time_diff_hours": 4.03,
+      "x_impressions": 55237057,
+      "x_likes": 318059,
+      "x_retweets": 49628,
+      "ts_replies": 2245,
+      "ts_reblogs": 7399,
+      "ts_favourites": 32499,
+      "topics": [
+        "media_attack",
+        "legal_court"
+      ]
+    },
+    {
+      "x_text": "Republicans MUST UNITE behind, “THE ONE, BIG BEAUTIFUL BILL!” Not only does it cut Taxes for ALL Americans, but it will kick millions of Illegal Aliens off of Medicaid to PROTECT it for those who are ",
+      "ts_text": "Republicans MUST UNITE behind, “THE ONE, BIG BEAUTIFUL BILL!” Not only does it cut Taxes for ALL Americans, but it will kick millions of Illegal Aliens off of Medicaid to PROTECT it for those who are ",
+      "similarity": 0.538,
+      "x_time": "2025-05-16T17:16:46.000Z",
+      "ts_time": "2025-05-16T14:07:23.987Z",
+      "time_diff_hours": 3.16,
+      "x_impressions": 39526528,
+      "x_likes": 233794,
+      "x_retweets": 40742,
+      "ts_replies": 1846,
+      "ts_reblogs": 4564,
+      "ts_favourites": 16620,
+      "topics": [
+        "immigration",
+        "personal_family",
+        "endorsement",
+        "media_attack"
+      ]
+    },
+    {
+      "x_text": "Today, I signed an Executive Order to launch the first-ever self-deportation program. Illegal aliens who stay in America face punishments, including—sudden deportation, in a place and manner solely of",
+      "ts_text": "Today, I signed an Executive Order to launch the first-ever self-deportation program. Illegal aliens who stay in America face punishments, including—sudden deportation, in a place and manner solely of",
+      "similarity": 1.0,
+      "x_time": "2025-05-10T01:04:06.000Z",
+      "ts_time": "2025-05-10T01:02:57.056Z",
+      "time_diff_hours": 0.02,
+      "x_impressions": 74959079,
+      "x_likes": 472115,
+      "x_retweets": 71421,
+      "ts_replies": 172,
+      "ts_reblogs": 451,
+      "ts_favourites": 1422,
+      "topics": [
+        "executive_order",
+        "immigration",
+        "personal_family"
+      ]
+    },
+    {
+      "x_text": "Join me tomorrow, April 29th—in Warren, Michigan at 6:00PM Eastern!",
+      "ts_text": "Join me tomorrow, April 29th—in Warren, Michigan at 6:00PM Eastern! Tickets:",
+      "similarity": 0.909,
+      "x_time": "2025-04-28T14:28:08.000Z",
+      "ts_time": "2025-04-28T13:49:01.115Z",
+      "time_diff_hours": 0.65,
+      "x_impressions": 35897170,
+      "x_likes": 108078,
+      "x_retweets": 20210,
+      "ts_replies": 861,
+      "ts_reblogs": 2387,
+      "ts_favourites": 9073,
+      "topics": [
+        "iran_military"
+      ]
+    },
+    {
+      "x_text": "Sleepy Joe Biden, THE WORST PRESIDENT IN THE HISTORY OF THE UNITED STATES, has allowed millions and millions of Criminals, many of them murderers, drug dealers, and people released from prisons and me",
+      "ts_text": "Sleepy Joe Biden, THE WORST PRESIDENT IN THE HISTORY OF THE UNITED STATES, has allowed millions and millions of Criminals, many of them murderers, drug dealers, and people released from prisons and me",
+      "similarity": 0.61,
+      "x_time": "2025-04-18T22:30:07.000Z",
+      "ts_time": "2025-04-16T11:26:54.298Z",
+      "time_diff_hours": 59.05,
+      "x_impressions": 77044299,
+      "x_likes": 373994,
+      "x_retweets": 53129,
+      "ts_replies": 1011,
+      "ts_reblogs": 2276,
+      "ts_favourites": 9761,
+      "topics": [
+        "tariff_trade",
+        "executive_order",
+        "immigration"
+      ]
+    },
+    {
+      "x_text": "This is the hand of the man that the Democrats feel should be brought back to the United States, because he is such “a fine and innocent person.” They said he is not a member of MS-13, even though he’",
+      "ts_text": "This is the hand of the man that the Democrats feel should be brought back to the United States, because he is such “a fine and innocent person.” They said he is not a member of MS-13, even though he’",
+      "similarity": 0.646,
+      "x_time": "2025-04-18T22:27:57.000Z",
+      "ts_time": "2025-04-18T22:00:09.694Z",
+      "time_diff_hours": 0.46,
+      "x_impressions": 81200530,
+      "x_likes": 472386,
+      "x_retweets": 76834,
+      "ts_replies": 1632,
+      "ts_reblogs": 4518,
+      "ts_favourites": 14187,
+      "topics": [
+        "personal_family",
+        "media_attack",
+        "legal_court"
+      ]
+    },
+    {
+      "x_text": "The United States has a chance to do something that should have been done DECADES AGO. Don’t be Weak! Don’t be Stupid! Don’t be a PANICAN (A new party based on Weak and Stupid people!). Be Strong, Cou",
+      "ts_text": "The United States has a chance to do something that should have been done DECADES AGO. Don’t be Weak! Don’t be Stupid! Don’t be a PANICAN (A new party based on Weak and Stupid people!). Be Strong, Cou",
+      "similarity": 1.0,
+      "x_time": "2025-04-07T14:56:03.000Z",
+      "ts_time": "2025-04-07T12:59:43.302Z",
+      "time_diff_hours": 1.94,
+      "x_impressions": 94901682,
+      "x_likes": 484407,
+      "x_retweets": 68444,
+      "ts_replies": 4586,
+      "ts_reblogs": 10250,
+      "ts_favourites": 45196,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "x_text": "These Houthis gathered for instructions on an attack. Oops, there will be no attack by these Houthis! \n\nThey will never sink our ships again!",
+      "ts_text": "These Houthis gathered for instructions on an attack. Oops, there will be no attack by these Houthis!Â They will never sink our ships again!Â",
+      "similarity": 0.905,
+      "x_time": "2025-04-04T23:27:15.000Z",
+      "ts_time": "2025-04-04T21:40:56.527Z",
+      "time_diff_hours": 1.77,
+      "x_impressions": 143839920,
+      "x_likes": 457449,
+      "x_retweets": 57746,
+      "ts_replies": 1981,
+      "ts_reblogs": 4796,
+      "ts_favourites": 17488,
+      "topics": [
+        "iran_military"
+      ]
+    },
+    {
+      "x_text": "REPUBLICANS MUST DEFUND AND TOTALLY DISASSOCIATE THEMSELVES FROM NPR &amp; PBS, THE RADICAL LEFT “MONSTERS” THAT SO BADLY HURT OUR COUNTRY!",
+      "ts_text": "REPUBLICANS MUST DEFUND AND TOTALLY DISASSOCIATE THEMSELVES FROM NPR & PBS, THE RADICAL LEFT “MONSTERS” THAT SO BADLY HURT OUR COUNTRY!",
+      "similarity": 0.952,
+      "x_time": "2025-04-01T20:53:05.000Z",
+      "ts_time": "2025-04-01T20:17:40.583Z",
+      "time_diff_hours": 0.59,
+      "x_impressions": 66575761,
+      "x_likes": 252247,
+      "x_retweets": 36859,
+      "ts_replies": 638,
+      "ts_reblogs": 1522,
+      "ts_favourites": 5265,
+      "topics": [
+        "media_attack"
+      ]
+    },
+    {
+      "x_text": "The Iran-backed Houthi Terrorists have been decimated by the relentless strikes over the past two weeks. Many of their Fighters and Leaders are no longer with us. We hit them every day and night — Har",
+      "ts_text": "The Iran-backed Houthi Terrorists have been decimated by the relentless strikes over the past two weeks. Many of their Fighters and Leaders are no longer with us. We hit them every day and night — Har",
+      "similarity": 0.507,
+      "x_time": "2025-03-31T18:49:47.000Z",
+      "ts_time": "2025-03-31T18:15:19.837Z",
+      "time_diff_hours": 0.57,
+      "x_impressions": 66246144,
+      "x_likes": 256101,
+      "x_retweets": 37347,
+      "ts_replies": 1438,
+      "ts_reblogs": 5156,
+      "ts_favourites": 22386,
+      "topics": [
+        "iran_military",
+        "immigration"
+      ]
+    },
+    {
+      "x_text": "There will never have been a transformation of a Country like the transformation that is happening, for all to see, in the United States of America. Companies are pouring into our Country at levels ne",
+      "ts_text": "There will never have been a transformation of a Country like the transformation that is happening, for all to see, in the United States of America. Companies are pouring into our Country at levels ne",
+      "similarity": 0.975,
+      "x_time": "2025-03-31T18:49:06.000Z",
+      "ts_time": "2025-03-31T16:47:45.266Z",
+      "time_diff_hours": 2.02,
+      "x_impressions": 74896995,
+      "x_likes": 353035,
+      "x_retweets": 48638,
+      "ts_replies": 665,
+      "ts_reblogs": 2807,
+      "ts_favourites": 11246,
+      "topics": [
+        "personal_family"
+      ]
+    },
+    {
+      "x_text": "In two months, there has been more Private Investment spoken for, and/or committed to, than in four years of the Sleepy Joe Biden Administration — A fact that the Fake News hates talking about!",
+      "ts_text": "In two months, there has been more Private Investment spoken for, and/or committed to, than in four years of the Sleepy Joe Biden Administration — A fact that the Fake News hates talking about!",
+      "similarity": 1.0,
+      "x_time": "2025-03-31T18:48:06.000Z",
+      "ts_time": "2025-03-31T16:47:51.925Z",
+      "time_diff_hours": 2.0,
+      "x_impressions": 52792511,
+      "x_likes": 170795,
+      "x_retweets": 23892,
+      "ts_replies": 540,
+      "ts_reblogs": 2769,
+      "ts_favourites": 11259,
+      "topics": [
+        "economy_market",
+        "media_attack"
+      ]
+    },
+    {
+      "x_text": "FIGHT, FIGHT, FIGHT!!!",
+      "ts_text": "FIGHT, FIGHT, FIGHT!!!",
+      "similarity": 1.0,
+      "x_time": "2025-03-25T02:40:12.000Z",
+      "ts_time": "2025-03-25T01:48:28.452Z",
+      "time_diff_hours": 0.86,
+      "x_impressions": 24247341,
+      "x_likes": 253173,
+      "x_retweets": 45384,
+      "ts_replies": 1188,
+      "ts_reblogs": 3332,
+      "ts_favourites": 10889,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "x_text": "Elon Musk: “As a function of the great policies of President Trump and his administration, and as an act of faith in America, Tesla is going to DOUBLE vehicle output in the United States within the ne",
+      "ts_text": "Elon Musk: “As a function of the great policies of President Trump and his administration, and as an act of faith in America, Tesla is going to DOUBLE vehicle output in the United States within the ne",
+      "similarity": 1.0,
+      "x_time": "2025-03-12T01:44:49.000Z",
+      "ts_time": "2025-03-11T20:10:00.942Z",
+      "time_diff_hours": 5.58,
+      "x_impressions": 46204247,
+      "x_likes": 314446,
+      "x_retweets": 42232,
+      "ts_replies": 349,
+      "ts_reblogs": 1190,
+      "ts_favourites": 4836,
+      "topics": [
+        "elon_doge",
+        "personal_family"
+      ]
+    },
+    {
+      "x_text": "Number one, it's a great product, as good as it gets—and number two, because  has devoted his energy and his life to doing this and I think he has been treated very unfairly…",
+      "ts_text": "Number one, it's a great product—as good as it gets—and number two, because Elon has devoted his energy and his life to doing this and I think he has been treated very unfairly…",
+      "similarity": 0.931,
+      "x_time": "2025-03-12T01:41:44.000Z",
+      "ts_time": "2025-03-11T20:06:00.146Z",
+      "time_diff_hours": 5.6,
+      "x_impressions": 56213746,
+      "x_likes": 378639,
+      "x_retweets": 45468,
+      "ts_replies": 281,
+      "ts_reblogs": 1051,
+      "ts_favourites": 4127,
+      "topics": [
+        "elon_doge",
+        "endorsement"
+      ]
+    },
+    {
+      "x_text": "He who saves his Country does not violate any Law.",
+      "ts_text": "He who saves his Country does not violate any Law.",
+      "similarity": 1.0,
+      "x_time": "2025-02-15T18:32:31.000Z",
+      "ts_time": "2025-02-15T17:53:36.986Z",
+      "time_diff_hours": 0.65,
+      "x_impressions": 244966893,
+      "x_likes": 716287,
+      "x_retweets": 101361,
+      "ts_replies": 5335,
+      "ts_reblogs": 11646,
+      "ts_favourites": 53237,
+      "topics": [
+        "legal_court"
+      ]
+    },
+    {
+      "x_text": "WELCOME HOME, MARC!🇺🇸",
+      "ts_text": "WELCOME HOME, MARC FOGEL🇺🇸",
+      "similarity": 0.75,
+      "x_time": "2025-02-12T04:19:57.000Z",
+      "ts_time": "2025-02-12T04:17:21.248Z",
+      "time_diff_hours": 0.04,
+      "x_impressions": 52583257,
+      "x_likes": 411287,
+      "x_retweets": 45965,
+      "ts_replies": 1830,
+      "ts_reblogs": 7918,
+      "ts_favourites": 39846,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "x_text": "This morning I ordered precision Military air strikes on the Senior ISIS Attack Planner and other terrorists he recruited and led in Somalia. These killers, who we found hiding in caves, threatened th",
+      "ts_text": "This morning I ordered precision Military air strikes on the Senior ISIS Attack Planner and other terrorists he recruited and led in Somalia. These killers, who we found hiding in caves, threatened th",
+      "similarity": 0.514,
+      "x_time": "2025-02-01T17:20:50.000Z",
+      "ts_time": "2025-02-01T17:18:13.836Z",
+      "time_diff_hours": 0.04,
+      "x_impressions": 167039349,
+      "x_likes": 743465,
+      "x_retweets": 95388,
+      "ts_replies": 8153,
+      "ts_reblogs": 21690,
+      "ts_favourites": 98679,
+      "topics": [
+        "iran_military",
+        "executive_order",
+        "personal_family"
+      ]
+    },
+    {
+      "x_text": "It is so good to have the Venezuela Hostages back home and, very important to note, that Venezuela has agreed to receive, back into their Country, all Venezuela illegal aliens who were encamped in the",
+      "ts_text": "It is so good to have the Venezuela Hostages back home and, very important to note, that Venezuela has agreed to receive, back into their Country, all Venezuela illegal aliens who were encamped in the",
+      "similarity": 0.594,
+      "x_time": "2025-02-01T17:19:46.000Z",
+      "ts_time": "2025-02-01T15:43:23.909Z",
+      "time_diff_hours": 1.61,
+      "x_impressions": 53494890,
+      "x_likes": 312982,
+      "x_retweets": 40237,
+      "ts_replies": 2658,
+      "ts_reblogs": 10283,
+      "ts_favourites": 46616,
+      "topics": [
+        "tariff_trade",
+        "executive_order",
+        "immigration",
+        "foreign_policy"
+      ]
+    },
+    {
+      "x_text": "Just been informed that we are bringing six hostages home from Venezuela. Thank you to Ric Grenell and my entire staff. Great job!",
+      "ts_text": "Just been informed that we are bringing six hostages home from Venezuela. Thank you to Ric Grenell and my entire staff. Great job!",
+      "similarity": 1.0,
+      "x_time": "2025-02-01T00:29:37.000Z",
+      "ts_time": "2025-02-01T00:29:22.396Z",
+      "time_diff_hours": 0.0,
+      "x_impressions": 70879467,
+      "x_likes": 471529,
+      "x_retweets": 46094,
+      "ts_replies": 1384,
+      "ts_reblogs": 8596,
+      "ts_favourites": 46207,
+      "topics": [
+        "foreign_policy"
+      ]
+    },
+    {
+      "x_text": "Photo of beautiful water flow that I just opened in California. Today, 1.6 billion gallons and, in 3 days, it will be 5.2 billion gallons. Everybody should be happy about this long fought Victory! I o",
+      "ts_text": "Photo of beautiful water flow that I just opened in California. Today, 1.6 billion gallons and, in 3 days, it will be 5.2 billion gallons. Everybody should be happy about this long fought Victory! I o",
+      "similarity": 1.0,
+      "x_time": "2025-01-31T23:39:34.000Z",
+      "ts_time": "2025-01-31T23:36:08.423Z",
+      "time_diff_hours": 0.06,
+      "x_impressions": 67401588,
+      "x_likes": 524195,
+      "x_retweets": 70627,
+      "ts_replies": 2636,
+      "ts_reblogs": 10202,
+      "ts_favourites": 41123,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "x_text": "THE GOLDEN AGE OF AMERICA BEGINS RIGHT NOW!",
+      "ts_text": "THE MOST HISTORIC 100 HOURS IN AMERICAN HISTORY—THE GOLDEN AGE OF AMERICA BEGINS RIGHT NOW!",
+      "similarity": 0.533,
+      "x_time": "2025-01-25T17:33:42.000Z",
+      "ts_time": "2025-01-24T22:02:01.840Z",
+      "time_diff_hours": 19.53,
+      "x_impressions": 55480994,
+      "x_likes": 501537,
+      "x_retweets": 68895,
+      "ts_replies": 3979,
+      "ts_reblogs": 11447,
+      "ts_favourites": 43345,
+      "topics": [
+        "personal_family"
+      ]
+    },
+    {
+      "x_text": "Happy 20th Anniversary to Melania!",
+      "ts_text": "Happy 20th Anniversary to Melania!",
+      "similarity": 1.0,
+      "x_time": "2025-01-22T20:01:23.000Z",
+      "ts_time": "2025-01-22T18:45:32.356Z",
+      "time_diff_hours": 1.26,
+      "x_impressions": 103565383,
+      "x_likes": 1341803,
+      "x_retweets": 84372,
+      "ts_replies": 11638,
+      "ts_reblogs": 14302,
+      "ts_favourites": 93619,
+      "topics": [
+        "personal_family"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+# 大型原始檔案
+raw_archive.csv
+clean_all.csv
+clean_all.json
+clean_president.csv
+clean_president.json
+
+# 分析結果（只留在 data/）
+/results_*.json
+/prediction_scores.json
+/predictions_log.json
+/overnight_results.json
+/market_*.json
+
+# 暫存
+__pycache__/
+*.pyc
+.DS_Store
+*.bak
+last_seen_post.txt
+alerts_log.json
+overnight_log.txt
+
+# 安全
+.env
+.env.*
+*.key
+*.pem
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 虛擬環境
+venv/
+.venv/

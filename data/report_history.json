@@ -1,0 +1,193 @@
+[
+  {
+    "date": "2026-03-15",
+    "posts": 11,
+    "triggered": 0,
+    "long": 0,
+    "short": 0,
+    "signals": [
+      "DEAL",
+      "CHINA",
+      "IRAN",
+      "DEAL_ONLY"
+    ],
+    "consensus": "NEUTRAL"
+  },
+  {
+    "date": "2026-03-15",
+    "posts": 11,
+    "triggered": 0,
+    "long": 0,
+    "short": 0,
+    "signals": [
+      "DEAL",
+      "CHINA",
+      "IRAN",
+      "DEAL_ONLY"
+    ],
+    "consensus": "NEUTRAL"
+  },
+  {
+    "date": "2026-03-15",
+    "posts": 11,
+    "triggered": 0,
+    "long": 0,
+    "short": 0,
+    "signals": [
+      "DEAL",
+      "CHINA",
+      "IRAN",
+      "DEAL_ONLY"
+    ],
+    "consensus": "NEUTRAL"
+  },
+  {
+    "date": "2026-03-15",
+    "posts": 11,
+    "triggered": 0,
+    "long": 0,
+    "short": 0,
+    "signals": [
+      "DEAL",
+      "CHINA",
+      "IRAN",
+      "DEAL_ONLY"
+    ],
+    "consensus": "NEUTRAL"
+  },
+  {
+    "date": "2026-03-15",
+    "posts": 11,
+    "triggered": 0,
+    "long": 0,
+    "short": 0,
+    "signals": [
+      "DEAL",
+      "CHINA",
+      "IRAN",
+      "DEAL_ONLY"
+    ],
+    "consensus": "NEUTRAL"
+  },
+  {
+    "date": "2026-03-15",
+    "posts": 11,
+    "triggered": 0,
+    "long": 0,
+    "short": 0,
+    "signals": [
+      "DEAL",
+      "CHINA",
+      "IRAN",
+      "DEAL_ONLY"
+    ],
+    "consensus": "NEUTRAL"
+  },
+  {
+    "date": "2026-03-16",
+    "posts": 8,
+    "triggered": 1,
+    "long": 0,
+    "short": 1,
+    "signals": [
+      "TARIFF",
+      "DEAL",
+      "IRAN"
+    ],
+    "consensus": "BEARISH"
+  },
+  {
+    "date": "2026-03-17",
+    "posts": 4,
+    "triggered": 0,
+    "long": 0,
+    "short": 0,
+    "signals": [
+      "IRAN"
+    ],
+    "consensus": "NEUTRAL"
+  },
+  {
+    "date": "2026-03-18",
+    "posts": 14,
+    "triggered": 1,
+    "long": 1,
+    "short": 0,
+    "signals": [
+      "CHINA",
+      "IRAN"
+    ],
+    "consensus": "BULLISH"
+  },
+  {
+    "date": "2026-03-19",
+    "posts": 15,
+    "triggered": 0,
+    "long": 0,
+    "short": 0,
+    "signals": [
+      "DEAL",
+      "CHINA",
+      "IRAN",
+      "DEAL_ONLY"
+    ],
+    "consensus": "NEUTRAL"
+  },
+  {
+    "date": "2026-03-20",
+    "posts": 4,
+    "triggered": 0,
+    "long": 0,
+    "short": 0,
+    "signals": [
+      "IRAN"
+    ],
+    "consensus": "NEUTRAL"
+  },
+  {
+    "date": "2026-03-21",
+    "posts": 8,
+    "triggered": 0,
+    "long": 0,
+    "short": 0,
+    "signals": [],
+    "consensus": "NEUTRAL"
+  },
+  {
+    "date": "2026-03-22",
+    "posts": 10,
+    "triggered": 0,
+    "long": 0,
+    "short": 0,
+    "signals": [
+      "IRAN"
+    ],
+    "consensus": "NEUTRAL"
+  },
+  {
+    "date": "2026-03-23",
+    "posts": 9,
+    "triggered": 0,
+    "long": 0,
+    "short": 0,
+    "signals": [
+      "DEAL",
+      "IRAN",
+      "DEAL_ONLY"
+    ],
+    "consensus": "NEUTRAL"
+  },
+  {
+    "date": "2026-03-24",
+<<<<<<< HEAD
+    "posts": 21,
+=======
+    "posts": 2,
+>>>>>>> a7678eae8d971fcb3ceadf48a96c333650c36a37
+    "triggered": 0,
+    "long": 0,
+    "short": 0,
+    "signals": [],
+    "consensus": "NEUTRAL"
+  }
+]

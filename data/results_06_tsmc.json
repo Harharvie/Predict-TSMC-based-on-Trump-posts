@@ -1,0 +1,63 @@
+{
+  "summary": {
+    "event_days": 286,
+    "matched_market_days": 286,
+    "original_posts": 5612
+  },
+  "feature_stats": {
+    "has_taiwan": {
+      "days": 1,
+      "same_day_n": 1,
+      "same_day_avg": -0.8333,
+      "next_day_n": 1,
+      "next_day_avg": -1.1204,
+      "overnight_gap_n": 1,
+      "overnight_gap_avg": -1.1204
+    },
+    "has_tsmc": {
+      "days": 1,
+      "same_day_n": 1,
+      "same_day_avg": -0.6965,
+      "next_day_n": 1,
+      "next_day_avg": -2.7054,
+      "overnight_gap_n": 1,
+      "overnight_gap_avg": -2.9058
+    },
+    "has_chip": {
+      "days": 18,
+      "same_day_n": 18,
+      "same_day_avg": 0.6524,
+      "next_day_n": 18,
+      "next_day_avg": 0.458,
+      "overnight_gap_n": 18,
+      "overnight_gap_avg": 0.6908
+    },
+    "has_tariff": {
+      "days": 130,
+      "same_day_n": 130,
+      "same_day_avg": 0.1655,
+      "next_day_n": 127,
+      "next_day_avg": 0.2536,
+      "overnight_gap_n": 127,
+      "overnight_gap_avg": 0.1856
+    },
+    "has_tariff_semis": {
+      "days": 14,
+      "same_day_n": 14,
+      "same_day_avg": 0.655,
+      "next_day_n": 14,
+      "next_day_avg": 0.3164,
+      "overnight_gap_n": 14,
+      "overnight_gap_avg": 0.5133
+    },
+    "has_china": {
+      "days": 75,
+      "same_day_n": 75,
+      "same_day_avg": -0.0891,
+      "next_day_n": 75,
+      "next_day_avg": 0.5544,
+      "overnight_gap_n": 75,
+      "overnight_gap_avg": 0.4715
+    }
+  }
+}

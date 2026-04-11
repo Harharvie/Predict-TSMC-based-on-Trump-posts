@@ -1,0 +1,128 @@
+{
+  "updated_at": "2026-03-15",
+  "source": "564 verified predictions analysis",
+  "hedge_signals": {
+    "description": "避險信號 — 他在怕什麼",
+    "rules": [
+      {
+        "pattern": "T_only",
+        "label": "純關稅（沒有 Deal/Relief）",
+        "avg_return": -1.057,
+        "up_rate": 50.0,
+        "action": "SHORT 或觀望",
+        "priority": "HIGH"
+      },
+      {
+        "pattern": "attack_high",
+        "label": "攻擊+批評密集",
+        "avg_return": 0.159,
+        "vs_normal": 0.244,
+        "action": "降低部位",
+        "priority": "MEDIUM"
+      },
+      {
+        "pattern": "threat",
+        "label": "威脅+制裁語氣",
+        "avg_return": 0.125,
+        "vs_normal": 0.231,
+        "action": "注意避險",
+        "priority": "MEDIUM"
+      },
+      {
+        "pattern": "russia_mention",
+        "label": "提到俄羅斯/烏克蘭",
+        "avg_return": 0.148,
+        "vs_normal": 0.223,
+        "action": "地緣風險升溫",
+        "priority": "LOW"
+      }
+    ]
+  },
+  "position_signals": {
+    "description": "佈局信號 — 他在準備什麼",
+    "rules": [
+      {
+        "pattern": "D+M+R+T",
+        "label": "四信號齊發（談判+炫耀+寬減+關稅）",
+        "avg_return": 2.792,
+        "up_rate": 66.7,
+        "action": "LONG — 大 deal 佈局中",
+        "priority": "CRITICAL"
+      },
+      {
+        "pattern": "A+D",
+        "label": "先攻擊再談判",
+        "avg_return": 0.586,
+        "up_rate": 65.2,
+        "action": "LONG — 典型談判術",
+        "priority": "HIGH"
+      },
+      {
+        "pattern": "A+D+T",
+        "label": "攻擊+談判+關稅",
+        "avg_return": 0.43,
+        "up_rate": 65.0,
+        "action": "LONG — 施壓中",
+        "priority": "HIGH"
+      },
+      {
+        "pattern": "A+T",
+        "label": "攻擊+關稅（無談判）",
+        "avg_return": 0.574,
+        "up_rate": 72.7,
+        "action": "LONG — 表面兇但市場不怕",
+        "priority": "MEDIUM"
+      }
+    ]
+  },
+  "pump_signals": {
+    "description": "拉盤信號 — 他在炫耀什麼",
+    "rules": [
+      {
+        "pattern": "NONE",
+        "label": "他閉嘴（什麼都沒講）",
+        "avg_return": 0.409,
+        "up_rate": 80.0,
+        "action": "LONG — 沉默是金",
+        "priority": "HIGH"
+      },
+      {
+        "pattern": "M_only",
+        "label": "只炫耀股市",
+        "avg_return": 0.52,
+        "up_rate": 71.4,
+        "action": "LONG — 心情好",
+        "priority": "MEDIUM"
+      },
+      {
+        "pattern": "action",
+        "label": "有實際行政命令",
+        "avg_return": 0.294,
+        "action": "LONG — 行動派",
+        "priority": "MEDIUM"
+      },
+      {
+        "pattern": "relief",
+        "label": "寬減/豁免",
+        "avg_return": 0.3,
+        "action": "LONG — 市場鬆口氣",
+        "priority": "MEDIUM"
+      }
+    ]
+  },
+  "most_dangerous": {
+    "pattern": "T_only",
+    "description": "純關稅日是最危險的 — 平均 -1.057%，只有 50% 上漲",
+    "historical": "2025-04-03 (-4.84%), 2025-04-04 (-5.97%)"
+  },
+  "most_profitable": {
+    "pattern": "D+M+R+T",
+    "description": "四信號齊發是最強的 — 平均 +2.792%",
+    "historical": "出現 12 天，66.7% 上漲"
+  },
+  "biggest_surprise": {
+    "pattern": "NONE",
+    "description": "他閉嘴的時候市場最好 — 80% 上漲！",
+    "interpretation": "Trump 不說話 = 沒有壞消息 = 市場自由上漲"
+  }
+}

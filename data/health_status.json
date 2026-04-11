@@ -1,0 +1,12 @@
+{
+  "status": "degraded",
+  "updated_at": "2026-04-04T22:00:14.578524+00:00",
+  "uptime_min": 4613,
+  "consecutive_rss_fails": 0,
+  "consecutive_x_fails": 37,
+  "details": {
+    "issues": [
+      "🟡 X 連續發推失敗 37 次"
+    ]
+  }
+}

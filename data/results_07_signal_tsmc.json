@@ -1,0 +1,863 @@
+{
+  "summary": {
+    "total_posts": 5612,
+    "market_days": 290,
+    "turn_points": 111
+  },
+  "session_effects": {
+    "MARKET_OPEN": {
+      "posts": 901,
+      "same_day_avg": 0.0736,
+      "next_day_avg": -0.0551
+    },
+    "MARKET_OPEN+POSITIVE": {
+      "posts": 263,
+      "same_day_avg": 0.0682,
+      "next_day_avg": -0.0952
+    },
+    "OVERNIGHT": {
+      "posts": 4233,
+      "same_day_avg": 0.0728,
+      "next_day_avg": -0.0255
+    },
+    "PRE_MARKET": {
+      "posts": 238,
+      "same_day_avg": 0.099,
+      "next_day_avg": -0.0475
+    },
+    "PRE_MARKET+DEAL": {
+      "posts": 11,
+      "same_day_avg": 0.545,
+      "next_day_avg": 0.1593
+    },
+    "OVERNIGHT+DEAL": {
+      "posts": 273,
+      "same_day_avg": 0.1104,
+      "next_day_avg": -0.0736
+    },
+    "OVERNIGHT+TARIFF": {
+      "posts": 269,
+      "same_day_avg": 0.0236,
+      "next_day_avg": 0.2085
+    },
+    "OVERNIGHT+THREAT": {
+      "posts": 110,
+      "same_day_avg": 0.018,
+      "next_day_avg": 0.0751
+    },
+    "PRE_MARKET+POSITIVE": {
+      "posts": 86,
+      "same_day_avg": 0.0304,
+      "next_day_avg": 0.1812
+    },
+    "OVERNIGHT+POSITIVE": {
+      "posts": 1307,
+      "same_day_avg": -0.0034,
+      "next_day_avg": -0.0819
+    },
+    "MARKET_OPEN+TARIFF": {
+      "posts": 33,
+      "same_day_avg": -0.2433,
+      "next_day_avg": 0.2444
+    },
+    "OVERNIGHT+CHINA_TAIWAN": {
+      "posts": 110,
+      "same_day_avg": -0.2383,
+      "next_day_avg": 0.1948
+    },
+    "OVERNIGHT+RELIEF": {
+      "posts": 40,
+      "same_day_avg": -0.1094,
+      "next_day_avg": 0.0765
+    },
+    "OVERNIGHT+ATTACK": {
+      "posts": 214,
+      "same_day_avg": 0.0952,
+      "next_day_avg": 0.0447
+    },
+    "OVERNIGHT+ACTION": {
+      "posts": 282,
+      "same_day_avg": 0.0547,
+      "next_day_avg": -0.1094
+    },
+    "MARKET_OPEN+CHINA_TAIWAN": {
+      "posts": 12,
+      "same_day_avg": -0.3367,
+      "next_day_avg": -0.1272
+    },
+    "MARKET_OPEN+ACTION": {
+      "posts": 35,
+      "same_day_avg": 0.0267,
+      "next_day_avg": -0.263
+    },
+    "MARKET_OPEN+DEAL": {
+      "posts": 34,
+      "same_day_avg": -0.1767,
+      "next_day_avg": -0.1224
+    },
+    "PRE_MARKET+ACTION": {
+      "posts": 21,
+      "same_day_avg": 0.2299,
+      "next_day_avg": -0.1864
+    },
+    "MARKET_OPEN+ATTACK": {
+      "posts": 59,
+      "same_day_avg": -0.264,
+      "next_day_avg": 0.1556
+    },
+    "MARKET_OPEN+TSMC_MENTION": {
+      "posts": 1,
+      "same_day_avg": 2.0,
+      "next_day_avg": 0.4016
+    },
+    "MARKET_OPEN+THREAT": {
+      "posts": 16,
+      "same_day_avg": -0.2651,
+      "next_day_avg": -0.1896
+    },
+    "PRE_MARKET+THREAT": {
+      "posts": 9,
+      "same_day_avg": 0.1778,
+      "next_day_avg": 0.0446
+    },
+    "PRE_MARKET+TARIFF": {
+      "posts": 14,
+      "same_day_avg": 0.5551,
+      "next_day_avg": 0.4301
+    },
+    "PRE_MARKET+ATTACK": {
+      "posts": 18,
+      "same_day_avg": 0.0509,
+      "next_day_avg": -0.3867
+    },
+    "OVERNIGHT+TSMC_MENTION": {
+      "posts": 7,
+      "same_day_avg": -0.7802,
+      "next_day_avg": 0.0397
+    },
+    "AFTER_HOURS": {
+      "posts": 52,
+      "same_day_avg": 0.6051,
+      "next_day_avg": 0.8255
+    },
+    "AFTER_HOURS+DEAL": {
+      "posts": 1,
+      "same_day_avg": 1.6427,
+      "next_day_avg": -0.2
+    },
+    "AFTER_HOURS+CHINA_TAIWAN": {
+      "posts": 2,
+      "same_day_avg": 1.8271,
+      "next_day_avg": -0.2433
+    },
+    "AFTER_HOURS+POSITIVE": {
+      "posts": 9,
+      "same_day_avg": -0.1463,
+      "next_day_avg": 0.4304
+    },
+    "AFTER_HOURS+RELIEF": {
+      "posts": 2,
+      "same_day_avg": 1.1686,
+      "next_day_avg": -0.1
+    },
+    "PRE_MARKET+RELIEF": {
+      "posts": 4,
+      "same_day_avg": -0.4033,
+      "next_day_avg": 0.7065
+    },
+    "MARKET_OPEN+RELIEF": {
+      "posts": 6,
+      "same_day_avg": 0.4799,
+      "next_day_avg": -0.6126
+    },
+    "PRE_MARKET+TSMC_MENTION": {
+      "posts": 1,
+      "same_day_avg": 0.4566,
+      "next_day_avg": 0.4566
+    },
+    "PRE_MARKET+CHINA_TAIWAN": {
+      "posts": 4,
+      "same_day_avg": -0.1944,
+      "next_day_avg": 1.33
+    },
+    "AFTER_HOURS+THREAT": {
+      "posts": 1,
+      "same_day_avg": 0.6944,
+      "next_day_avg": 0.0
+    },
+    "AFTER_HOURS+ATTACK": {
+      "posts": 3,
+      "same_day_avg": 0.7674,
+      "next_day_avg": 0.0991
+    }
+  },
+  "turn_points": [
+    {
+      "date": "2025-02-03",
+      "prev_attack": 10,
+      "today_relief": 4,
+      "return": 0.4695
+    },
+    {
+      "date": "2025-02-05",
+      "prev_attack": 8,
+      "today_relief": 1,
+      "return": 0.0
+    },
+    {
+      "date": "2025-02-06",
+      "prev_attack": 3,
+      "today_relief": 2,
+      "return": -0.4464
+    },
+    {
+      "date": "2025-02-17",
+      "prev_attack": 12,
+      "today_relief": 1,
+      "return": 1.8779
+    },
+    {
+      "date": "2025-02-18",
+      "prev_attack": 7,
+      "today_relief": 2,
+      "return": 1.3825
+    },
+    {
+      "date": "2025-03-06",
+      "prev_attack": 4,
+      "today_relief": 1,
+      "return": -1.4706
+    },
+    {
+      "date": "2025-03-07",
+      "prev_attack": 5,
+      "today_relief": 1,
+      "return": 0.0
+    },
+    {
+      "date": "2025-03-10",
+      "prev_attack": 5,
+      "today_relief": 2,
+      "return": -0.6965
+    },
+    {
+      "date": "2025-03-11",
+      "prev_attack": 16,
+      "today_relief": 1,
+      "return": 0.2064
+    },
+    {
+      "date": "2025-03-14",
+      "prev_attack": 8,
+      "today_relief": 2,
+      "return": -0.6218
+    },
+    {
+      "date": "2025-03-20",
+      "prev_attack": 3,
+      "today_relief": 2,
+      "return": 0.7157
+    },
+    {
+      "date": "2025-03-24",
+      "prev_attack": 3,
+      "today_relief": 2,
+      "return": -1.4199
+    },
+    {
+      "date": "2025-03-27",
+      "prev_attack": 2,
+      "today_relief": 1,
+      "return": -0.3122
+    },
+    {
+      "date": "2025-03-28",
+      "prev_attack": 3,
+      "today_relief": 2,
+      "return": 0.6342
+    },
+    {
+      "date": "2025-04-01",
+      "prev_attack": 5,
+      "today_relief": 1,
+      "return": 1.6146
+    },
+    {
+      "date": "2025-04-02",
+      "prev_attack": 12,
+      "today_relief": 1,
+      "return": -0.7376
+    },
+    {
+      "date": "2025-04-07",
+      "prev_attack": 11,
+      "today_relief": 3,
+      "return": 0.0
+    },
+    {
+      "date": "2025-04-08",
+      "prev_attack": 12,
+      "today_relief": 1,
+      "return": 2.3839
+    },
+    {
+      "date": "2025-04-09",
+      "prev_attack": 11,
+      "today_relief": 3,
+      "return": -2.9666
+    },
+    {
+      "date": "2025-04-11",
+      "prev_attack": 8,
+      "today_relief": 4,
+      "return": 4.8349
+    },
+    {
+      "date": "2025-04-15",
+      "prev_attack": 2,
+      "today_relief": 2,
+      "return": 0.3432
+    },
+    {
+      "date": "2025-04-16",
+      "prev_attack": 3,
+      "today_relief": 2,
+      "return": -1.3841
+    },
+    {
+      "date": "2025-04-21",
+      "prev_attack": 4,
+      "today_relief": 1,
+      "return": -1.0664
+    },
+    {
+      "date": "2025-04-23",
+      "prev_attack": 4,
+      "today_relief": 2,
+      "return": 2.3447
+    },
+    {
+      "date": "2025-04-25",
+      "prev_attack": 2,
+      "today_relief": 2,
+      "return": -1.3333
+    },
+    {
+      "date": "2025-04-28",
+      "prev_attack": 2,
+      "today_relief": 1,
+      "return": -0.1114
+    },
+    {
+      "date": "2025-04-29",
+      "prev_attack": 2,
+      "today_relief": 2,
+      "return": 0.5574
+    },
+    {
+      "date": "2025-05-05",
+      "prev_attack": 2,
+      "today_relief": 1,
+      "return": -1.8828
+    },
+    {
+      "date": "2025-05-06",
+      "prev_attack": 2,
+      "today_relief": 3,
+      "return": 0.4367
+    },
+    {
+      "date": "2025-05-07",
+      "prev_attack": 4,
+      "today_relief": 2,
+      "return": 0.3243
+    },
+    {
+      "date": "2025-05-08",
+      "prev_attack": 4,
+      "today_relief": 5,
+      "return": -1.6077
+    },
+    {
+      "date": "2025-05-09",
+      "prev_attack": 5,
+      "today_relief": 2,
+      "return": 1.1727
+    },
+    {
+      "date": "2025-05-14",
+      "prev_attack": 4,
+      "today_relief": 1,
+      "return": 0.9091
+    },
+    {
+      "date": "2025-05-15",
+      "prev_attack": 3,
+      "today_relief": 1,
+      "return": -0.7
+    },
+    {
+      "date": "2025-05-19",
+      "prev_attack": 2,
+      "today_relief": 1,
+      "return": -0.9063
+    },
+    {
+      "date": "2025-05-20",
+      "prev_attack": 2,
+      "today_relief": 1,
+      "return": -1.3118
+    },
+    {
+      "date": "2025-05-26",
+      "prev_attack": 4,
+      "today_relief": 2,
+      "return": 0.1026
+    },
+    {
+      "date": "2025-06-02",
+      "prev_attack": 5,
+      "today_relief": 1,
+      "return": -1.2526
+    },
+    {
+      "date": "2025-06-04",
+      "prev_attack": 3,
+      "today_relief": 4,
+      "return": 1.6427
+    },
+    {
+      "date": "2025-06-05",
+      "prev_attack": 4,
+      "today_relief": 1,
+      "return": -0.2
+    },
+    {
+      "date": "2025-06-06",
+      "prev_attack": 5,
+      "today_relief": 2,
+      "return": -0.2006
+    },
+    {
+      "date": "2025-06-09",
+      "prev_attack": 4,
+      "today_relief": 1,
+      "return": 0.0
+    },
+    {
+      "date": "2025-06-12",
+      "prev_attack": 5,
+      "today_relief": 3,
+      "return": -0.9479
+    },
+    {
+      "date": "2025-06-13",
+      "prev_attack": 7,
+      "today_relief": 2,
+      "return": -0.9615
+    },
+    {
+      "date": "2025-06-19",
+      "prev_attack": 2,
+      "today_relief": 2,
+      "return": -0.9569
+    },
+    {
+      "date": "2025-06-20",
+      "prev_attack": 2,
+      "today_relief": 1,
+      "return": 2.4272
+    },
+    {
+      "date": "2025-07-01",
+      "prev_attack": 4,
+      "today_relief": 1,
+      "return": 0.463
+    },
+    {
+      "date": "2025-07-02",
+      "prev_attack": 4,
+      "today_relief": 3,
+      "return": 0.9302
+    },
+    {
+      "date": "2025-07-09",
+      "prev_attack": 4,
+      "today_relief": 1,
+      "return": 1.8692
+    },
+    {
+      "date": "2025-07-15",
+      "prev_attack": 2,
+      "today_relief": 2,
+      "return": 1.3699
+    },
+    {
+      "date": "2025-07-18",
+      "prev_attack": 3,
+      "today_relief": 1,
+      "return": 0.0
+    },
+    {
+      "date": "2025-07-23",
+      "prev_attack": 3,
+      "today_relief": 1,
+      "return": 0.4386
+    },
+    {
+      "date": "2025-07-24",
+      "prev_attack": 6,
+      "today_relief": 2,
+      "return": -0.4348
+    },
+    {
+      "date": "2025-07-30",
+      "prev_attack": 2,
+      "today_relief": 2,
+      "return": 0.4348
+    },
+    {
+      "date": "2025-07-31",
+      "prev_attack": 5,
+      "today_relief": 3,
+      "return": 0.0
+    },
+    {
+      "date": "2025-08-04",
+      "prev_attack": 2,
+      "today_relief": 3,
+      "return": 0.4425
+    },
+    {
+      "date": "2025-08-08",
+      "prev_attack": 5,
+      "today_relief": 1,
+      "return": -0.4237
+    },
+    {
+      "date": "2025-08-11",
+      "prev_attack": 2,
+      "today_relief": 1,
+      "return": 0.8547
+    },
+    {
+      "date": "2025-08-12",
+      "prev_attack": 3,
+      "today_relief": 1,
+      "return": 0.0
+    },
+    {
+      "date": "2025-08-13",
+      "prev_attack": 6,
+      "today_relief": 2,
+      "return": 1.2658
+    },
+    {
+      "date": "2025-08-14",
+      "prev_attack": 7,
+      "today_relief": 2,
+      "return": -0.8439
+    },
+    {
+      "date": "2025-08-25",
+      "prev_attack": 2,
+      "today_relief": 1,
+      "return": 0.4292
+    },
+    {
+      "date": "2025-09-01",
+      "prev_attack": 3,
+      "today_relief": 1,
+      "return": 1.3043
+    },
+    {
+      "date": "2025-09-04",
+      "prev_attack": 4,
+      "today_relief": 3,
+      "return": -0.8547
+    },
+    {
+      "date": "2025-09-15",
+      "prev_attack": 2,
+      "today_relief": 3,
+      "return": -0.3968
+    },
+    {
+      "date": "2025-09-26",
+      "prev_attack": 3,
+      "today_relief": 2,
+      "return": -0.7634
+    },
+    {
+      "date": "2025-09-30",
+      "prev_attack": 3,
+      "today_relief": 1,
+      "return": -0.3817
+    },
+    {
+      "date": "2025-10-01",
+      "prev_attack": 3,
+      "today_relief": 2,
+      "return": 0.0
+    },
+    {
+      "date": "2025-10-03",
+      "prev_attack": 2,
+      "today_relief": 1,
+      "return": 2.5641
+    },
+    {
+      "date": "2025-10-08",
+      "prev_attack": 2,
+      "today_relief": 1,
+      "return": 0.3546
+    },
+    {
+      "date": "2025-10-23",
+      "prev_attack": 3,
+      "today_relief": 1,
+      "return": 0.6944
+    },
+    {
+      "date": "2025-10-27",
+      "prev_attack": 7,
+      "today_relief": 1,
+      "return": -1.3333
+    },
+    {
+      "date": "2025-10-30",
+      "prev_attack": 4,
+      "today_relief": 2,
+      "return": -0.6601
+    },
+    {
+      "date": "2025-10-31",
+      "prev_attack": 6,
+      "today_relief": 3,
+      "return": -0.9901
+    },
+    {
+      "date": "2025-11-04",
+      "prev_attack": 3,
+      "today_relief": 2,
+      "return": -0.9868
+    },
+    {
+      "date": "2025-11-07",
+      "prev_attack": 3,
+      "today_relief": 3,
+      "return": 0.0
+    },
+    {
+      "date": "2025-11-11",
+      "prev_attack": 5,
+      "today_relief": 1,
+      "return": -1.6779
+    },
+    {
+      "date": "2025-11-18",
+      "prev_attack": 2,
+      "today_relief": 1,
+      "return": -2.0906
+    },
+    {
+      "date": "2025-11-19",
+      "prev_attack": 3,
+      "today_relief": 1,
+      "return": -0.3571
+    },
+    {
+      "date": "2025-11-20",
+      "prev_attack": 4,
+      "today_relief": 1,
+      "return": 0.3448
+    },
+    {
+      "date": "2025-11-25",
+      "prev_attack": 4,
+      "today_relief": 1,
+      "return": -0.7018
+    },
+    {
+      "date": "2025-11-26",
+      "prev_attack": 4,
+      "today_relief": 3,
+      "return": 0.6993
+    },
+    {
+      "date": "2025-12-03",
+      "prev_attack": 2,
+      "today_relief": 1,
+      "return": 0.6944
+    },
+    {
+      "date": "2025-12-04",
+      "prev_attack": 2,
+      "today_relief": 1,
+      "return": 0.0
+    },
+    {
+      "date": "2025-12-11",
+      "prev_attack": 5,
+      "today_relief": 1,
+      "return": -2.649
+    },
+    {
+      "date": "2026-01-06",
+      "prev_attack": 3,
+      "today_relief": 1,
+      "return": 3.6474
+    },
+    {
+      "date": "2026-01-07",
+      "prev_attack": 2,
+      "today_relief": 2,
+      "return": 0.6006
+    },
+    {
+      "date": "2026-01-08",
+      "prev_attack": 4,
+      "today_relief": 1,
+      "return": 1.506
+    },
+    {
+      "date": "2026-01-09",
+      "prev_attack": 4,
+      "today_relief": 1,
+      "return": 0.9009
+    },
+    {
+      "date": "2026-01-13",
+      "prev_attack": 2,
+      "today_relief": 1,
+      "return": -0.5814
+    },
+    {
+      "date": "2026-01-16",
+      "prev_attack": 4,
+      "today_relief": 2,
+      "return": 0.2882
+    },
+    {
+      "date": "2026-01-23",
+      "prev_attack": 4,
+      "today_relief": 5,
+      "return": 0.0
+    },
+    {
+      "date": "2026-01-26",
+      "prev_attack": 9,
+      "today_relief": 1,
+      "return": -0.5666
+    },
+    {
+      "date": "2026-01-28",
+      "prev_attack": 3,
+      "today_relief": 1,
+      "return": 1.676
+    },
+    {
+      "date": "2026-02-03",
+      "prev_attack": 3,
+      "today_relief": 2,
+      "return": -0.5525
+    },
+    {
+      "date": "2026-02-05",
+      "prev_attack": 3,
+      "today_relief": 3,
+      "return": 0.0
+    },
+    {
+      "date": "2026-02-09",
+      "prev_attack": 2,
+      "today_relief": 1,
+      "return": -0.8197
+    },
+    {
+      "date": "2026-02-10",
+      "prev_attack": 4,
+      "today_relief": 1,
+      "return": 1.897
+    },
+    {
+      "date": "2026-02-11",
+      "prev_attack": 3,
+      "today_relief": 2,
+      "return": 1.8617
+    },
+    {
+      "date": "2026-02-23",
+      "prev_attack": 8,
+      "today_relief": 2,
+      "return": 0.0
+    },
+    {
+      "date": "2026-03-02",
+      "prev_attack": 2,
+      "today_relief": 1,
+      "return": 1.8041
+    },
+    {
+      "date": "2026-03-05",
+      "prev_attack": 3,
+      "today_relief": 1,
+      "return": -2.0619
+    },
+    {
+      "date": "2026-03-06",
+      "prev_attack": 3,
+      "today_relief": 1,
+      "return": 0.5319
+    },
+    {
+      "date": "2026-03-13",
+      "prev_attack": 2,
+      "today_relief": 1,
+      "return": 1.3587
+    },
+    {
+      "date": "2026-03-19",
+      "prev_attack": 4,
+      "today_relief": 1,
+      "return": -1.3333
+    },
+    {
+      "date": "2026-03-26",
+      "prev_attack": 2,
+      "today_relief": 4,
+      "return": -0.5405
+    },
+    {
+      "date": "2026-03-31",
+      "prev_attack": 2,
+      "today_relief": 1,
+      "return": -0.8451
+    },
+    {
+      "date": "2026-04-01",
+      "prev_attack": 3,
+      "today_relief": 1,
+      "return": 0.8152
+    },
+    {
+      "date": "2026-04-02",
+      "prev_attack": 4,
+      "today_relief": 1,
+      "return": -2.9491
+    },
+    {
+      "date": "2026-04-07",
+      "prev_attack": 2,
+      "today_relief": 2,
+      "return": 0.5405
+    },
+    {
+      "date": "2026-04-08",
+      "prev_attack": 2,
+      "today_relief": 2,
+      "return": 0.7752
+    }
+  ],
+  "analysis_date": "2026-04-11T18:06:44.035581"
+}

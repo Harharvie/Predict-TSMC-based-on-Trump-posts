@@ -1,0 +1,1574 @@
+{
+  "metadata": {
+    "timestamp": "2026-03-15T05:53:52Z",
+    "analysis_version": "2.0",
+    "x_source": "X embed API (cdn.syndication.twimg.com)",
+    "truth_source": "clean_president.json (Truth Social archive)"
+  },
+  "summary": {
+    "x_total": 37,
+    "truth_total": 5306,
+    "matched": 10,
+    "x_only": 27,
+    "truth_only": 5296,
+    "truth_only_ratio": 99.8,
+    "x_selection_rate": 0.19
+  },
+  "matched_pairs": [
+    {
+      "x_id": "1890831570535055759",
+      "truth_id": "114009179225169296",
+      "x_text": "He who saves his Country does not violate any Law.",
+      "truth_text": "He who saves his Country does not violate any Law.",
+      "x_time": "2025-02-15T18:32:31.000Z",
+      "truth_time": "2025-02-15T17:53:36.986Z",
+      "x_likes": 716285,
+      "truth_likes": 53237
+    },
+    {
+      "x_id": "1908300360810479821",
+      "truth_id": "114281864005346951",
+      "x_text": "These Houthis gathered for instructions on an attack. Oops, there will be no attack by these Houthis! \n\nThey will never sink our ships again! https://t.co/lEzfyDgWP5",
+      "truth_text": "These Houthis gathered for instructions on an attack. Oops, there will be no attack by these Houthis!Â They will never sink our ships again!Â",
+      "x_time": "2025-04-04T23:27:15.000Z",
+      "truth_time": "2025-04-04T21:40:56.527Z",
+      "x_likes": 457449,
+      "truth_likes": 17488
+    },
+    {
+      "x_id": "1921008311492624867",
+      "truth_id": "114480839195032975",
+      "x_text": "Today, I signed an Executive Order to launch the first-ever self-deportation program. Illegal aliens who stay in America face punishments, including—sudden deportation, in a place and manner solely of",
+      "truth_text": "Today, I signed an Executive Order to launch the first-ever self-deportation program. Illegal aliens who stay in America face punishments, including—sudden deportation, in a place and manner solely of",
+      "x_time": "2025-05-10T01:04:06.000Z",
+      "truth_time": "2025-05-10T01:02:57.056Z",
+      "x_likes": 472113,
+      "truth_likes": 1422
+    },
+    {
+      "x_id": "1925548216243703820",
+      "truth_id": "114551462787614405",
+      "x_text": "“THE ONE, BIG, BEAUTIFUL BILL” has PASSED the House of Representatives! This is arguably the most significant piece of Legislation that will ever be signed in the History of our Country! The Bill incl",
+      "truth_text": "“THE ONE, BIG, BEAUTIFUL BILL” has PASSED the House of Representatives! This is arguably the most significant piece of Legislation that will ever be signed in the History of our Country! The Bill incl",
+      "x_time": "2025-05-22T13:44:04.000Z",
+      "truth_time": "2025-05-22T12:23:27.477Z",
+      "x_likes": 351249,
+      "truth_likes": 19394
+    },
+    {
+      "x_id": "1965947311718269341",
+      "truth_id": "115182892535295750",
+      "x_text": "TO MY GREAT FELLOW AMERICANS… https://t.co/oRsrE5TTHr",
+      "truth_text": "TO MY GREAT FELLOW AMERICANS…",
+      "x_time": "2025-09-11T01:15:39.000Z",
+      "truth_time": "2025-09-11T00:44:20.881Z",
+      "x_likes": 1301762,
+      "truth_likes": 117273
+    },
+    {
+      "x_id": "1978148814776046046",
+      "truth_id": "115373650611754631",
+      "x_text": "Don’t forget to get a copy of my son Eric’s book, “UNDER SIEGE,” which is breaking records everywhere. It’s a phenomenal book, that’s a must read for everyone—Congratulations Eric, you deserve it!!! h",
+      "truth_text": "Don't forget to get a copy of my son Eric's book, \"UNDER SIEGE,\" which is breaking records everywhere. It's a phenomenal book, that's a must read for everyone—Congratulations Eric, you deserve it!!! h",
+      "x_time": "2025-10-14T17:20:04.000Z",
+      "truth_time": "2025-10-14T17:16:38.055Z",
+      "x_likes": 384539,
+      "truth_likes": 18503
+    },
+    {
+      "x_id": "1994272683387687053",
+      "truth_id": "115625429081411360",
+      "x_text": "A very Happy Thanksgiving salutation to all of our Great American Citizens and Patriots who have been so nice in allowing our Country to be divided, disrupted, carved up, murdered, beaten, mugged, and",
+      "truth_text": "A very Happy Thanksgiving salutation to all of our Great American Citizens and Patriots who have been so nice in allowing our Country to be divided, disrupted, carved up, murdered, beaten, mugged, and",
+      "x_time": "2025-11-28T05:10:34.000Z",
+      "truth_time": "2025-11-28T04:27:12.616Z",
+      "x_likes": 543276,
+      "truth_likes": 39232
+    },
+    {
+      "x_id": "1994438728237064270",
+      "truth_id": "115617700844849134",
+      "x_text": "The United States did not attend the G20 in South Africa, because the South African Government refuses to acknowledge or address the horrific Human Right Abuses endured by Afrikaners, and other descen",
+      "truth_text": "The United States did not attend the G20 in South Africa, because the South African Government refuses to acknowledge or address the horrific Human Right Abuses endured by Afrikaners, and other descen",
+      "x_time": "2025-11-28T16:10:22.000Z",
+      "truth_time": "2025-11-26T19:41:49.085Z",
+      "x_likes": 524724,
+      "truth_likes": 47154
+    },
+    {
+      "x_id": "2004012442427277591",
+      "truth_id": "115777270368444049",
+      "x_text": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgen",
+      "truth_text": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women's Sports, Transgen",
+      "x_time": "2025-12-25T02:12:53.000Z",
+      "truth_time": "2025-12-25T00:02:26.827Z",
+      "x_likes": 800865,
+      "truth_likes": 16644
+    },
+    {
+      "x_id": "2014772963719991311",
+      "truth_id": "115945837215795716",
+      "x_text": "COUNTDOWN: 7 Days until the World will witness an unforgettable, behind-the-scenes, look at one of the most important events of our time.\n\nMELANIA: TWENTY DAYS TO HISTORY:\nhttps://t.co/rjwd5Appkv http",
+      "truth_text": "COUNTDOWN: 7 Days until the World will witness an unforgettable, behind-the-scenes, look at one of the most important events of our time.MELANIA: TWENTY DAYS TO HISTORY:https://www.amazon.com/salp/mel",
+      "x_time": "2026-01-23T18:51:21.000Z",
+      "truth_time": "2026-01-23T18:31:12.817Z",
+      "x_likes": 394706,
+      "truth_likes": 13999
+    }
+  ],
+  "x_only_posts": [
+    {
+      "id": "1862127644222832894",
+      "text": "Happy Thanksgiving to all, including to the Radical Left Lunatics who have worked so hard to destroy our Country, but who have miserably failed, and will always fail, because their ideas and policies ",
+      "created_at": "2024-11-28T13:33:21.000Z",
+      "likes": 821248,
+      "topics": [
+        "celebration/holiday"
+      ]
+    },
+    {
+      "id": "1862281187600793830",
+      "text": "https://t.co/FhHeS8WdrK",
+      "created_at": "2024-11-28T23:43:29.000Z",
+      "likes": 426291,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "1872051253846614426",
+      "text": "https://t.co/dt3qNahL3Q",
+      "created_at": "2024-12-25T22:46:14.000Z",
+      "likes": 1011019,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "1880446012168249386",
+      "text": "My NEW Official Trump Meme is HERE! It’s time to celebrate everything we stand for: WINNING! Join my very special Trump Community. GET YOUR $TRUMP NOW. Go to https://t.co/GX3ZxT5xyq — Have Fun! https:",
+      "created_at": "2025-01-18T02:44:00.000Z",
+      "likes": 397677,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "1892242622623699357",
+      "text": "https://t.co/PMcrOwXejI",
+      "created_at": "2025-02-19T15:59:32.000Z",
+      "likes": 610199,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "1894126415932526802",
+      "text": "https://t.co/9pZeARuStB",
+      "created_at": "2025-02-24T20:45:03.000Z",
+      "likes": 296953,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "1895566669281636846",
+      "text": "https://t.co/Ja8HQTFpf7",
+      "created_at": "2025-02-28T20:08:06.000Z",
+      "likes": 752511,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "1905689237749727368",
+      "text": "https://t.co/i1rW9HroWn",
+      "created_at": "2025-03-28T18:31:34.000Z",
+      "likes": 293383,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "1907782254572470670",
+      "text": "https://t.co/ZoSf5TdLqo",
+      "created_at": "2025-04-03T13:08:29.000Z",
+      "likes": 174210,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "1920519130941170088",
+      "text": "https://t.co/0sUAawNN8S",
+      "created_at": "2025-05-08T16:40:16.000Z",
+      "likes": 95039,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "1921174163848401313",
+      "text": "https://t.co/lRPhZpugBV",
+      "created_at": "2025-05-10T12:03:09.000Z",
+      "likes": 989597,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "1921699954696855934",
+      "text": "https://t.co/ifaRjPPHvv",
+      "created_at": "2025-05-11T22:52:27.000Z",
+      "likes": 347661,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "1921911904429088892",
+      "text": "https://t.co/9uLRtPVKpp",
+      "created_at": "2025-05-12T12:54:40.000Z",
+      "likes": 443985,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "1923793069138178293",
+      "text": "🇶🇦🇺🇸 https://t.co/v1NwTQPWLO",
+      "created_at": "2025-05-17T17:29:44.000Z",
+      "likes": 320652,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "1924523182909747657",
+      "text": "https://t.co/q5CPyHZkLD",
+      "created_at": "2025-05-19T17:50:57.000Z",
+      "likes": 461055,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "1925201677914603580",
+      "text": "https://t.co/ZuagVWL4KS",
+      "created_at": "2025-05-21T14:47:03.000Z",
+      "likes": 546627,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "1928797140408533377",
+      "text": "https://t.co/ttc8fsXNVF",
+      "created_at": "2025-05-31T12:54:08.000Z",
+      "likes": 451449,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "1934008938334228752",
+      "text": "https://t.co/8C5WxKK3nc",
+      "created_at": "2025-06-14T22:03:57.000Z",
+      "likes": 310835,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "1936573183634645387",
+      "text": "https://t.co/wu9mMkxtUg",
+      "created_at": "2025-06-21T23:53:21.000Z",
+      "likes": 1249401,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "1937917613989859810",
+      "text": "https://t.co/dQgHNdzAXb",
+      "created_at": "2025-06-25T16:55:38.000Z",
+      "likes": 476192,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "1941244891578904902",
+      "text": "https://t.co/PTPGtD7bjV",
+      "created_at": "2025-07-04T21:17:03.000Z",
+      "likes": 140186,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "1941341699374186746",
+      "text": "HAPPY 4TH OF JULY!\n🎇🎆🇺🇸🦅https://t.co/54aoHX14mj",
+      "created_at": "2025-07-05T03:41:44.000Z",
+      "likes": 486902,
+      "topics": [
+        "celebration/holiday"
+      ]
+    },
+    {
+      "id": "1968134929080082432",
+      "text": "https://t.co/gZgTprtUvt",
+      "created_at": "2025-09-17T02:08:27.000Z",
+      "likes": 317106,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "1972822596397003159",
+      "text": "https://t.co/JzQYLShOCt",
+      "created_at": "2025-09-30T00:35:34.000Z",
+      "likes": 458913,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "1973218518893207825",
+      "text": "https://t.co/2yyuRkm9r8",
+      "created_at": "2025-10-01T02:48:50.000Z",
+      "likes": 272535,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "2027651077865157033",
+      "text": "https://t.co/BZuJDudLej",
+      "created_at": "2026-02-28T07:44:23.000Z",
+      "likes": 1003338,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "2028505632123326484",
+      "text": "https://t.co/uAxTGrJisv",
+      "created_at": "2026-03-02T16:20:05.000Z",
+      "likes": 584236,
+      "topics": [
+        "other"
+      ]
+    }
+  ],
+  "truth_only_sample": [
+    {
+      "id": "116225502010036899",
+      "text": "The Fake News Media hates to report how well the United States Military has done against Iran, which is totally defeated and wants a deal - But not a deal that I would accept! Thank you for your atten",
+      "created_at": "2026-03-14T03:53:38.890Z",
+      "likes": 14302,
+      "topics": [
+        "tariff/trade",
+        "iran/military",
+        "fake news/media"
+      ]
+    },
+    {
+      "id": "116224634088762061",
+      "text": "Kevin Hern, from the Wonderful State of Oklahoma (where I won all 77 out of 77 Counties, in 2016, 2020, and 2024!), is a Great Patriot, and FANTASTIC Congressman! A true friend of MAGA, Kevin is now r",
+      "created_at": "2026-03-14T00:12:55.424Z",
+      "likes": 7762,
+      "topics": [
+        "iran/military",
+        "border/immigration",
+        "economy/markets",
+        "endorsement",
+        "foreign policy",
+        "energy"
+      ]
+    },
+    {
+      "id": "116224631824988888",
+      "text": "Trump Investment Surge: Trillions Pour Into America As Economic Revival Accelerates: https://thenevadaglobe.com/articles/trump-investment-surge-trillions-pour-into-america-as-economic-revival-accelera",
+      "created_at": "2026-03-14T00:12:20.884Z",
+      "likes": 7882,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116224630912933489",
+      "text": "US Olympic bobsledder surprises Trump, awards him prestigious Order of Ikkos medal: https://nypost.com/2026/03/12/us-news/trump-awarded-prestigious-order-of-ikkos-medal-by-us-olympian-bobsledder/",
+      "created_at": "2026-03-14T00:12:06.964Z",
+      "likes": 8573,
+      "topics": [
+        "iran/military"
+      ]
+    },
+    {
+      "id": "116224629259359835",
+      "text": "Trump honors Virginia mom, farmer at White House Women's History Month event: https://wjla.com/news/local/president-donald-trump-honors-virginia-mom-farmer-white-house-womens-history-month-event-first",
+      "created_at": "2026-03-14T00:11:41.732Z",
+      "likes": 7495,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116224627869912229",
+      "text": "Baltimore woman honored by President Trump during Women's History Month: https://www.wbal.com/baltimore-woman-honored-by-president-trump-during-womens-history-month",
+      "created_at": "2026-03-14T00:11:20.531Z",
+      "likes": 7188,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116224518730089644",
+      "text": "Iran had plans of taking over the entire Middle East, and completely obliterating Israel. JUST LIKE IRAN ITSELF, THOSE PLANS ARE NOW DEAD! President DONALD J. TRUMP",
+      "created_at": "2026-03-13T23:43:35.190Z",
+      "likes": 23836,
+      "topics": [
+        "iran/military"
+      ]
+    },
+    {
+      "id": "116224324444349237",
+      "text": "Moments ago, at my direction, the United States Central Command executed one of the most powerful bombing raids in the History of the Middle East, and totally obliterated every MILITARY target in Iran",
+      "created_at": "2026-03-13T22:54:10.624Z",
+      "likes": 29839,
+      "topics": [
+        "iran/military",
+        "fake news/media",
+        "energy"
+      ]
+    },
+    {
+      "id": "116224183027304989",
+      "text": "It is my Great Honor to endorse America First Patriot, Jon Maples, who is running to represent the wonderful people of Florida's 87th State House District. Jon is a very successful Businessman and Civ",
+      "created_at": "2026-03-13T22:18:12.775Z",
+      "likes": 7344,
+      "topics": [
+        "iran/military",
+        "border/immigration",
+        "economy/markets",
+        "endorsement"
+      ]
+    },
+    {
+      "id": "116224179318558161",
+      "text": "After meeting with Governor Gretchen Whitmer, and hearing from our GREAT Republican Candidate for the United States Senate, Mike Rogers, I approved $100 Million Dollars in Public Assistance to support",
+      "created_at": "2026-03-13T22:17:16.181Z",
+      "likes": 8705,
+      "topics": [
+        "tariff/trade",
+        "endorsement",
+        "foreign policy"
+      ]
+    },
+    {
+      "id": "116223896071757407",
+      "text": "Thank you to Highly Respected America First Congresswoman, Stephanie Bice, of the Great State of Oklahoma, for deciding, because of her love for her Constituents, and for America, itself, to run for R",
+      "created_at": "2026-03-13T21:05:14.178Z",
+      "likes": 10539,
+      "topics": [
+        "endorsement"
+      ]
+    },
+    {
+      "id": "116223780884576729",
+      "text": "I am pleased to announce that Matt Floca, subject to the approval of the Board of Directors, will be named the Chief Operating Officer and Executive Director, of THE TRUMP KENNEDY CENTER where, as Vic",
+      "created_at": "2026-03-13T20:35:56.563Z",
+      "likes": 9666,
+      "topics": [
+        "china",
+        "endorsement"
+      ]
+    },
+    {
+      "id": "116223767250350057",
+      "text": "Maggot Hagerman, just another SLEAZEBAG writer for The Failing New York Times, insists on writing false stories about me, even though she fully knows and understands that the exact opposite of anythin",
+      "created_at": "2026-03-13T20:32:28.520Z",
+      "likes": 24557,
+      "topics": [
+        "fake news/media",
+        "legal/court"
+      ]
+    },
+    {
+      "id": "116223220117412692",
+      "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116223216183546905",
+      "created_at": "2026-03-13T18:13:19.935Z",
+      "likes": 8058,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116223100937937927",
+      "text": "Two renderings of the new, highly improved, TRUMP KENNEDY CENTER!",
+      "created_at": "2026-03-13T17:43:01.403Z",
+      "likes": 10661,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116222200536303389",
+      "text": "Cuba confirms talks with Trump officials, raising hopes for US deal: https://www.usatoday.com/story/news/world/2026/03/13/cuba-confirms-talks-trump-economic-deal/89132765007/",
+      "created_at": "2026-03-13T13:54:02.360Z",
+      "likes": 14371,
+      "topics": [
+        "tariff/trade"
+      ]
+    },
+    {
+      "id": "116222199294615751",
+      "text": "Retired Army general: Iran regime 'fundamentally miscalculated' Trump: https://thehill.com/policy/defense/5777128-jack-keane-iran-regime-trump-administration/",
+      "created_at": "2026-03-13T13:53:43.416Z",
+      "likes": 12103,
+      "topics": [
+        "iran/military"
+      ]
+    },
+    {
+      "id": "116220000279270929",
+      "text": "https://truthsocial.com/@DanScavino/116207137060584916",
+      "created_at": "2026-03-13T04:34:29.141Z",
+      "likes": 11646,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116219996530067941",
+      "text": "We are totally destroying the terrorist regime of Iran, militarily, economically, and otherwise, yet, if you read the Failing New York Times, you would incorrectly think that we are not winning. Iran'",
+      "created_at": "2026-03-13T04:33:31.893Z",
+      "likes": 29152,
+      "topics": [
+        "iran/military",
+        "fake news/media",
+        "endorsement"
+      ]
+    },
+    {
+      "id": "116219148622456831",
+      "text": "At Military Academy with my parents, Fred and Mary!",
+      "created_at": "2026-03-13T00:57:53.919Z",
+      "likes": 34392,
+      "topics": [
+        "iran/military"
+      ]
+    },
+    {
+      "id": "116218706168761876",
+      "text": "The United States of America looks very much forward to hosting the FIFA World Cup. Ticket sales are \"through the roof!\" It will be the Greatest and Safest Sporting Event in American History. All Play",
+      "created_at": "2026-03-12T23:05:22.581Z",
+      "likes": 20986,
+      "topics": [
+        "iran/military"
+      ]
+    },
+    {
+      "id": "116217763545289031",
+      "text": "Where is the Federal Reserve Chairman, Jerome \"Too Late\" Powell, today? He should be dropping Interest Rates, IMMEDIATELY, not waiting for the next meeting! President DONALD J. TRUMP",
+      "created_at": "2026-03-12T19:05:39.289Z",
+      "likes": 27384,
+      "topics": [
+        "economy/markets",
+        "fake news/media"
+      ]
+    },
+    {
+      "id": "116216801278101254",
+      "text": "The Iran National Soccer Team is welcome to The World Cup, but I really don't believe it is appropriate that they be there, for their own life and safety. Thank you for your attention to this matter! ",
+      "created_at": "2026-03-12T15:00:56.255Z",
+      "likes": 31030,
+      "topics": [
+        "iran/military"
+      ]
+    },
+    {
+      "id": "116216383667242591",
+      "text": "The United States is the largest Oil Producer in the World, by far, so when oil prices go up, we make a lot of money. BUT, of far greater interest and importance to me, as President, is stoping an evi",
+      "created_at": "2026-03-12T13:14:44.021Z",
+      "likes": 43952,
+      "topics": [
+        "tariff/trade",
+        "iran/military",
+        "energy"
+      ]
+    },
+    {
+      "id": "116215762486759617",
+      "text": "Ex-FBI agent says he witnessed politicization of bureau, warned about improper surveillance: https://justthenews.com/government/federal-agencies/ex-fbi-official-says-he-witness-politicization-bureau-w",
+      "created_at": "2026-03-12T10:36:45.522Z",
+      "likes": 17898,
+      "topics": [
+        "iran/military",
+        "economy/markets"
+      ]
+    },
+    {
+      "id": "116213176186506012",
+      "text": "Gavin Newscum's interview weeks ago was, perhaps, the most self destructive interview I've ever seen. In one fell swoop, he took himself out of even being considered as the Presidential Nominee of the",
+      "created_at": "2026-03-11T23:39:01.711Z",
+      "likes": 29298,
+      "topics": [
+        "china"
+      ]
+    },
+    {
+      "id": "116213141577677778",
+      "text": "Marty Jackley has been a tremendous Attorney General of South Dakota, a place I love and WON BIG, six times, including Primaries, in 2016, 2020, and 2024! An America First Patriot, and true friend of ",
+      "created_at": "2026-03-11T23:30:13.621Z",
+      "likes": 17075,
+      "topics": [
+        "iran/military",
+        "border/immigration",
+        "economy/markets",
+        "endorsement",
+        "energy"
+      ]
+    },
+    {
+      "id": "116213139152922657",
+      "text": "It is my Great Honor to endorse Colonel Laurie Buckhout, who is running to represent the incredible people of North Carolina's 1st Congressional District. Laurie is running against a Radical Left Demo",
+      "created_at": "2026-03-11T23:29:36.626Z",
+      "likes": 15635,
+      "topics": [
+        "iran/military",
+        "border/immigration",
+        "economy/markets",
+        "endorsement",
+        "energy"
+      ]
+    },
+    {
+      "id": "116213110990414470",
+      "text": "Today I am endorsing America First Patriot, Brandon Herrera, who is running to represent the wonderful people of Texas' 23rd Congressional District. Brandon is strongly supported by many Highly Respec",
+      "created_at": "2026-03-11T23:22:26.934Z",
+      "likes": 15959,
+      "topics": [
+        "iran/military",
+        "border/immigration",
+        "economy/markets",
+        "endorsement",
+        "energy"
+      ]
+    },
+    {
+      "id": "116212852948843659",
+      "text": "Top DOJ prosecutor says tens of thousands of noncitizens on voter rolls, dozens illegally voted: https://justthenews.com/politics-policy/elections/wedelection-bombshell-top-doj-prosecutor-says-tens-th",
+      "created_at": "2026-03-11T22:16:49.533Z",
+      "likes": 17936,
+      "topics": [
+        "iran/military",
+        "border/immigration"
+      ]
+    },
+    {
+      "id": "116211753106602288",
+      "text": "I am on my way to the Great State of Ohio, which I love and WON BIG three times, to visit Thermo Fisher, a Pharmaceutical Manufacturing Company, that is investing $2 Billion Dollars in U.S. Manufactur",
+      "created_at": "2026-03-11T17:37:07.272Z",
+      "likes": 36343,
+      "topics": [
+        "tariff/trade",
+        "economy/markets"
+      ]
+    },
+    {
+      "id": "116211737655789420",
+      "text": "The Republican Party's Worst \"Congressman,\" EVER, Thomas Massie, is attacking GREAT Navy Seal Hero, Ed Gallrein, who is running against him in the Primary, saying that Ed became an Independent for a p",
+      "created_at": "2026-03-11T17:33:11.511Z",
+      "likes": 20478,
+      "topics": [
+        "tariff/trade",
+        "iran/military",
+        "endorsement"
+      ]
+    },
+    {
+      "id": "116211112963892984",
+      "text": "PUNXSUTAWNEY PHIL SEES ZERO MORE YEARS OF SUMMERS.Summers To Resign From Teaching Appointments, Relinquish University Professorship Over Epstein Ties:https://www.thecrimson.com/article/2026/2/25/summe",
+      "created_at": "2026-03-11T14:54:19.469Z",
+      "likes": 15192,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116211091235254854",
+      "text": "Trump targeted by four FBI code-named counterintel probes that ensnared hundreds of Americans: https://justthenews.com/government/federal-agencies/trump-targeted-four-consecutive-fbi-counterintel-prob",
+      "created_at": "2026-03-11T14:48:47.914Z",
+      "likes": 12974,
+      "topics": [
+        "economy/markets"
+      ]
+    },
+    {
+      "id": "116211089985611564",
+      "text": "Trump right to revisit the 2020 elections: https://www.washingtontimes.com/news/2026/feb/19/trump-right-revisit-2020-elections/",
+      "created_at": "2026-03-11T14:48:28.844Z",
+      "likes": 15338,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116211088596192977",
+      "text": "Hillary Clinton should've heeded my 'reality Czech' to save the West: https://nypost.com/2026/02/18/opinion/hillary-clinton-shouldve-heeded-my-reality-czech-to-save-the-west/",
+      "created_at": "2026-03-11T14:48:07.645Z",
+      "likes": 11496,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116211077818747356",
+      "text": "Harvard should not hire this misfit!https://freebeacon.com/campus/meet-the-next-chair-of-the-harvard-history-dept-who-called-trump-narcissist-white-supremacist-habitual-liar-lunatic/",
+      "created_at": "2026-03-11T14:45:23.196Z",
+      "likes": 11151,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116210369394250268",
+      "text": "I predict that \"Representative\"Thomas Massie will go down as the WORST Republican Congressman in the long and fabled history of the United States Congress, even worse than Crazy Liz Chaney, Cryin' Ada",
+      "created_at": "2026-03-11T11:45:13.460Z",
+      "likes": 20948,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116210278812822198",
+      "text": "Clay Fuller is going to be a fantastic Congressman in representing the Great State of Georgia. Now we have to be careful and finish it off. MAKE AMERICA GREAT AGAIN!!! President DJT",
+      "created_at": "2026-03-11T11:22:11.300Z",
+      "likes": 16324,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116208498011933842",
+      "text": "Congratulations to Clay Fuller, of Georgia's 14th Congressional District, on getting such a high percentage of the vote with 12 Republicans running. We want to make the next vote \"TOO BIG TO RIG.\" Cla",
+      "created_at": "2026-03-11T03:49:18.471Z",
+      "likes": 19509,
+      "topics": [
+        "celebration/holiday"
+      ]
+    },
+    {
+      "id": "116208389014489575",
+      "text": "Trump targeted by four FBI code-named counterintel probes that ensnared hundreds of Americans: https://justthenews.com/government/federal-agencies/trump-targeted-four-consecutive-fbi-counterintel-prob",
+      "created_at": "2026-03-11T03:21:35.302Z",
+      "likes": 13973,
+      "topics": [
+        "economy/markets"
+      ]
+    },
+    {
+      "id": "116208344727934829",
+      "text": "THE SAVE AMERICA ACT is by far the most popular Bill of its kind ever put before Congress! President DJT",
+      "created_at": "2026-03-11T03:10:19.503Z",
+      "likes": 24363,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116207822892067202",
+      "text": "Trump targeted by four FBI code-named counterintel probes that ensnared hundreds of Americans: https://justthenews.com/government/federal-agencies/trump-targeted-four-consecutive-fbi-counterintel-prob",
+      "created_at": "2026-03-11T00:57:36.958Z",
+      "likes": 12183,
+      "topics": [
+        "economy/markets"
+      ]
+    },
+    {
+      "id": "116207821606085249",
+      "text": "52% of US Likely Voters support Trump's decision to strike Iran: Poll: https://justthenews.com/politics-policy/polling/52-us-likely-voters-support-trumps-decision-strike-iran-poll",
+      "created_at": "2026-03-11T00:57:17.335Z",
+      "likes": 14373,
+      "topics": [
+        "iran/military"
+      ]
+    },
+    {
+      "id": "116207697653886877",
+      "text": "The incredible people of Kentucky's 4th Congressional District, who want desperately to get rid of Thomas Massie, the Worst \"Republican\" Congressman we have had in many years, gave us a mandate to, MA",
+      "created_at": "2026-03-11T00:25:46.006Z",
+      "likes": 16205,
+      "topics": [
+        "iran/military",
+        "border/immigration",
+        "economy/markets",
+        "endorsement",
+        "energy"
+      ]
+    },
+    {
+      "id": "116207676745815880",
+      "text": "One of the many criminals picked up in Memphis, Tennessee. He will not be allowed to kill again!",
+      "created_at": "2026-03-11T00:20:26.972Z",
+      "likes": 11612,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116206971915527868",
+      "text": "Just two of the many brutal criminals we have captured in Memphis, making it 50% safer than it was just two months ago — More to follow!",
+      "created_at": "2026-03-10T21:21:12.049Z",
+      "likes": 17265,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116206958726200848",
+      "text": "America is returning to REAL ENERGY DOMINANCE! Today I am proud to announce that America First Refining is opening the FIRST new U.S. Oil Refinery in 50 YEARS in Brownsville, Texas. THIS IS A HISTORIC",
+      "created_at": "2026-03-10T21:17:50.795Z",
+      "likes": 21471,
+      "topics": [
+        "tariff/trade",
+        "economy/markets",
+        "energy"
+      ]
+    },
+    {
+      "id": "116206732840510472",
+      "text": "I am pleased to report that within the last few hours, we have hit, and completely destroyed, 10 inactive mine laying boats and/or ships, with more to follow! President DONALD J. TRUMP",
+      "created_at": "2026-03-10T20:20:24.052Z",
+      "likes": 25183,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116206683370194686",
+      "text": "If Iran has put out any mines in the Hormuz Strait, and we have no reports of them doing so, we want them removed, IMMEDIATELY! If for any reason mines were placed, and they are not removed forthwith,",
+      "created_at": "2026-03-10T20:07:49.233Z",
+      "likes": 38120,
+      "topics": [
+        "tariff/trade",
+        "iran/military",
+        "fake news/media"
+      ]
+    },
+    {
+      "id": "116206575952434485",
+      "text": "If Iran has put out any mines in the Hormuz Strait, and we have no reports of them doing so, we want them removed, IMMEDIATELY! If for any reason mines were placed, and they are not removed forthwith,",
+      "created_at": "2026-03-10T19:40:30.169Z",
+      "likes": 3187,
+      "topics": [
+        "iran/military",
+        "fake news/media"
+      ]
+    },
+    {
+      "id": "116206229876653286",
+      "text": "I'm working with Governor Gretchen Whitmer on trying to save The Great Lakes from the rather violent and destructive Asian Carp, which is rapidly taking over Lake Michigan, and all of the beautiful su",
+      "created_at": "2026-03-10T18:12:29.501Z",
+      "likes": 16989,
+      "topics": [
+        "foreign policy",
+        "celebration/holiday"
+      ]
+    },
+    {
+      "id": "116202054617775180",
+      "text": "If Iran does anything that stops the flow of Oil within the Strait of Hormuz, they will be hit by the United States of America TWENTY TIMES HARDER than they have been hit thus far. Additionally, we wi",
+      "created_at": "2026-03-10T00:30:40.041Z",
+      "likes": 35923,
+      "topics": [
+        "china",
+        "iran/military",
+        "fake news/media",
+        "energy"
+      ]
+    },
+    {
+      "id": "116202053313332968",
+      "text": "52% of US Likely Voters support Trump's decision to strike Iran: Poll: https://justthenews.com/politics-policy/polling/52-us-likely-voters-support-trumps-decision-strike-iran-poll",
+      "created_at": "2026-03-10T00:30:20.135Z",
+      "likes": 22403,
+      "topics": [
+        "iran/military"
+      ]
+    },
+    {
+      "id": "116201913738494775",
+      "text": "Nolte: Cassidy 'Trump Attacked Secret Service Agent' Hutchinson Referred for Criminal Charges: https://www.breitbart.com/politics/2026/03/06/nolte-cassidy-trump-attacked-secret-service-agent-hutchinso",
+      "created_at": "2026-03-09T23:54:50.395Z",
+      "likes": 19217,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116200375013104800",
+      "text": "Donald's Bible: https://youtu.be/SSL7_QV4960?feature=shared",
+      "created_at": "2026-03-09T17:23:31.305Z",
+      "likes": 19174,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116200371638821370",
+      "text": "Kim Clement prophesying about Donald Trump, 2007:https://www.youtube.com/watch?v=eFfFtq1fljY",
+      "created_at": "2026-03-09T17:22:39.820Z",
+      "likes": 23100,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116200253375013431",
+      "text": "THE SAVE AMERICA ACT!1. ALL VOTERS MUST SHOW VOTER I.D. (IDENTIFICATION!).2. ALL VOTERS MUST SHOW PROOF OF CITIZENSHIP IN ORDER TO VOTE.3. NO MAIL-IN BALLOTS (EXCEPT FOR ILLNESS, DISABILITY, MILITARY,",
+      "created_at": "2026-03-09T16:52:35.295Z",
+      "likes": 34747,
+      "topics": [
+        "iran/military"
+      ]
+    },
+    {
+      "id": "116200217053294630",
+      "text": "Many important meetings and phone calls taking place today while I am at Trump National Doral, in Miami. Additionally, I will be going to Speaker Mike Johnson's (who is doing a fantastic job!) fundrai",
+      "created_at": "2026-03-09T16:43:21.068Z",
+      "likes": 23354,
+      "topics": [
+        "tariff/trade",
+        "china"
+      ]
+    },
+    {
+      "id": "116200028617921781",
+      "text": "I just spoke to Prime Minister Anthony Albanese, of Australia, concerning the Iranian National Women's Soccer Team. He's on it! Five have already been taken care of, and the rest are on their way. Som",
+      "created_at": "2026-03-09T15:55:25.773Z",
+      "likes": 25945,
+      "topics": [
+        "iran/military"
+      ]
+    },
+    {
+      "id": "116199696068251039",
+      "text": "ASYLUM!",
+      "created_at": "2026-03-09T14:30:51.497Z",
+      "likes": 20827,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116199640636892669",
+      "text": "Australia is making a terrible humanitarian mistake by allowing the Iran National Woman's Soccer team to be forced back to Iran, where they will most likely be killed. Don't do it, Mr. Prime Minister,",
+      "created_at": "2026-03-09T14:16:45.612Z",
+      "likes": 49520,
+      "topics": [
+        "iran/military"
+      ]
+    },
+    {
+      "id": "116199384958218035",
+      "text": "Great!!!FBI secretly seizes election records from Arizona's largest county as voting probe expands: https://justthenews.com/politics-policy/elections/monfbi-secretly-seizes-election-records-arizonas-l",
+      "created_at": "2026-03-09T13:11:44.304Z",
+      "likes": 19726,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116196711651701576",
+      "text": "It's not the Save Act, it's The Save America Act! A MUCH better, and more important, name!!! President DJT",
+      "created_at": "2026-03-09T01:51:52.849Z",
+      "likes": 35069,
+      "topics": [
+        "tariff/trade"
+      ]
+    },
+    {
+      "id": "116196014942465383",
+      "text": "Short term oil prices, which will drop rapidly when the destruction of the Iran nuclear threat is over, is a very small price to pay for U.S.A., and World, Safety and Peace. ONLY FOOLS WOULD THINK DIF",
+      "created_at": "2026-03-08T22:54:41.907Z",
+      "likes": 39578,
+      "topics": [
+        "iran/military",
+        "energy"
+      ]
+    },
+    {
+      "id": "116193527873859174",
+      "text": "Great Job by hard working Scott Pressler on Fox & Friends talking about using the Filibuster, or Talking Filibuster, in order to pass THE SAVE AMERICA ACT, an 88% issue with ALL VOTERS. It must be don",
+      "created_at": "2026-03-08T12:22:12.252Z",
+      "likes": 48877,
+      "topics": [
+        "iran/military",
+        "fake news/media"
+      ]
+    },
+    {
+      "id": "116191986534889075",
+      "text": "PASS THE SAVE AMERICA ACT, NOW. It's all people care about!!!",
+      "created_at": "2026-03-08T05:50:13.285Z",
+      "likes": 45766,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116191960216926971",
+      "text": "Rich Goldberg was GREAT on Mark Levin tonight. Two guys who really get it! Thank you both. President DJT",
+      "created_at": "2026-03-08T05:43:31.705Z",
+      "likes": 23386,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116189925042301817",
+      "text": "The United Kingdom, our once Great Ally, maybe the Greatest of them all, is finally giving serious thought to sending two aircraft carriers to the Middle East. That's OK, Prime Minister Starmer, we do",
+      "created_at": "2026-03-07T21:05:57.406Z",
+      "likes": 50630,
+      "topics": [
+        "iran/military"
+      ]
+    },
+    {
+      "id": "116188629042450259",
+      "text": "The United States Senate should focus on, exclusively if necessary, THE SAVE AMERICA ACT!!! It's what everyone wants!!! President DJT",
+      "created_at": "2026-03-07T15:36:22.017Z",
+      "likes": 44619,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116187586876366061",
+      "text": "Iran, which is being beat to HELL, has apologized and surrendered to its Middle East neighbors, and promised that it will not shoot at them anymore. This promise was only made because of the relentles",
+      "created_at": "2026-03-07T11:11:19.862Z",
+      "likes": 60445,
+      "topics": [
+        "iran/military"
+      ]
+    },
+    {
+      "id": "116187346419235898",
+      "text": "https://truthsocial.com/@realDonaldTrump/116162644396687602",
+      "created_at": "2026-03-07T10:10:10.778Z",
+      "likes": 21536,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116187342283982320",
+      "text": "https://truthsocial.com/@realDonaldTrump/116163464520215003",
+      "created_at": "2026-03-07T10:09:07.679Z",
+      "likes": 15711,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116185525145806002",
+      "text": "https://vandenbergcoalition.org/mar_survey/",
+      "created_at": "2026-03-07T02:27:00.314Z",
+      "likes": 26032,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116185492043628345",
+      "text": "GREGG JARRETT: Democrat war powers vote was an unconstitutional way to halt Iran strikes: https://www.foxnews.com/opinion/gregg-jarrett-democrat-war-powers-vote-unconstitutional-way-halt-iran-strikes",
+      "created_at": "2026-03-07T02:18:35.214Z",
+      "likes": 17539,
+      "topics": [
+        "iran/military",
+        "legal/court"
+      ]
+    },
+    {
+      "id": "116185324473510188",
+      "text": "I will be going to Dover Air Force Base tomorrow, with the First Lady and Members of my Cabinet, to pay our Highest Respect to our Great Warriors, who are returning home for the last time. GOD BLESS T",
+      "created_at": "2026-03-07T01:35:58.296Z",
+      "likes": 30119,
+      "topics": [
+        "iran/military"
+      ]
+    },
+    {
+      "id": "116185253653403697",
+      "text": "Men's Gold Medal Hockey Team!",
+      "created_at": "2026-03-07T01:17:57.669Z",
+      "likes": 25636,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116184185735585906",
+      "text": "We just concluded a very good meeting with the largest U.S. Defense Manufacturing Companies where we discussed Production and Production Schedules. They have agreed to quadruple Production of the \"Exq",
+      "created_at": "2026-03-06T20:46:22.574Z",
+      "likes": 34589,
+      "topics": [
+        "iran/military"
+      ]
+    },
+    {
+      "id": "116183077071476578",
+      "text": "Ruddy: Trump Faces Down Biggest Fake News: https://www.newsmax.com/world/globaltalk/donald-trump-christopher-ruddy-munich/2026/02/12/id/1245975/",
+      "created_at": "2026-03-06T16:04:25.701Z",
+      "likes": 12586,
+      "topics": [
+        "fake news/media"
+      ]
+    },
+    {
+      "id": "116183076016216866",
+      "text": "https://www.justice.gov/opa/pr/justice-department-sues-harvard-university-withholding-race-related-admissions-documents",
+      "created_at": "2026-03-06T16:04:09.628Z",
+      "likes": 12348,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116183074199338333",
+      "text": "President Trump pledges to help Utah save the Great Salt Lake: https://www.fox13now.com/news/politics/president-trump-pledges-to-help-utah-save-the-great-salt-lake",
+      "created_at": "2026-03-06T16:03:41.876Z",
+      "likes": 10740,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116183073116586511",
+      "text": "U.S. Trade Deficit Nearly Cut in Half Since Liberation Day: https://www.breitbart.com/economy/2026/02/19/u-s-trade-deficit-nearly-cut-in-half-since-liberation-day/",
+      "created_at": "2026-03-06T16:03:25.356Z",
+      "likes": 11451,
+      "topics": [
+        "tariff/trade",
+        "economy/markets"
+      ]
+    },
+    {
+      "id": "116183071716707971",
+      "text": "Syrians warm up to US and Israel under new regime, poll finds: https://nypost.com/2026/02/15/world-news/syrians-warm-up-to-us-and-israel-under-new-regime-poll-finds/",
+      "created_at": "2026-03-06T16:03:03.994Z",
+      "likes": 8883,
+      "topics": [
+        "iran/military"
+      ]
+    },
+    {
+      "id": "116183070152538648",
+      "text": "White House Torches CNN, MS NOW for Not Broadcasting Trump's Angel Family Day Ceremony: https://www.breitbart.com/politics/2026/02/23/white-house-torches-cnn-ms-now-for-not-broadcasting-trumps-angel-f",
+      "created_at": "2026-03-06T16:02:40.127Z",
+      "likes": 10381,
+      "topics": [
+        "fake news/media"
+      ]
+    },
+    {
+      "id": "116183069134046672",
+      "text": "Trump declares National Angel Family Day for illegal immigrants' victims: https://www.washingtonexaminer.com/news/white-house/4465340/trump-national-angel-family-day-illegal-immigration-laken-riley/",
+      "created_at": "2026-03-06T16:02:24.587Z",
+      "likes": 10272,
+      "topics": [
+        "border/immigration"
+      ]
+    },
+    {
+      "id": "116183067945192625",
+      "text": "Georgia Full-Line Steel Service Center President Says Trump's Tariffs Saved Business: https://www.breitbart.com/politics/2026/02/20/georgia-full-line-steel-service-center-president-says-trumps-tariffs",
+      "created_at": "2026-03-06T16:02:06.444Z",
+      "likes": 8555,
+      "topics": [
+        "tariff/trade"
+      ]
+    },
+    {
+      "id": "116183066623288188",
+      "text": "Trump honors Laken Riley, other illegal migrant crime victims at 'Angel Family Day' event: https://foxbaltimore.com/news/nation-world/trump-to-honor-laken-riley-other-crime-victims-in-angel-family-day",
+      "created_at": "2026-03-06T16:01:46.274Z",
+      "likes": 8989,
+      "topics": [
+        "border/immigration",
+        "executive order"
+      ]
+    },
+    {
+      "id": "116183065027273499",
+      "text": "Angel Families praise Trump for immigration crackdown: 'You are the man': https://www.foxnews.com/politics/angel-families-praise-trump-immigration-crackdown-you-man",
+      "created_at": "2026-03-06T16:01:21.923Z",
+      "likes": 8318,
+      "topics": [
+        "border/immigration"
+      ]
+    },
+    {
+      "id": "116183063685022383",
+      "text": "EXCLUSIVE: Trump Celebrates Milestone in Serving Veterans: https://www.dailysignal.com/2026/02/23/exclusive-trump-celebrates-milestone-serving-veterans/",
+      "created_at": "2026-03-06T16:01:01.439Z",
+      "likes": 7646,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116183062002755029",
+      "text": "'Total Disgrace': Karoline Leavitt Tears Into CNN, MSNOW For Not Airing Angel Families Event: https://dailycaller.com/2026/02/23/total-disgrace-karoline-leavitt-tears-into-cnn-msnow-for-not-airing-ang",
+      "created_at": "2026-03-06T16:00:35.771Z",
+      "likes": 8409,
+      "topics": [
+        "fake news/media"
+      ]
+    },
+    {
+      "id": "116183059398944254",
+      "text": "Stephen Moore: \"New Unleash Prosperity study: 401(k) balance under Trump saw an inflation-adjusted gain of $20,700 (15.1%) for American workers   By contrast, during the four years of the Biden admini",
+      "created_at": "2026-03-06T15:59:56.068Z",
+      "likes": 6718,
+      "topics": [
+        "economy/markets"
+      ]
+    },
+    {
+      "id": "116182858456252484",
+      "text": "We are moving thousands of people out of various Countries throughout the Middle East. It is being done quietly, but seamlessly. The State Department, under Secretary Marco Rubio, is doing a great job",
+      "created_at": "2026-03-06T15:08:49.897Z",
+      "likes": 27438,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116182789967579091",
+      "text": "Trump calls Bill Maher a 'jerk,' adding that dinner with him was 'a total waste of time': https://kutv.com/news/nation-world/trump-calls-bill-maher-a-jerk-adding-that-dinner-with-him-was-a-total-waste",
+      "created_at": "2026-03-06T14:51:24.843Z",
+      "likes": 8638,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116182788802634681",
+      "text": "Trump Rages at Bill Maher: 'No Different Than Kimmel or Colbert': https://latenighter.com/news/donald-trump-bill-maher-china-end-canada-hockey-post/",
+      "created_at": "2026-03-06T14:51:07.066Z",
+      "likes": 6798,
+      "topics": [
+        "china",
+        "foreign policy"
+      ]
+    },
+    {
+      "id": "116182787199648959",
+      "text": "Trump slams Bill Maher in Truth Social post as 'extremely nervous' with 'ZERO confidence in himself': https://nypost.com/2026/02/14/us-news/trump-slams-bill-maher-in-truth-social-post-as-extremely-ner",
+      "created_at": "2026-03-06T14:50:42.607Z",
+      "likes": 5637,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116182786028414663",
+      "text": "Trump Calls Dinner With Maher a Waste of Time: https://www.newsmax.com/newsfront/trump-maher-truth-social/2026/02/14/id/1246167/",
+      "created_at": "2026-03-06T14:50:24.737Z",
+      "likes": 2817,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116182784868917876",
+      "text": "'Overrated LIGHTWEIGHT': Trump roasts famous TDS-ridden TV host in Valentine's Day morning message: https://www.theblaze.com/news/overrated-lightweight-trump-roasts-famous-tds-ridden-tv-host-in-valent",
+      "created_at": "2026-03-06T14:50:07.043Z",
+      "likes": 2577,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116182783561396898",
+      "text": "Trump Slams Bill Maher as a 'Highly Overrated Lightweight' and Calls Their White House Dinner a 'Complete Waste of Time': 'He Is No Different Than Kimmel, Fallon, or Colbert': https://variety.com/2026",
+      "created_at": "2026-03-06T14:49:47.092Z",
+      "likes": 2741,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116182782234801440",
+      "text": "Donald Trump Rages At Bill Maher, Says \"It Was A Total Waste Of Time For Me To Have This Jerk At The White House\": https://deadline.com/2026/02/trump-bill-maher-white-house-dinner-1236724910/",
+      "created_at": "2026-03-06T14:49:26.851Z",
+      "likes": 2498,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116182780764441930",
+      "text": "Trump Breaks Up With Bill Maher On Valentine's Day: https://www.huffpost.com/entry/trump-breaks-up-with-bill-maher-on-valentines-day_n_6990b5eee4b0d24cb0c47b58",
+      "created_at": "2026-03-06T14:49:04.415Z",
+      "likes": 2293,
+      "topics": [
+        "other"
+      ]
+    }
+  ],
+  "time_analysis": {
+    "pairs_with_time_data": 10,
+    "truth_first_count": 10,
+    "x_first_count": 0,
+    "avg_diff_minutes": 312.4,
+    "details": [
+      {
+        "x_id": "1890831570535055759",
+        "x_time": "2025-02-15T18:32:31.000Z",
+        "truth_time": "2025-02-15T17:53:36.986Z",
+        "diff_minutes": 38.9,
+        "first_platform": "Truth Social",
+        "text_preview": "He who saves his Country does not violate any Law."
+      },
+      {
+        "x_id": "1908300360810479821",
+        "x_time": "2025-04-04T23:27:15.000Z",
+        "truth_time": "2025-04-04T21:40:56.527Z",
+        "diff_minutes": 106.3,
+        "first_platform": "Truth Social",
+        "text_preview": "These Houthis gathered for instructions on an attack. Oops, there will be no att"
+      },
+      {
+        "x_id": "1921008311492624867",
+        "x_time": "2025-05-10T01:04:06.000Z",
+        "truth_time": "2025-05-10T01:02:57.056Z",
+        "diff_minutes": 1.1,
+        "first_platform": "Truth Social",
+        "text_preview": "Today, I signed an Executive Order to launch the first-ever self-deportation pro"
+      },
+      {
+        "x_id": "1925548216243703820",
+        "x_time": "2025-05-22T13:44:04.000Z",
+        "truth_time": "2025-05-22T12:23:27.477Z",
+        "diff_minutes": 80.6,
+        "first_platform": "Truth Social",
+        "text_preview": "“THE ONE, BIG, BEAUTIFUL BILL” has PASSED the House of Representatives! This is "
+      },
+      {
+        "x_id": "1965947311718269341",
+        "x_time": "2025-09-11T01:15:39.000Z",
+        "truth_time": "2025-09-11T00:44:20.881Z",
+        "diff_minutes": 31.3,
+        "first_platform": "Truth Social",
+        "text_preview": "TO MY GREAT FELLOW AMERICANS… https://t.co/oRsrE5TTHr"
+      },
+      {
+        "x_id": "1978148814776046046",
+        "x_time": "2025-10-14T17:20:04.000Z",
+        "truth_time": "2025-10-14T17:16:38.055Z",
+        "diff_minutes": 3.4,
+        "first_platform": "Truth Social",
+        "text_preview": "Don’t forget to get a copy of my son Eric’s book, “UNDER SIEGE,” which is breaki"
+      },
+      {
+        "x_id": "1994272683387687053",
+        "x_time": "2025-11-28T05:10:34.000Z",
+        "truth_time": "2025-11-28T04:27:12.616Z",
+        "diff_minutes": 43.4,
+        "first_platform": "Truth Social",
+        "text_preview": "A very Happy Thanksgiving salutation to all of our Great American Citizens and P"
+      },
+      {
+        "x_id": "1994438728237064270",
+        "x_time": "2025-11-28T16:10:22.000Z",
+        "truth_time": "2025-11-26T19:41:49.085Z",
+        "diff_minutes": 2668.5,
+        "first_platform": "Truth Social",
+        "text_preview": "The United States did not attend the G20 in South Africa, because the South Afri"
+      },
+      {
+        "x_id": "2004012442427277591",
+        "x_time": "2025-12-25T02:12:53.000Z",
+        "truth_time": "2025-12-25T00:02:26.827Z",
+        "diff_minutes": 130.4,
+        "first_platform": "Truth Social",
+        "text_preview": "Merry Christmas to all, including the Radical Left Scum that is doing everything"
+      },
+      {
+        "x_id": "2014772963719991311",
+        "x_time": "2026-01-23T18:51:21.000Z",
+        "truth_time": "2026-01-23T18:31:12.817Z",
+        "diff_minutes": 20.1,
+        "first_platform": "Truth Social",
+        "text_preview": "COUNTDOWN: 7 Days until the World will witness an unforgettable, behind-the-scen"
+      }
+    ]
+  },
+  "tone_analysis": {
+    "pairs_analyzed": 10,
+    "avg_x_caps_ratio": 0.1491,
+    "avg_truth_caps_ratio": 0.1633,
+    "identical_text_count": 10
+  },
+  "topic_analysis": {
+    "x_topics": {
+      "other": 28,
+      "celebration/holiday": 5,
+      "border/immigration": 2,
+      "executive order": 2,
+      "iran/military": 1,
+      "economy/markets": 1,
+      "fake news/media": 1,
+      "tariff/trade": 1
+    },
+    "truth_topics": {
+      "other": 2451,
+      "iran/military": 1024,
+      "economy/markets": 870,
+      "border/immigration": 803,
+      "tariff/trade": 676,
+      "endorsement": 613,
+      "energy": 557,
+      "fake news/media": 491,
+      "foreign policy": 462,
+      "celebration/holiday": 311,
+      "legal/court": 276,
+      "china": 230,
+      "executive order": 93,
+      "musk/doge": 80
+    },
+    "truth_only_topics": {
+      "other": 2449,
+      "iran/military": 1021,
+      "economy/markets": 869,
+      "border/immigration": 799,
+      "tariff/trade": 674,
+      "endorsement": 613,
+      "energy": 557,
+      "fake news/media": 489,
+      "foreign policy": 462,
+      "celebration/holiday": 308,
+      "legal/court": 276,
+      "china": 229,
+      "executive order": 91,
+      "musk/doge": 80
+    },
+    "topic_selection_rates": {
+      "other": 0.12239902080783352,
+      "iran/military": 0.09765625,
+      "economy/markets": 0.11494252873563218,
+      "border/immigration": 0.24906600249066002,
+      "tariff/trade": 0.14792899408284024,
+      "endorsement": 0.0,
+      "energy": 0.0,
+      "fake news/media": 0.20366598778004072,
+      "foreign policy": 0.0,
+      "celebration/holiday": 0.964630225080386,
+      "legal/court": 0.0,
+      "china": 0.0,
+      "executive order": 2.1505376344086025,
+      "musk/doge": 0.0
+    }
+  },
+  "market_analysis": {
+    "x_posts_market": {
+      "trading_days": 34,
+      "avg_change_pct": 0.1085,
+      "max_move": {
+        "text": "These Houthis gathered for instructions on an attack. Oops, there will be no att",
+        "post_date": "2025-04-04",
+        "date": "2025-04-04",
+        "open": 5292.14,
+        "close": 5074.08,
+        "change_pct": -4.12
+      }
+    },
+    "truth_only_market": {
+      "trading_days": 494,
+      "avg_change_pct": 0.1685,
+      "max_move": {
+        "text": "Trump has reversed the Biden-made manufacturing decline: https://www.washingtont",
+        "post_date": "2026-02-12",
+        "date": "2026-02-12",
+        "open": 6957.54,
+        "close": 6832.76,
+        "change_pct": -1.793
+      }
+    }
+  },
+  "monthly_trend": {
+    "2024-11": {
+      "x": 2,
+      "truth_social": 0
+    },
+    "2024-12": {
+      "x": 1,
+      "truth_social": 0
+    },
+    "2025-01": {
+      "x": 1,
+      "truth_social": 110
+    },
+    "2025-02": {
+      "x": 4,
+      "truth_social": 373
+    },
+    "2025-03": {
+      "x": 1,
+      "truth_social": 528
+    },
+    "2025-04": {
+      "x": 2,
+      "truth_social": 342
+    },
+    "2025-05": {
+      "x": 10,
+      "truth_social": 368
+    },
+    "2025-06": {
+      "x": 3,
+      "truth_social": 400
+    },
+    "2025-07": {
+      "x": 2,
+      "truth_social": 422
+    },
+    "2025-08": {
+      "x": 0,
+      "truth_social": 475
+    },
+    "2025-09": {
+      "x": 3,
+      "truth_social": 259
+    },
+    "2025-10": {
+      "x": 2,
+      "truth_social": 318
+    },
+    "2025-11": {
+      "x": 2,
+      "truth_social": 456
+    },
+    "2025-12": {
+      "x": 1,
+      "truth_social": 298
+    },
+    "2026-01": {
+      "x": 1,
+      "truth_social": 406
+    },
+    "2026-02": {
+      "x": 1,
+      "truth_social": 377
+    },
+    "2026-03": {
+      "x": 1,
+      "truth_social": 174
+    }
+  }
+}

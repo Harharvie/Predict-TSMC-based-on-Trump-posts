@@ -1,0 +1,306 @@
+{
+  "timestamp": "2026-03-15T06:03:26Z",
+  "x_total": 37,
+  "truth_total": 5306,
+  "both_platforms": 10,
+  "x_only": 27,
+  "truth_only": 5296,
+  "truth_only_ratio": 99.8,
+  "summary": {
+    "en": "Gap Analysis: 10 posts on both platforms, 5296 Truth Social exclusive (99.8% hidden from X)",
+    "zh": "落差分析: 10 篇兩邊都有，5296 篇只在 Truth Social（99.8% 沒放到 X）",
+    "ja": "ギャップ分析: 10件が両方、5296件がTruth Social限定（99.8%がXに非公開）"
+  },
+  "x_only_sample": [
+    {
+      "id": "1862127644222832894",
+      "text": "Happy Thanksgiving to all, including to the Radical Left Lunatics who have worked so hard to destroy our Country, but who have miserably failed, and will always fail, because their ideas and policies ",
+      "created_at": "2024-11-28T13:33:21.000Z",
+      "likes": 821248,
+      "topics": [
+        "celebration/holiday"
+      ]
+    },
+    {
+      "id": "1862281187600793830",
+      "text": "https://t.co/FhHeS8WdrK",
+      "created_at": "2024-11-28T23:43:29.000Z",
+      "likes": 426291,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "1872051253846614426",
+      "text": "https://t.co/dt3qNahL3Q",
+      "created_at": "2024-12-25T22:46:14.000Z",
+      "likes": 1011019,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "1880446012168249386",
+      "text": "My NEW Official Trump Meme is HERE! It’s time to celebrate everything we stand for: WINNING! Join my very special Trump Community. GET YOUR $TRUMP NOW. Go to https://t.co/GX3ZxT5xyq — Have Fun! https:",
+      "created_at": "2025-01-18T02:44:00.000Z",
+      "likes": 397677,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "1892242622623699357",
+      "text": "https://t.co/PMcrOwXejI",
+      "created_at": "2025-02-19T15:59:32.000Z",
+      "likes": 610199,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "1894126415932526802",
+      "text": "https://t.co/9pZeARuStB",
+      "created_at": "2025-02-24T20:45:03.000Z",
+      "likes": 296953,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "1895566669281636846",
+      "text": "https://t.co/Ja8HQTFpf7",
+      "created_at": "2025-02-28T20:08:06.000Z",
+      "likes": 752511,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "1905689237749727368",
+      "text": "https://t.co/i1rW9HroWn",
+      "created_at": "2025-03-28T18:31:34.000Z",
+      "likes": 293383,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "1907782254572470670",
+      "text": "https://t.co/ZoSf5TdLqo",
+      "created_at": "2025-04-03T13:08:29.000Z",
+      "likes": 174210,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "1920519130941170088",
+      "text": "https://t.co/0sUAawNN8S",
+      "created_at": "2025-05-08T16:40:16.000Z",
+      "likes": 95039,
+      "topics": [
+        "other"
+      ]
+    }
+  ],
+  "truth_only_sample": [
+    {
+      "id": "116225502010036899",
+      "text": "The Fake News Media hates to report how well the United States Military has done against Iran, which is totally defeated and wants a deal - But not a deal that I would accept! Thank you for your atten",
+      "created_at": "2026-03-14T03:53:38.890Z",
+      "likes": 14302,
+      "topics": [
+        "tariff/trade",
+        "iran/military",
+        "fake news/media"
+      ]
+    },
+    {
+      "id": "116224634088762061",
+      "text": "Kevin Hern, from the Wonderful State of Oklahoma (where I won all 77 out of 77 Counties, in 2016, 2020, and 2024!), is a Great Patriot, and FANTASTIC Congressman! A true friend of MAGA, Kevin is now r",
+      "created_at": "2026-03-14T00:12:55.424Z",
+      "likes": 7762,
+      "topics": [
+        "iran/military",
+        "border/immigration",
+        "economy/markets",
+        "endorsement",
+        "foreign policy",
+        "energy"
+      ]
+    },
+    {
+      "id": "116224631824988888",
+      "text": "Trump Investment Surge: Trillions Pour Into America As Economic Revival Accelerates: https://thenevadaglobe.com/articles/trump-investment-surge-trillions-pour-into-america-as-economic-revival-accelera",
+      "created_at": "2026-03-14T00:12:20.884Z",
+      "likes": 7882,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116224630912933489",
+      "text": "US Olympic bobsledder surprises Trump, awards him prestigious Order of Ikkos medal: https://nypost.com/2026/03/12/us-news/trump-awarded-prestigious-order-of-ikkos-medal-by-us-olympian-bobsledder/",
+      "created_at": "2026-03-14T00:12:06.964Z",
+      "likes": 8573,
+      "topics": [
+        "iran/military"
+      ]
+    },
+    {
+      "id": "116224629259359835",
+      "text": "Trump honors Virginia mom, farmer at White House Women's History Month event: https://wjla.com/news/local/president-donald-trump-honors-virginia-mom-farmer-white-house-womens-history-month-event-first",
+      "created_at": "2026-03-14T00:11:41.732Z",
+      "likes": 7495,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116224627869912229",
+      "text": "Baltimore woman honored by President Trump during Women's History Month: https://www.wbal.com/baltimore-woman-honored-by-president-trump-during-womens-history-month",
+      "created_at": "2026-03-14T00:11:20.531Z",
+      "likes": 7188,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116224518730089644",
+      "text": "Iran had plans of taking over the entire Middle East, and completely obliterating Israel. JUST LIKE IRAN ITSELF, THOSE PLANS ARE NOW DEAD! President DONALD J. TRUMP",
+      "created_at": "2026-03-13T23:43:35.190Z",
+      "likes": 23836,
+      "topics": [
+        "iran/military"
+      ]
+    },
+    {
+      "id": "116224324444349237",
+      "text": "Moments ago, at my direction, the United States Central Command executed one of the most powerful bombing raids in the History of the Middle East, and totally obliterated every MILITARY target in Iran",
+      "created_at": "2026-03-13T22:54:10.624Z",
+      "likes": 29839,
+      "topics": [
+        "iran/military",
+        "fake news/media",
+        "energy"
+      ]
+    },
+    {
+      "id": "116224183027304989",
+      "text": "It is my Great Honor to endorse America First Patriot, Jon Maples, who is running to represent the wonderful people of Florida's 87th State House District. Jon is a very successful Businessman and Civ",
+      "created_at": "2026-03-13T22:18:12.775Z",
+      "likes": 7344,
+      "topics": [
+        "iran/military",
+        "border/immigration",
+        "economy/markets",
+        "endorsement"
+      ]
+    },
+    {
+      "id": "116224179318558161",
+      "text": "After meeting with Governor Gretchen Whitmer, and hearing from our GREAT Republican Candidate for the United States Senate, Mike Rogers, I approved $100 Million Dollars in Public Assistance to support",
+      "created_at": "2026-03-13T22:17:16.181Z",
+      "likes": 8705,
+      "topics": [
+        "tariff/trade",
+        "endorsement",
+        "foreign policy"
+      ]
+    },
+    {
+      "id": "116223896071757407",
+      "text": "Thank you to Highly Respected America First Congresswoman, Stephanie Bice, of the Great State of Oklahoma, for deciding, because of her love for her Constituents, and for America, itself, to run for R",
+      "created_at": "2026-03-13T21:05:14.178Z",
+      "likes": 10539,
+      "topics": [
+        "endorsement"
+      ]
+    },
+    {
+      "id": "116223780884576729",
+      "text": "I am pleased to announce that Matt Floca, subject to the approval of the Board of Directors, will be named the Chief Operating Officer and Executive Director, of THE TRUMP KENNEDY CENTER where, as Vic",
+      "created_at": "2026-03-13T20:35:56.563Z",
+      "likes": 9666,
+      "topics": [
+        "china",
+        "endorsement"
+      ]
+    },
+    {
+      "id": "116223767250350057",
+      "text": "Maggot Hagerman, just another SLEAZEBAG writer for The Failing New York Times, insists on writing false stories about me, even though she fully knows and understands that the exact opposite of anythin",
+      "created_at": "2026-03-13T20:32:28.520Z",
+      "likes": 24557,
+      "topics": [
+        "fake news/media",
+        "legal/court"
+      ]
+    },
+    {
+      "id": "116223220117412692",
+      "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116223216183546905",
+      "created_at": "2026-03-13T18:13:19.935Z",
+      "likes": 8058,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116223100937937927",
+      "text": "Two renderings of the new, highly improved, TRUMP KENNEDY CENTER!",
+      "created_at": "2026-03-13T17:43:01.403Z",
+      "likes": 10661,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116222200536303389",
+      "text": "Cuba confirms talks with Trump officials, raising hopes for US deal: https://www.usatoday.com/story/news/world/2026/03/13/cuba-confirms-talks-trump-economic-deal/89132765007/",
+      "created_at": "2026-03-13T13:54:02.360Z",
+      "likes": 14371,
+      "topics": [
+        "tariff/trade"
+      ]
+    },
+    {
+      "id": "116222199294615751",
+      "text": "Retired Army general: Iran regime 'fundamentally miscalculated' Trump: https://thehill.com/policy/defense/5777128-jack-keane-iran-regime-trump-administration/",
+      "created_at": "2026-03-13T13:53:43.416Z",
+      "likes": 12103,
+      "topics": [
+        "iran/military"
+      ]
+    },
+    {
+      "id": "116220000279270929",
+      "text": "https://truthsocial.com/@DanScavino/116207137060584916",
+      "created_at": "2026-03-13T04:34:29.141Z",
+      "likes": 11646,
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "id": "116219996530067941",
+      "text": "We are totally destroying the terrorist regime of Iran, militarily, economically, and otherwise, yet, if you read the Failing New York Times, you would incorrectly think that we are not winning. Iran'",
+      "created_at": "2026-03-13T04:33:31.893Z",
+      "likes": 29152,
+      "topics": [
+        "iran/military",
+        "fake news/media",
+        "endorsement"
+      ]
+    },
+    {
+      "id": "116219148622456831",
+      "text": "At Military Academy with my parents, Fred and Mary!",
+      "created_at": "2026-03-13T00:57:53.919Z",
+      "likes": 34392,
+      "topics": [
+        "iran/military"
+      ]
+    }
+  ]
+}

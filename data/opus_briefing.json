@@ -1,0 +1,361 @@
+{
+  "date": "2026-03-24",
+<<<<<<< HEAD
+  "prepared_at": "2026-03-24T22:30:04Z",
+  "status": "PENDING",
+  "today_posts": {
+    "count": 21,
+    "latest": "It is my Great Honor to endorse T.W. Shannon, an America First Patriot who is running for Lieutenant Governor of Oklahoma, a place I love and WON BIG, winning all 77 out of 77 Counties in 2016, 2020, ",
+    "earliest_time": "2026-03-24T04:12:02.575Z",
+    "latest_time": "2026-03-24T19:57:58.291Z",
+    "sample": [
+      {
+        "time": "19:40",
+        "text": "State Senator Gary Byrne is doing a fantastic job representing the incredible people of Indiana's 47th Congressional District! A Highly Respected Businessman, North Harrison School Board Member, and Councilman for Harrison County, prior to becoming a distinguished State Senator, Gary has dedicated h"
+      },
+      {
+        "time": "19:42",
+        "text": "State Senator Daryl Schmidt is doing a tremendous job representing the Great People of Indiana's 48th State Senate District! A Fifth Generation Family Farmer, Daryl is a strong and effective Voice for Indiana Agriculture, and our amazing Farmers and Ranchers. In the State Senate, he is fighting tire"
+      },
+      {
+        "time": "19:42",
+        "text": "State Senator Jim Tomes is an America First Patriot who is doing an incredible job representing Indiana's 49th State Senate District! A Brave U.S. Army Vietnam Veteran, and Chairman of the Indiana Senate Committee on Veterans Affairs and the Military, Jim knows the Wisdom and Courage required to Def"
+      },
+      {
+        "time": "19:45",
+        "text": "Bluffton City Councilman Blake Fiechter, a True America First Patriot, is running against \"RINO\" State Senator Travis Holdman, in Indiana's 19th Senate District who, for whatever reason, voted against Redistricting in Indiana, in a District that I won by 39 points, which puts the United States Congr"
+      },
+      {
+        "time": "19:51",
+        "text": "It is my Great Honor to endorse America First Patriot Tracey Powell, a fantastic Candidate for Indiana's 21st State Senate District (which I won by 24 points!). Tracey is running against a pathetic RINO incumbent named Jim Buck, who, for whatever reason, voted against Redistricting in Indiana, which"
+      },
+      {
+        "time": "19:53",
+        "text": "It is my Great Honor to endorse MAGA Warrior and Fountain County GOP Chair, Paula Copenhaver, a terrific Candidate for Indiana's 23rd State Senate District (which I won by 26 points!). Paula is running against an incompetent and ineffective RINO incumbent named Spencer Deery who, for whatever reason"
+      },
+      {
+        "time": "19:54",
+        "text": "Vigo County Commissioner Brenda Wilson, a Proven America First Patriot, is running against \"No Goode\" Greg Goode (BAD FOR THE U.S.A.!) in the Republican Primary for Indiana's 38th Senate District, which I won by 28 points! \"No Goode\" is an incompetent and ineffective RINO incumbent who, for whatever"
+      },
+      {
+        "time": "19:55",
+        "text": "It is my Great Honor to endorse America First Patriot, Jeff Ellington, a terrific Candidate for Indiana's 39th State Senate District (which I won by a whopping 55 points!). Jeff will be a fantastic replacement for RINO Eric Bassler, who may not even run again because Republicans are so angry with hi"
+      },
+      {
+        "time": "19:55",
+        "text": "It is my Great Honor to endorse State Representative Michelle Davis, a REAL Republican running for Indiana's 41st State Senate District (which I won by 33 points!), against RINO incumbent Greg Walker! Michelle will be a fantastic replacement for Walker who, for whatever reason, voted against Redistr"
+      },
+      {
+        "time": "19:57",
+        "text": "It is my Great Honor to endorse T.W. Shannon, an America First Patriot who is running for Lieutenant Governor of Oklahoma, a place I love and WON BIG, winning all 77 out of 77 Counties in 2016, 2020, and 2024! As the youngest House Speaker in Oklahoma's History, the National Chair of Black Voices fo"
+=======
+  "prepared_at": "2026-03-24T14:58:25Z",
+  "status": "PENDING",
+  "today_posts": {
+    "count": 2,
+    "latest": "Democrats are desperate to keep illegals, no matter how bad or dangerous they me be, in the Country. They want them to VOTE! That's why they are fighting so hard to neutralize ICE. We will fight them ",
+    "earliest_time": "2026-03-24T04:12:02.575Z",
+    "latest_time": "2026-03-24T05:48:38.818Z",
+    "sample": [
+      {
+        "time": "04:12",
+        "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116282191339559931"
+      },
+      {
+        "time": "05:48",
+        "text": "Democrats are desperate to keep illegals, no matter how bad or dangerous they me be, in the Country. They want them to VOTE! That's why they are fighting so hard to neutralize ICE. We will fight them all the way, and WIN!"
+>>>>>>> a7678eae8d971fcb3ceadf48a96c333650c36a37
+      }
+    ]
+  },
+  "today_features": {
+<<<<<<< HEAD
+    "posts_21_35": true,
+    "avg_len_very_long": true,
+    "caps_medium": true,
+    "excl_heavy": true,
+    "questions_no": true,
+    "mostly_open": true,
+    "kw_hereby": true,
+    "kw_hereby_2plus": true,
+    "open_hereby": true,
+    "kw_effective": true,
+    "kw_effective_2plus": true,
+    "open_effective": true,
+    "kw_ban": true,
+    "open_ban": true,
+    "kw_india": true,
+    "kw_india_2plus": true,
+    "open_india": true,
+    "kw_dow": true,
+    "kw_dow_2plus": true,
+    "open_dow": true,
+    "kw_economy": true,
+    "kw_economy_2plus": true,
+    "open_economy": true,
+    "kw_gas": true,
+    "open_gas": true,
+    "kw_energy": true,
+    "kw_energy_2plus": true,
+    "open_energy": true,
+    "kw_jobs": true,
+    "kw_jobs_2plus": true,
+    "open_jobs": true,
+    "kw_great": true,
+    "kw_great_2plus": true,
+    "open_great": true,
+    "kw_tremendous": true,
+    "kw_tremendous_2plus": true,
+    "open_tremendous": true,
+    "kw_incredible": true,
+    "kw_incredible_2plus": true,
+    "open_incredible": true,
+    "kw_amazing": true,
+    "kw_amazing_2plus": true,
+    "open_amazing": true,
+    "kw_fantastic": true,
+    "kw_fantastic_2plus": true,
+    "open_fantastic": true,
+    "kw_wonderful": true,
+    "kw_wonderful_2plus": true,
+    "open_wonderful": true,
+    "kw_corrupt": true,
+    "open_corrupt": true,
+    "kw_incompetent": true,
+    "kw_incompetent_2plus": true,
+    "open_incompetent": true,
+    "kw_pathetic": true,
+    "open_pathetic": true,
+    "kw_vance": true,
+    "kw_vance_2plus": true,
+    "open_vance": true,
+    "kw_maga": true,
+    "kw_maga_2plus": true,
+    "open_maga": true,
+    "kw_america_first": true,
+    "kw_america_first_2plus": true,
+    "open_america_first": true,
+    "kw_never_let_you_down": true,
+    "kw_never_let_you_down_2plus": true,
+    "open_never_let_you_down": true,
+    "kw_complete_and_total": true,
+    "kw_complete_and_total_2plus": true,
+    "open_complete_and_total": true,
+    "volume_spike": true
+=======
+    "posts_1_5": true,
+    "avg_len_short": true,
+    "caps_low": true,
+    "excl_normal": true,
+    "questions_no": true,
+    "mostly_premarket": true,
+    "volume_drop": true
+>>>>>>> a7678eae8d971fcb3ceadf48a96c333650c36a37
+  },
+  "model_performance": {
+    "A1_tariff_bearish": {
+      "name": "盤中關稅→隔天跌",
+      "win_rate": 56.5,
+      "avg_return": -0.758,
+      "total_trades": 23
+    },
+    "A2_deal_bullish": {
+      "name": "DEAL 出現→隔天漲",
+      "win_rate": 52.2,
+      "avg_return": 0.029,
+      "total_trades": 90
+    },
+    "A3_relief_rocket": {
+      "name": "盤前 RELIEF→當天飆",
+      "win_rate": 72.7,
+      "avg_return": 1.206,
+      "total_trades": 11
+    },
+    "B1_triple_signal": {
+      "name": "三信號齊發→買3天",
+      "win_rate": 64.7,
+      "avg_return": 0.597,
+      "total_trades": 17
+    },
+    "B2_tariff_to_deal": {
+      "name": "連3天關稅→出現Deal→轉折",
+      "win_rate": 57.9,
+      "avg_return": 0.721,
+      "total_trades": 19
+    },
+    "B3_action_pre": {
+      "name": "盤前 ACTION+正面情緒→漲",
+      "win_rate": 66.7,
+      "avg_return": 0.199,
+      "total_trades": 33
+    },
+    "C1_burst_silence": {
+      "name": "轟炸→長沉默→做多",
+      "win_rate": 65.3,
+      "avg_return": 0.145,
+      "total_trades": 176
+    },
+    "C2_brag_top": {
+      "name": "炫耀股市→短期到頂",
+      "win_rate": 45.0,
+      "avg_return": 0.105,
+      "total_trades": 60
+    },
+    "C3_night_alert": {
+      "name": "深夜關稅推文→開盤跳空",
+      "win_rate": 37.5,
+      "avg_return": -0.414,
+      "total_trades": 8
+    },
+    "D2_sig_change": {
+      "name": "簽名切換→正式聲明",
+      "win_rate": 70.0,
+      "avg_return": 0.472,
+      "total_trades": 80
+    },
+    "D3_volume_spike": {
+      "name": "發文量暴增→恐慌底部",
+      "win_rate": 70.2,
+      "avg_return": 0.306,
+      "total_trades": 47
+    }
+  },
+  "recent_wrong": [
+    {
+      "model": "C1_burst_silence",
+      "date": "2026-03-05",
+      "direction": "LONG",
+      "actual_return": -1.621
+    },
+    {
+      "model": "A2_deal_bullish",
+      "date": "2026-03-10",
+      "direction": "LONG",
+      "actual_return": -0.305
+    },
+    {
+      "model": "C1_burst_silence",
+      "date": "2026-03-11",
+      "direction": "LONG",
+      "actual_return": -1.73
+    },
+    {
+      "model": "A2_deal_bullish",
+      "date": "2026-03-13",
+      "direction": "LONG",
+      "actual_return": -0.619
+    },
+    {
+      "model": "C1_burst_silence",
+      "date": "2026-03-13",
+      "direction": "LONG",
+      "actual_return": -0.619
+    }
+  ],
+  "learning_summary": {
+    "promoted": 4,
+    "demoted": 1,
+    "eliminated": 1,
+    "signal_adjusted": 1
+  },
+  "evolution_latest": {
+    "date": "2026-03-24",
+<<<<<<< HEAD
+    "crossover": 15,
+    "mutation": 12,
+    "distill": 17,
+    "total_new": 44,
+=======
+    "crossover": 16,
+    "mutation": 9,
+    "distill": 17,
+    "total_new": 42,
+>>>>>>> a7678eae8d971fcb3ceadf48a96c333650c36a37
+    "total_rules_after": 600,
+    "top_3": [
+      {
+        "features": [
+<<<<<<< HEAD
+          "kw_tremendous",
+          "kw_thank_you_for_your_attention",
+          "is_friday",
+          "kw_tariff"
+=======
+          "kw_tariffs",
+          "kw_thank_you_for_your_attention",
+          "is_friday",
+          "kw_tremendous"
+>>>>>>> a7678eae8d971fcb3ceadf48a96c333650c36a37
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 100.0,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+<<<<<<< HEAD
+          "kw_immediately",
+          "kw_beautiful",
+          "volume_falling_3d"
+        ],
+        "direction": "LONG",
+        "hold": 2,
+        "score": 92.9,
+        "origin": "mutation_replace"
+      },
+      {
+        "features": [
+          "kw_tariffs",
+          "open_incredible",
+          "kw_thank_you_for_your_attention"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 90.0,
+=======
+          "kw_jobs",
+          "is_friday",
+          "kw_thank_you_for_your_attention"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 87.5,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+          "kw_economy",
+          "kw_signed",
+          "questions_yes"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 85.0,
+>>>>>>> a7678eae8d971fcb3ceadf48a96c333650c36a37
+        "origin": "crossover"
+      }
+    ]
+  },
+  "signal_confidence": {
+    "TARIFF": 0.7,
+    "DEAL": 0.55,
+    "RELIEF": 0.95,
+    "ACTION": 0.919,
+    "THREAT": 0.6,
+    "CHINA": 0.6,
+    "IRAN": 0.55,
+    "TARIFF_ONLY": 0.7,
+    "DEAL_ONLY": 0.65
+  },
+  "prediction_market": {
+    "date": "2026-03-23",
+    "signals": [
+      "DEAL",
+      "IRAN",
+      "DEAL_ONLY"
+    ],
+    "opportunities": [],
+    "total_scanned": 0
+  }
+}

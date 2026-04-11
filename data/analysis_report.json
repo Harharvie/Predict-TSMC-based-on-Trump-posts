@@ -1,0 +1,139 @@
+{
+  "generated_at": "2026-03-18",
+  "headline": {
+    "en": "Trump Code's Wild Ride: Models Mixed, Proceed with Caution!",
+    "zh": "川普密碼雲霄飛車：模型訊號雜亂，小心駕駛！",
+    "ja": "トランプコードのジェットコースター：モデルは混在、慎重に進め！"
+  },
+  "tldr": {
+    "en": "March's been a tough month for Trump Code. Recent performance is down, especially on long positions. Proceed carefully, and maybe lighten up on the longs for now.",
+    "zh": "三月對川普密碼來說是硬仗。最近表現下滑，尤其是做多。小心點，可能暫時減少做多。",
+    "ja": "3月はトランプコードにとって厳しい月となりました。最近のパフォーマンスは低下しており、特にロングポジションで顕著です。慎重に進み、当面はロングを減らすのが良いかもしれません。"
+  },
+  "findings": [
+    {
+      "emoji": "🏆",
+      "title": {
+        "en": "D2_sig_change is crushing it",
+        "zh": "D2_sig_change 輾壓全場",
+        "ja": "D2_sig_changeが圧倒的"
+      },
+      "body": {
+        "en": "The D2_sig_change model, which looks at signature changes leading to formal statements, is the star right now. It boasts a 70% hit rate and an impressive 0.472 average return. Seems like Trump telegraphing official positions is a reliable signal.",
+        "zh": "D2_sig_change 模型，專注於簽名變更到正式聲明，現在是明星。命中率高達70%，平均回報率也很棒，有0.472。看來川普發出官方立場是可靠的訊號。",
+        "ja": "署名の変更から公式声明につながるD2_sig_changeモデルが、今のところ一番良い結果を出しています。ヒット率は70％、平均リターンも0.472と素晴らしいです。トランプが公式な立場を伝えることは信頼できるシグナルのようです。"
+      }
+    },
+    {
+      "emoji": "🏆",
+      "title": {
+        "en": "Relief Rallies Still Pay",
+        "zh": "RELIEF 反彈仍然有效",
+        "ja": "RELIEFラリーはまだ有効"
+      },
+      "body": {
+        "en": "The 'A3_relief_rocket' model, which triggers on pre-market 'RELIEF' tweets, is still solid gold. 72.7% hit rate and a whopping 1.206 average return. When Trump signals relief, markets still pop.",
+        "zh": "'A3_relief_rocket' 模型，在盤前 'RELIEF' 推文觸發，仍然穩如泰山。72.7% 命中率，平均回報率高達1.206。當川普發出寬慰訊號，市場還是會噴。",
+        "ja": "プレマーケットの「RELIEF」ツイートでトリガーされる「A3_relief_rocket」モデルは、依然として非常に優れています。ヒット率は72.7％、平均リターンは1.206と非常に高いです。トランプが安心感を示すシグナルを送ると、市場はやはり上昇します。"
+      }
+    },
+    {
+      "emoji": "🏆",
+      "title": {
+        "en": "Volume Spikes = Panic Bottoms?",
+        "zh": "發文量暴增 = 恐慌底部？",
+        "ja": "ツイート数の急増＝パニックの底？"
+      },
+      "body": {
+        "en": "The 'D3_volume_spike' model is interesting. It suggests that a surge in Trump's tweet volume often indicates a panic bottom. With a 70.2% hit rate and 0.306 average return, it's worth watching.",
+        "zh": "'D3_volume_spike' 模型很有意思。它暗示川普推文量激增通常表示恐慌底部。命中率70.2%，平均回報率0.306，值得關注。",
+        "ja": "「D3_volume_spike」モデルは興味深いです。トランプのツイート数が急増すると、パニックの底を示すことが多いことを示唆しています。ヒット率70.2％、平均リターン0.306で、注目する価値があります。"
+      }
+    },
+    {
+      "emoji": "🏆",
+      "title": {
+        "en": "Pre-Market Action Still Works",
+        "zh": "盤前 ACTION 還是有效",
+        "ja": "プレマーケットのACTIONは依然として有効"
+      },
+      "body": {
+        "en": "The 'B3_action_pre' model, focusing on pre-market 'ACTION' tweets combined with positive sentiment, is also performing well. It boasts a 66.7% hit rate and an average return of 0.199. Trump signaling action before the market opens seems to be a reliable bullish indicator.",
+        "zh": "'B3_action_pre' 模型，專注於盤前 'ACTION' 推文加上正面情緒，表現也不錯。命中率66.7%，平均回報率0.199。川普在開市前發出行動訊號，似乎是可靠的看漲指標。",
+        "ja": "プレマーケットの「ACTION」ツイートとポジティブなセンチメントに焦点を当てた「B3_action_pre」モデルも、良好なパフォーマンスを示しています。ヒット率は66.7％、平均リターンは0.199です。トランプが市場が開く前にアクションのシグナルを送ることは、信頼できる強気指標のようです。"
+      }
+    },
+    {
+      "emoji": "🏆",
+      "title": {
+        "en": "Triple Signal, Big Payday",
+        "zh": "三信號齊發，大豐收",
+        "ja": "トリプルシグナル、大きな報酬"
+      },
+      "body": {
+        "en": "The 'B1_triple_signal' model, though based on only 17 trades, is crushing it. A 64.7% hit rate with an average return of 0.597. When you see three signals aligned, it's time to buy for 3 days.",
+        "zh": "'B1_triple_signal' 模型，雖然只有17筆交易，但表現驚人。命中率64.7%，平均回報率0.597。當你看到三個信號一致，就是買入3天的時機。",
+        "ja": "「B1_triple_signal」モデルは、取引数がわずか17件ですが、素晴らしい結果を出しています。ヒット率は64.7％、平均リターンは0.597です。3つのシグナルが揃った時は、3日間買いを入れる時です。"
+      }
+    },
+    {
+      "emoji": "🏆",
+      "title": {
+        "en": "Tariff to Deal Still Solid",
+        "zh": "關稅到協議仍然堅挺",
+        "ja": "関税から取引へは依然として堅調"
+      },
+      "body": {
+        "en": "The 'B2_tariff_to_deal' model is still pretty solid, despite the market weirdness. A 57.9% hit rate with an average return of 0.721. When we see 3 days of tariffs, and THEN a deal, expect a reversal.",
+        "zh": "'B2_tariff_to_deal' 模型依然非常堅挺，儘管市場詭異。命中率57.9%，平均回報率0.721。當我們看到3天的關稅，然後達成協議，預計會出現反轉。",
+        "ja": "「B2_tariff_to_deal」モデルは、市場が不安定にもかかわらず、依然としてかなり堅調です。ヒット率は57.9％、平均リターンは0.721です。3日間の関税の後、取引が成立した場合は、反転を予想してください。"
+      }
+    }
+  ],
+  "warnings": [
+    {
+      "emoji": "⚠️",
+      "title": {
+        "en": "Long Positions in Trouble",
+        "zh": "做多遇到麻煩",
+        "ja": "ロングポジションは苦戦中"
+      },
+      "body": {
+        "en": "Our long hit rate is currently 62.8%, significantly higher than the short hit rate of 47.3%. Be careful with long positions; the market isn't rewarding them right now. Focus on SHORT opportunities.",
+        "zh": "我們做多的命中率目前為62.8%，遠高於做空的47.3%。做多要小心；現在市場不太獎勵做多。專注於做空機會。",
+        "ja": "現在のロングのヒット率は62.8％で、ショートの47.3％よりも大幅に高くなっています。ロングポジションには注意が必要です。現在の市場はロングに報いていません。ショートの機会に焦点を当ててください。"
+      }
+    },
+    {
+      "emoji": "⚠️",
+      "title": {
+        "en": "Burst-Silence Model Struggling",
+        "zh": "爆炸-沉默 模型苦赣",
+        "ja": "破装-沈黙 モデルが苦戦"
+      },
+      "body": {
+        "en": "The 'C1_burst_silence' model, which looks for rallies after periods of silence, is underperforming. It's had a high trade volume (176 trades) but recent results have been poor. Re-evaluate this one.",
+        "zh": "「C1_burst_silence」模型，尋找沉默期後反彈，表現不佳。交易量很大 (176 筆交易)，但最近結果很差。重新評估。",
+        "ja": "沈黙期間後のラリーを探す「C1_burst_silence」モデルは、パフォーマンスが低下しています。取引量は多い（176件）ですが、最近の結果は良くありません。再評価が必要です。"
+      }
+    },
+    {
+      "emoji": "⚠️",
+      "title": {
+        "en": "Bragging Rights? More Like Shorting Rights",
+        "zh": "炫耀權？更像做空權",
+        "ja": "自慢する権利？むしろショートする権利"
+      },
+      "body": {
+        "en": "The 'C2_brag_top' model has a low hit rate of 45%, but when it's right, it's REALLY right. Consider this one a high-risk, high-reward play. And it's been RIGHT lately.",
+        "zh": "「C2_brag_top」模型的命中率很低，只有 45%，但如果正確，那就真的正確了。將此視為高風險、高回報的遊戲。而且最近是對的。",
+        "ja": "「C2_brag_top」モデルのヒット率は45％と低いですが、当たると本当に当たります。これはハイリスク・ハイリターンのプレイと考えてください。そして最近は当たっています。"
+      }
+    }
+  ],
+  "bottom_line": {
+    "en": "Trump Code is showing mixed signals. Favor short positions and carefully monitor the D2_sig_change model.",
+    "zh": "川普密碼顯示訊號雜亂。偏好做空，並仔細監控 D2_sig_change 模型。",
+    "ja": "トランプコードは混在したシグナルを示しています。ショートポジションを優先し、D2_sig_changeモデルを注意深く監視してください。"
+  }
+}
