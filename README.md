@@ -13,18 +13,6 @@
 
 ## 核心發現
 
-### S&P 500 分析
-|  | 發現 | 數據依據 | 市場影響 |
-|---|------|----------|----------|
-| 1 | **盤前 RELIEF = 最強買入訊號** | 2025/4/9：S&P +9.52% | 平均 +1.12% |
-| 2 | **TARIFF → 放空正確率僅 30%** | 熔斷器分析 | 自動反轉做多 |
-| 3 | **中國訊號只在 Truth Social** | 203 篇 TS / X 零篇 | 權重提升 1.5 倍 |
-| 4 | **Truth Social 比 X 早 6.2 小時** | 38/39 篇吻合 | 6 小時套利窗口 |
-| 5 | **純關稅日最危險** | 4/3：-4.84%，4/4：-5.97% | 平均 -1.057% |
-| 6 | **4 訊號組合最高獲利** | 12 次出現，66.7% 上漲 | 平均 +2.792% |
-| 7 | **沉默日八成看多** | 零貼文日分析 | 平均 +0.409% |
-| 8 | **深夜關稅反指標** | 62% 預測錯 → 反向操作 62% 正確 | 自動反轉 |
-
 ### 台積電 (2330.TW) 分析
 | 時段 (台灣時間) | 篇數 | 當日 2330 | 隔日 2330 |
 |----------------|------|-----------|-----------|
@@ -136,6 +124,27 @@ python realtime_loop.py
 # 儀表板 + 聊天機器人
 export GEMINI_KEYS="key1,key2,key3"
 python chatbot_server.py  # http://localhost:8888
+
+或是
+pip install pyngrok -q
+from pyngrok import ngrok
+ngrok.set_auth_token("your token")
+
+import os
+import subprocess
+import threading
+import time
+
+# 設定 Gemini Key（可填多組，用逗號分隔）
+os.environ["GEMINI_KEYS"] = "your key"
+
+# 用 thread 在背景啟動 server（因為它會 blocking）
+def run_server():
+    subprocess.run(["python3", "chatbot_server.py"])
+
+thread = threading.Thread(target=run_server, daemon=True)
+thread.start()
+public_url = ngrok.connect(8888)
 ```
 
 ## CLI 指令
