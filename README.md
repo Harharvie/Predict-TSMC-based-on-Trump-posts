@@ -3,6 +3,7 @@
 # Trump Posts Market Signal Detector
 </div>
 川普是全球唯一能用一則社群貼文撼動市場的人。這個專案透過暴力搜尋，找出他發文行為與股市走勢的統計規律。
+本專案修改自https://github.com/sstklen/trump-code。僅為個人用途。
 
 - 分析 **5591 則 Truth Social 貼文**（三來源交叉驗證）
 - 暴力搜尋 **3,150 萬種模型組合**
