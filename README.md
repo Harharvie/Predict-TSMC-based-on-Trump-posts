@@ -3,8 +3,10 @@
 # Trump Posts Market Signal Detector
 </div>
 川普是全球唯一能用一則社群貼文撼動市場的人。這個專案透過暴力搜尋，找出他發文行為與股市走勢的統計規律。
-本專案修改自https://github.com/sstklen/trump-code。僅為個人用途。
+本專案修改自:https://github.com/sstklen/trump-code
+原作者:tkman
 
+- 本專案僅為個人用途，驗證原作者的策略是否具備泛化能力，將研究標的從標普500改成台積電2330.TW
 - 分析 **5591 則 Truth Social 貼文**（三來源交叉驗證）
 - 暴力搜尋 **3,150 萬種模型組合**
 - **551 條存活規則**通過訓練/測試集雙驗證
@@ -161,7 +163,7 @@ python trump_code_cli.py health    # 系統狀態
 
 | 檔案 | 說明 |
 |------|------|
-| `trump_posts_all.json` | 7,400+ Truth Social 貼文 |
+| `trump_posts_all.json` | 5591筆 Truth Social 貼文 |
 | `predictions_log.json` | 566 筆驗收預測 |
 | `surviving_rules.json` | 551 條活躍規則 |
 | `market_2330TW.json` | 台積電歷史資料 |
