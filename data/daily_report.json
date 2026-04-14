@@ -1,15 +1,13 @@
 {
-  "date": "2026-04-13",
-  "generated_at": "2026-04-13T15:15:38Z",
-  "posts_today": 16,
+  "date": "2026-04-14",
+  "generated_at": "2026-04-14T15:12:41Z",
+  "posts_today": 10,
   "latest_post": {
-    "time": "2026-04-13T14:23",
-    "content_preview": "Iran's Navy is laying at the bottom of the sea, completely obliterated - 158 ships. What we have not"
+    "time": "2026-04-14T14:30",
+    "content_preview": "Europe is desperate for Energy, and yet the United Kingdom refuses to open North Sea Oil, one of the"
   },
   "signals_detected": [
-    "DEAL",
-    "IRAN",
-    "DEAL_ONLY"
+    "IRAN"
   ],
   "models_triggered": 0,
   "direction_summary": {
@@ -23,13 +21,13 @@
     "rate": 0.0
   },
   "sp500_latest": {
-    "date": "2026-04-13",
-    "close": 6825.53
+    "date": "2026-04-14",
+    "close": 6935.12
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-04-13\nPosts today: 16 | Models triggered: 0\nSignals: DEAL, IRAN, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: Iran's Navy is laying at the bottom of the sea, completely obliterated - 158 ships. What we have not",
-    "zh": "川普密碼每日報告 -- 2026-04-13\n今日推文: 16 篇 | 觸發模型: 0 組\n偵測信號: Deal, 伊朗, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: Iran's Navy is laying at the bottom of the sea, completely obliterated - 158 ships. What we have not",
-    "ja": "トランプ・コード日次レポート -- 2026-04-13\n本日の投稿: 16件 | トリガーモデル: 0組\n検出シグナル: ディール, イラン, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: Iran's Navy is laying at the bottom of the sea, completely obliterated - 158 ships. What we have not"
+    "en": "Trump Code Daily Report -- 2026-04-14\nPosts today: 10 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: Europe is desperate for Energy, and yet the United Kingdom refuses to open North Sea Oil, one of the",
+    "zh": "川普密碼每日報告 -- 2026-04-14\n今日推文: 10 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: Europe is desperate for Energy, and yet the United Kingdom refuses to open North Sea Oil, one of the",
+    "ja": "トランプ・コード日次レポート -- 2026-04-14\n本日の投稿: 10件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: Europe is desperate for Energy, and yet the United Kingdom refuses to open North Sea Oil, one of the"
   },
   "triggered_rules_sample": []
 }
