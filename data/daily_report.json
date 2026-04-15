@@ -1,19 +1,20 @@
 {
-  "date": "2026-04-14",
-  "generated_at": "2026-04-14T15:12:41Z",
-  "posts_today": 10,
+  "date": "2026-04-15",
+  "generated_at": "2026-04-15T15:05:03Z",
+  "posts_today": 13,
   "latest_post": {
-    "time": "2026-04-14T14:30",
-    "content_preview": "Europe is desperate for Energy, and yet the United Kingdom refuses to open North Sea Oil, one of the"
+    "time": "2026-04-15T14:16",
+    "content_preview": "I am working very hard with our Great Speaker, Mike Johnson, along with Chairman Jim Jordan and Chai"
   },
   "signals_detected": [
+    "CHINA",
     "IRAN"
   ],
-  "models_triggered": 0,
+  "models_triggered": 1,
   "direction_summary": {
-    "LONG": 0,
+    "LONG": 1,
     "SHORT": 0,
-    "consensus": "NEUTRAL"
+    "consensus": "BULLISH"
   },
   "historical_hit_rate": {
     "verified": 0,
@@ -21,13 +22,25 @@
     "rate": 0.0
   },
   "sp500_latest": {
-    "date": "2026-04-14",
-    "close": 6935.12
+    "date": "2026-04-15",
+    "close": 6993.19
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-04-14\nPosts today: 10 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: Europe is desperate for Energy, and yet the United Kingdom refuses to open North Sea Oil, one of the",
-    "zh": "川普密碼每日報告 -- 2026-04-14\n今日推文: 10 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: Europe is desperate for Energy, and yet the United Kingdom refuses to open North Sea Oil, one of the",
-    "ja": "トランプ・コード日次レポート -- 2026-04-14\n本日の投稿: 10件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: Europe is desperate for Energy, and yet the United Kingdom refuses to open North Sea Oil, one of the"
+    "en": "Trump Code Daily Report -- 2026-04-15\nPosts today: 13 | Models triggered: 1\nSignals: CHINA, IRAN\nConsensus: 1 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: I am working very hard with our Great Speaker, Mike Johnson, along with Chairman Jim Jordan and Chai",
+    "zh": "川普密碼每日報告 -- 2026-04-15\n今日推文: 13 篇 | 觸發模型: 1 組\n偵測信號: 中國, 伊朗\n共識方向: 1 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: I am working very hard with our Great Speaker, Mike Johnson, along with Chairman Jim Jordan and Chai",
+    "ja": "トランプ・コード日次レポート -- 2026-04-15\n本日の投稿: 13件 | トリガーモデル: 1組\n検出シグナル: 中国, イラン\nコンセンサス: 1組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: I am working very hard with our Great Speaker, Mike Johnson, along with Chairman Jim Jordan and Chai"
   },
-  "triggered_rules_sample": []
+  "triggered_rules_sample": [
+    {
+      "features": [
+        "kw_china",
+        "kw_corrupt",
+        "kw_economy"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    }
+  ]
 }
